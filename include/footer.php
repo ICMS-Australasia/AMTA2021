@@ -8,6 +8,9 @@
     <li><strong>Registration opens</strong> September 2020</li>
     <li class="event"><strong>AMTA 2020 Conference</strong> 7 - 15 November 2020</li>
   </ul>
+  <h2 class='mt-5'>AMTA 2020 Sponsors</h2>
+  <img src="./img/sponsors/sound-expression.png" class="img-fluid p-4">
+  <img src="./img/sponsors/mto.png" class="img-fluid p-4">
 
 </div>
 </div>
