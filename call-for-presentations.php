@@ -3,7 +3,7 @@ $title = "Call for Presentations";
 include('include/header.php');
 ?>
 
-<a href="https://icmsaust.eventsair.com/australian-music-therapy-association-46th-national-conference-pds/presentationsubmissionportal" class="button" target="_blank">Submit an abstract</a>
+<a style="color: white" class="button" target="_blank">The AMTA 2020 Call for presentations has now closed.</a>
 
 <h2>Conference theme</h2>
 
