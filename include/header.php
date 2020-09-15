@@ -71,15 +71,13 @@ if ($title == 'Welcome') {
                 <li class="nav-item <?php if( in_array($title, array("Committee")) ) { echo "active"; }?>">
                   <a class="nav-link" href="committee">Committee</a>
                 </li>
-                <!--li class="nav-item dropdown <?php if( in_array($title, array("Welcome", "Committee")) ) { echo "active"; }?>"> <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown"
-                    aria-haspopup="true" aria-expanded="false"><i class="fas fa-home"></i><i class="far fa-angle-down"></i></a>
+                <li class="nav-item dropdown <?php if( in_array($title, array("Keynote Speakers", "Leaders in Conversation", "PDS Speakers")) ) { echo "active"; }?>"> <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown"
+                    aria-haspopup="true" aria-expanded="false">Speakers<i class="far fa-angle-down"></i></a>
                   <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                    <a class="dropdown-item" href="./">Welcome</a>
-                    <a class="dropdown-item" href="committee">Committee</a>
+                    <a class="dropdown-item" href="keynote-speakers">Keynote Speakers</a>
+                    <a class="dropdown-item" href="leaders-in-conversation">Leaders in Conversation</a>
+                    <a class="dropdown-item" href="pds-speakers">PDS Speakers</a>
                   </div>
-                </li-->
-                <li class="nav-item <?php if( in_array($title, array("Keynote Speakers")) ) { echo "active"; }?>">
-                  <a class="nav-link" href="keynote-speakers">Keynote Speakers</a>
                 </li>
                 <li class="nav-item <?php if( in_array($title, array("Call for Presentations")) ) { echo "active"; }?>">
                   <a class="nav-link" href="call-for-presentations">Call for Presentations</a>
