@@ -11,9 +11,8 @@ include('include/header.php');
 <p>All fees are quoted in Australian dollars ($AUD) and are inclusive of 10% GST (Goods and Services Tax).</p>
 
 <table class="rego-table" cellpadding="10" cellspacing="10" border="0">
-    <tr align="center">
-        <th></th>
-        <th><b>Virtual Professional Development Seminar Registration</b> <br>
+    <tr>
+        <th colspan="2"><b>Virtual Professional Development Seminar Registration</b> <br>
             <em>Saturday 7 November 2020</em></th>
     </tr>
     <tr>
@@ -24,9 +23,8 @@ include('include/header.php');
         <td>PDS First Nations Registration</td>
         <td align="center">$0</td>
     </tr>
-    <tr align="center">
-        <th></th>
-        <th><b>Virtual Conference Registration</b> <br>
+    <tr>
+        <th colspan="2"><b>Virtual Conference Registration</b> <br>
             <em>Sunday 8 November 2020 - Sunday 15 November</em></th>
     </tr>
 
@@ -45,7 +43,7 @@ include('include/header.php');
         <td>1 x Session registration member*</td>
         <td align="center">$60 AUD</td>
     </tr>
-    <tr align="center">
+    <tr>
         <td colspan="2"><em>*Session/s will require selection via the online registration form</em></td>
     </tr>
 
@@ -62,9 +60,9 @@ include('include/header.php');
     </tr>
     <tr>
         <td>1 x Session registration non-member*</td>
-        <td align="center">$75 AUD</td>
+        <td align="center">$70 AUD</td>
     </tr>
-    <tr align="center">
+    <tr>
         <td colspan="2"><em>*Session/s will require selection via the online registration form</em></td>
     </tr>
 
@@ -83,7 +81,7 @@ include('include/header.php');
         <td>1 x Session registration student*</td>
         <td align="center">$30 AUD</td>
     </tr>
-    <tr align="center">
+    <tr>
         <td colspan="2"><em>*Session/s will require selection via the online registration form</em></td>
     </tr>
 
@@ -102,7 +100,7 @@ include('include/header.php');
         <td>1 x Session registration first nations*</td>
         <td align="center">$0</td>
     </tr>
-    <tr align="center">
+    <tr>
         <td colspan="2"><em>*Session/s will require selection via the online registration form</em></td>
     </tr>
 
