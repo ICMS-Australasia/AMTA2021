@@ -72,7 +72,7 @@ if ($title == 'Welcome') {
                   <a class="nav-link" href="committee">Committee</a>
                 </li>
                 <li class="nav-item dropdown <?php if( in_array($title, array("Keynote Speakers", "Leaders in Conversation", "PDS Speakers")) ) { echo "active"; }?>"> <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown"
-                    aria-haspopup="true" aria-expanded="false">Speakers<i class="far fa-angle-down"></i></a>
+                    aria-haspopup="true" aria-expanded="false">Speakers<i class="fas fa-angle-down"></i></a>
                   <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                     <a class="dropdown-item" href="keynote-speakers">Keynote Speakers</a>
                     <a class="dropdown-item" href="leaders-in-conversation">Leaders in Conversation</a>
@@ -82,22 +82,18 @@ if ($title == 'Welcome') {
                 <li class="nav-item <?php if( in_array($title, array("Call for Presentations")) ) { echo "active"; }?>">
                   <a class="nav-link" href="call-for-presentations">Call for Presentations</a>
                 </li>
-                <!--li class="nav-item dropdown <?php if( in_array($title, array("Program/Schedule", "Keynote Speakers","Social Program")) ) { echo "active"; }?>"> <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
-                    data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Program<i class="far fa-angle-down"></i></a>
+                <li class="nav-item dropdown <?php if( in_array($title, array("Event Registration", "Privacy Policy")) ) { echo "active"; }?>"> <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
+                    data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Registration<i class="fas fa-angle-down"></i></a>
                   <div class="dropdown-menu">
-                    <a class="dropdown-item" href="program-schedule">Program/Schedule</a>
-                    <a class="dropdown-item" href="keynote-speakers">Keynote Speakers</a>
-                    <a class="dropdown-item" href="social-program">Social Program</a>
+                    <a class="dropdown-item" href="event-registration">Event Registration</a>
+                    <a class="dropdown-item" href="privacy-policy">Privacy Policy</a>
                   </div>
-                </li-->
-                <li class="nav-item <?php if( in_array($title, array("Event Registration")) ) { echo "active"; }?>">
-                  <a class="nav-link" href="event-registration">Event Registration</a>
                 </li>
                 <li class="nav-item <?php if( in_array($title, array("Conference Sponsorship Opportunities")) ) { echo "active"; }?>">
                   <a class="nav-link" href="sponsorship-and-exhibition-opportunities">Sponsorship</a>
                 </li>
                 <!--li class="nav-item dropdown <?php if( in_array($title, array("Event Registration", "Accommodation", "Privacy Policy")) ) { echo "active"; }?>"> <a class="nav-link dropdown-toggle" href="#" id="Participations" role="button"
-                    data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Registration<i class="far fa-angle-down"></i></a>
+                    data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Registration<i class="fas fa-angle-down"></i></a>
                   <div class="dropdown-menu">
                     <a class="dropdown-item" href="event-registration">Event Registration</a>
                     <a class="dropdown-item" href="accommodation">Accommodation</a>
@@ -105,7 +101,7 @@ if ($title == 'Welcome') {
                   </div>
                 </li-->
                 <!--li class="nav-item dropdown <?php if( in_array($title, array("Sponsorship & Exhibition Opportunities", "Confirmed Sponsors")) ) { echo "active"; }?>"> <a class="nav-link dropdown-toggle" href="#" id="Participations" role="button"
-                    data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Sponsorship & Exhibition<i class="far fa-angle-down"></i></a>
+                    data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Sponsorship & Exhibition<i class="fas fa-angle-down"></i></a>
                   <div class="dropdown-menu">
                     <a class="dropdown-item" href="sponsorship-and-exhibition-opportunities">Sponsorship & Exhibition Opportunities</a>
                     <a class="dropdown-item" href="confirmed-sponsors">Confirmed Sponsors</a>

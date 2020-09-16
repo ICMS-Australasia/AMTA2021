@@ -209,6 +209,12 @@ body {
 .content .modal-content p:last-of-type {
   margin-bottom: 0 !important;
 }
+.content .rego-table th {
+  background-color: #EEEEDA;
+}
+.content .rego-table td {
+  border-bottom: 1px solid #e0e0e0;
+}
 .content .sidebar h2 {
   margin-top: 0;
   font-size: 1.75em;

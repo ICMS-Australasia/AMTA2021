@@ -4,7 +4,7 @@
   <ul class="dates">
     <li><strong>Call for Presentations</strong> <a href="call-for-presentations">Closed</a></li>
     <li><strong>Notification to authors</strong> 7 September 2020</li>
-    <li><strong>Registration opens</strong> September 2020</li>
+    <li><strong>Registration</strong> Now open!</li>
     <li class="event"><strong>AMTA 2020 Conference</strong> 7 - 15 November 2020</li>
   </ul>
   <?php if ($title != "Conference Sponsorship Opportunities") { ?>
