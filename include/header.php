@@ -85,7 +85,7 @@ if ($title == 'Welcome') {
                 <li class="nav-item dropdown <?php if( in_array($title, array("Event Registration", "Privacy Policy")) ) { echo "active"; }?>"> <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
                     data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Registration<i class="fas fa-angle-down"></i></a>
                   <div class="dropdown-menu">
-                    <a class="dropdown-item" href="event-registration">Event Registration</a>
+                    <!-- <a class="dropdown-item" href="event-registration">Event Registration</a> -->
                     <a class="dropdown-item" href="privacy-policy">Privacy Policy</a>
                   </div>
                 </li>
