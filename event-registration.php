@@ -39,14 +39,14 @@ include('include/header.php');
     </tr>
     <tr>
         <td>3 x Session registration member*</td>
-        <td align="center">$160 AUD</td>
+        <td align="center">Available Soon</td>
     </tr>
     <tr>
         <td>1 x Session registration member*</td>
-        <td align="center">$60 AUD</td>
+        <td align="center">Available Soon</td>
     </tr>
     <tr>
-        <td colspan="2"><em>*Session/s will require selection via the online registration form</em></td>
+        <td colspan="2"><em>*Session registration will be available after the final program is released.</em></td>
     </tr>
 
     <tr>
@@ -58,14 +58,14 @@ include('include/header.php');
     </tr>
     <tr>
         <td>3 x Session registration non-member*</td>
-        <td align="center">$190 AUD</td>
+        <td align="center">Available Soon</td>
     </tr>
     <tr>
         <td>1 x Session registration non-member*</td>
-        <td align="center">$70 AUD</td>
+        <td align="center">Available Soon</td>
     </tr>
     <tr>
-        <td colspan="2"><em>*Session/s will require selection via the online registration form</em></td>
+        <td colspan="2"><em>*Session registration will be available after the final program is released.</em></td>
     </tr>
 
     <tr>
@@ -77,14 +77,14 @@ include('include/header.php');
     </tr>
     <tr>
         <td>3 x Session registration student*</td>
-        <td align="center">$80 AUD</td>
+        <td align="center">Available Soon</td>
     </tr>
     <tr>
         <td>1 x Session registration student*</td>
-        <td align="center">$30 AUD</td>
+        <td align="center">Available Soon</td>
     </tr>
     <tr>
-        <td colspan="2"><em>*Session/s will require selection via the online registration form</em></td>
+        <td colspan="2"><em>*Session registration will be available after the final program is released.</em></td>
     </tr>
 
     <tr>
@@ -96,14 +96,14 @@ include('include/header.php');
     </tr>
     <tr>
         <td>3 x Session registration first nations*</td>
-        <td align="center">$0</td>
+        <td align="center">Available Soon</td>
     </tr>
     <tr>
         <td>1 x Session registration first nations*</td>
-        <td align="center">$0</td>
+        <td align="center">Available Soon</td>
     </tr>
     <tr>
-        <td colspan="2"><em>*Session/s will require selection via the online registration form</em></td>
+        <td colspan="2"><em>*Session registration will be available after the final program is released.</em></td>
     </tr>
 
     <tr>
@@ -115,11 +115,11 @@ include('include/header.php');
     </tr>
     <tr>
         <td>3 x Session registration Person with a disability*</td>
-        <td align="center">$80 AUD</td>
+        <td align="center">Available Soon</td>
     </tr>
     <tr>
         <td>1 x Session registration Person with a disability*</td>
-        <td align="center">$30 AUD</td>
+        <td align="center">Available Soon</td>
     </tr>
 </table>
 
