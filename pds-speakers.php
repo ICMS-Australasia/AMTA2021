@@ -27,6 +27,8 @@ include('include/header.php');
         <p>Along with Fellowship category (2014), Debbie has also been honoured with the prestigious Speech Pathology Australia Association’s <em>Elinor Wray Award</em> (2010) for <em>‘Outstanding contribution to the profession’</em> and an Australian Voice Association Award for <em>‘Outstanding contribution to the Australian voice community’</em> (2014). She is the Past President of the Laryngology Society of Australasia (2013-2017), a current board member of the Australian Voice Association and board member and Chair of the Voice Committee for the International Association of Logopaedics and Phoniatrics. She was the speech pathology representative on the Medicare Taskforce Committee and has published over 30 journal articles and book chapters and a regular invited speaker at ENT/Laryngology conferences.</p>
     </div>
 </div>
+<h2>Vocal sustainability in change of climate</h2>
+<p>These current COVID times have had a large impact on our vocal load and the way we use our voices, whether due to use of masks or online communication modes. This session will focus on specific strategies and exercises to increase vocal fitness and improve vocal delivery to optimise clinical and creative outcomes and communication success.</p>
 <?php
 include('include/footer.php');
 ?>
