@@ -1,5 +1,5 @@
 </div>
-<?php if ($title != "Full Program") {?>
+<?php if ($title != "Conference Program") {?>
 <div class="col-md-3 sidebar py-5">
   <h2>Key Dates</h2>
   <ul class="dates">
