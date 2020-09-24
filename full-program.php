@@ -18,7 +18,7 @@ include('include/header.php');
 
 <script type="text/javascript">
     let sunday8 = {
-        "title": "Full Program - Sunday 8 November",
+        "title": "Conference Program - Sunday 8 November",
         "html": `<table cellpadding="20" cellspacing="0" border="1" width="100%" class="full-program">
             <col width="20%">
             <col width="20%">
@@ -98,7 +98,7 @@ include('include/header.php');
         </table>`
     };
     tuesday10 = {
-        "title": "Full Program - Tuesday 10 November",
+        "title": "Conference Program - Tuesday 10 November",
         "html":`
         <table cellpadding="20" cellspacing="0" border="1" width="100%" class="full-program">
             <col width="20%">
@@ -134,7 +134,7 @@ include('include/header.php');
         </table>`
     };
     wednesday11 = {
-        "title": "Full Program - Wednessday 11 November",
+        "title": "Conference Program - Wednesday 11 November",
         "html":`
         <table cellpadding="20" cellspacing="0" border="1" width="100%" class="full-program">
             <col width="20%">
@@ -171,7 +171,7 @@ include('include/header.php');
         </table>`
     };
     thursday12 = {
-        "title": "Full Program - Thursday 12 November",
+        "title": "Conference Program - Thursday 12 November",
         "html":`
         <table cellpadding="20" cellspacing="0" border="1" width="100%" class="full-program">
             <col width="20%">
@@ -206,7 +206,7 @@ include('include/header.php');
         </table>`
     };
     saturday14 = {
-        "title": "Full Program - Saturday 14 November",
+        "title": "Conference Program - Saturday 14 November",
         "html":`
         <table cellpadding="20" cellspacing="0" border="1" width="100%" class="full-program">
             <col width="20%">
@@ -295,7 +295,7 @@ include('include/header.php');
         </table>`
     };
     sunday15 = {
-        "title": "Full Program - Sunday 15 November",
+        "title": "Conference Program - Sunday 15 November",
         "html":`
         <table cellpadding="20" cellspacing="0" border="1" width="100%" class="full-program">
             <col width="20%">
