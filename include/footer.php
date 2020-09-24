@@ -1,4 +1,5 @@
 </div>
+<?php if ($title != "Full Program") {?>
 <div class="col-md-3 sidebar py-5">
   <h2>Key Dates</h2>
   <ul class="dates">
@@ -13,6 +14,7 @@
       <img src="./img/sponsors/mto.png" class="img-fluid p-4">
   <?php } ?>
 </div>
+<?php } ?>
 </div>
 </div>
 </div>

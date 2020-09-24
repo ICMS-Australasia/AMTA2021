@@ -148,6 +148,41 @@ body {
   text-decoration: underline;
   text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.35);
 }
+.content .program-buttons button {
+  border: none;
+  background: #BC1C2C;
+  color: white;
+  font-weight: bold;
+  transition: 0.2s background ease-in-out;
+}
+.content .program-buttons button:hover {
+  transform: scale(1.02);
+  background: #e02c3e;
+}
+.content .full-program td {
+  border: 1px solid rgba(220, 220, 220, 0.5);
+}
+.content .full-program .pink {
+  background: #EBABE0;
+}
+.content .full-program .green {
+  background: #E2EFD9;
+}
+.content .full-program .blue {
+  background: #DEEAF6;
+}
+.content .full-program .orange {
+  background: #FBE4D5;
+}
+.content .full-program .red {
+  background: #EFBFB7;
+}
+.content .full-program .purple {
+  background: #CCCCFF;
+}
+.content .full-program .yellow {
+  background: #FFF2CC;
+}
 .content .speakers {
   text-align: center;
 }

@@ -187,6 +187,29 @@ body {
     }
   }
 
+  .program-buttons {
+      button {
+          border: none;
+          background: $red;
+          color: white; font-weight: bold;
+          transition: 0.2s background ease-in-out;
+          &:hover {
+              transform: scale(1.02);
+              background: lighten($red, 10%);
+          }
+      }
+  }
+  .full-program {
+      td {border: 1px solid rgba(220, 220, 220, 0.5);}
+      .pink { background: #EBABE0;}
+      .green { background: #E2EFD9;}
+      .blue { background: #DEEAF6;}
+      .orange { background: #FBE4D5;}
+      .red { background: #EFBFB7;}
+      .purple { background: #CCCCFF;}
+      .yellow { background: #FFF2CC;}
+  }
+
   .speakers {
     text-align: center;
     h2 {
