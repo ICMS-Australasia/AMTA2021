@@ -7,10 +7,16 @@ include('include/header.php');
 
 <div class="row align-items-center my-4">
     <div class="col-3">
-        <img src="./img/sponsors/sound-expression.png" class="img-fluid mx-auto d-block">
+        <a href="http://www.soundexpression.com.au/" target="_blank"><img src="./img/sponsors/sound-expression.png" class="img-fluid mx-auto d-block"></a>
     </div>
     <div class="col-3">
-        <img src="./img/sponsors/mto.png" class="img-fluid mx-auto d-block">
+        <a href="http://www.musictherapyonline.org/" target="_blank"><img src="./img/sponsors/mto.png" class="img-fluid mx-auto d-block"></a>
+    </div>
+    <div class="col-3">
+        <a href="http://www.musictherapyacademy.com/" target="_blank"><img src="./img/sponsors/mta.jpg" class="img-fluid mx-auto d-block"></a>
+    </div>
+    <div class="col-3">
+        <a href="http://www.tanyamariesilveira.com.au/" target="_blank"><img src="./img/sponsors/tms.png" class="img-fluid mx-auto d-block"></a>
     </div>
 </div>
 
