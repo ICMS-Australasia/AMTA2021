@@ -163,25 +163,25 @@ body {
   border: 1px solid rgba(220, 220, 220, 0.5);
 }
 .content .full-program .pink {
-  background: #EBABE0;
+  background: #f7cbcf;
 }
 .content .full-program .green {
-  background: #E2EFD9;
+  background: #E5E983;
 }
 .content .full-program .blue {
-  background: #DEEAF6;
+  background: #7A9DD2;
 }
 .content .full-program .orange {
-  background: #FBE4D5;
+  background: #F48062;
 }
 .content .full-program .red {
-  background: #EFBFB7;
+  background: #e9737e;
 }
 .content .full-program .purple {
   background: #CCCCFF;
 }
 .content .full-program .yellow {
-  background: #FFF2CC;
+  background: #EEEEDA;
 }
 .content .speakers {
   text-align: center;

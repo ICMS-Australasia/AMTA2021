@@ -201,13 +201,13 @@ body {
   }
   .full-program {
       td {border: 1px solid rgba(220, 220, 220, 0.5);}
-      .pink { background: #EBABE0;}
-      .green { background: #E2EFD9;}
-      .blue { background: #DEEAF6;}
-      .orange { background: #FBE4D5;}
-      .red { background: #EFBFB7;}
+      .pink { background: lighten(#BE1E2D, 45%);}
+      .green { background: #E5E983;}
+      .blue { background: #7A9DD2;}
+      .orange { background: #F48062;}
+      .red { background: lighten(#BE1E2D, 25%);}
       .purple { background: #CCCCFF;}
-      .yellow { background: #FFF2CC;}
+      .yellow { background: #EEEEDA;}
   }
 
   .speakers {

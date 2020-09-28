@@ -12,7 +12,7 @@ include('include/header.php');
     <col width="25%">
     <tr>
         <td align="center">10:00am – 10:15am</td>
-        <td colspan="3">Welcome including acknowledgement of country</td>
+        <td colspan="3">Welcome including Acknowledgement of Country</td>
     </tr>
     <tr>
         <td align="center">10:30am – 11:30am</td>
@@ -27,8 +27,8 @@ include('include/header.php');
         <td align="center">11:45am – 12:45pm</td>
         <td>Guitar Skills <br>
             <b>Oliver O’Reilly</b></td>
-        <td>GIM principles and PD <br>
-            <b>Katrina McFerran</b></td>
+        <td>Musical insights: Identifying internal barriers to success and flourishing <br>
+            <b>Katrina Skewes McFerran</b></td>
         <td>Music Tech <br>
             <b>Rachael Mackay</b></td>
     </tr>
@@ -43,7 +43,7 @@ include('include/header.php');
     </tr>
     <tr>
         <td align="center">2:00pm – 4:30pm*</td>
-        <td colspan="3">Counselling Skills <br>
+        <td colspan="3">“Fostering Connection In The Therapeutic Relationship” - Counselling Skills <br>
             <b>Libby Sherring</b> <br>
             <em>*Additional Breaks will be scheduled during this time</em></td>
     </tr>

@@ -4,7 +4,7 @@ include('include/header.php');
 ?>
 
 <h2 class="d-inline"><b>Emeritus Professor Judy Atkinson, AM</b> and <b>Asami Koike (RMT)</b></h2>
-<h3 class="d-inline">in conversation on the topic of <b>Trauma: Indigenous and Diasporic Perspectives </b></h3>
+<h3 class="d-inline">in conversation on the topic of <b>Indigenous and Diasporic Perspectives on Trauma</b></h3>
 
 <div class="row my-5">
     <div class="col">
@@ -26,7 +26,7 @@ include('include/header.php');
 <hr class='my-4'>
 
 <h2 class="d-inline">Dr Dale Taylor in conversation with Professor Jorg Fachner</h2>
-<h3 class="d-inline">Music and Neuroscience: Current International Perspectives</h3>
+<h3 class="d-inline">in conversation on the topic of <b>Contemporary Understandings of Music and Neuroscience</b></h3>
 
 <div class="row my-5">
     <div class="col">
