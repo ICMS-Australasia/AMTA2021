@@ -38,7 +38,7 @@ include('include/header.php');
     </tr>
     <tr>
         <td align="center">1:30pm – 2:00pm</td>
-        <td colspan="3">Body Health/Stretching <br>
+        <td colspan="3">How to stay pain free in music therapy <br>
             <b>Yves Silveira</b></td>
     </tr>
     <tr>
