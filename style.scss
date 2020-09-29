@@ -202,12 +202,12 @@ body {
   .full-program {
       td {border: 1px solid rgba(220, 220, 220, 0.5);}
       .pink { background: lighten(#BE1E2D, 45%);}
-      .green { background: #E5E983;}
-      .blue { background: #7A9DD2;}
-      .orange { background: #F48062;}
-      .red { background: lighten(#BE1E2D, 25%);}
+      .green { background: lighten(#E5E983, 10%);}
+      .blue { background: lighten(#7A9DD2, 10%);}
+      .orange { background: lighten(#F48062, 10%);}
+      .red { background: lighten(#BE1E2D, 35%);}
       .purple { background: #CCCCFF;}
-      .yellow { background: #EEEEDA;}
+      .yellow { background: lighten(#EEEEDA, 10%);}
   }
 
   .speakers {

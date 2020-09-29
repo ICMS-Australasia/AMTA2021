@@ -266,8 +266,8 @@ include('include/header.php');
                     <br> <br>
                     Paper 3: Introducing the Post-Ableist Collective (PAC) in celebration of diverse health identities within the music therapy profession <br>
                     <b>Carolyn Ayson (presentation coordinator), Grace Thompson &  Zoë Kalenderidis</b></td>
-                <td class="orange">Panel: Stroke survival and rehabilitation <br>
-                    <b>Tanya Silveira</b></td>
+                <td class="orange">Panel: Advocating for systemic change: diverse perspectives on the NEED for music therapy in neurorehabilitation <br>
+                    <b>Tanya Marie Silveira (Moderator), Dr Jeanette Tamplin, Marissa Mellick, Steven Giannakopoulos, Dr Anuka Parapuram & Anna Barlow </b></td>
             </tr>
             <tr valign="top">
                 <td align="center"><b>2:30pm – 2:45pm</b></td>
