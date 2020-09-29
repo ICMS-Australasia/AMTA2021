@@ -385,20 +385,6 @@ body {
   color: #901522;
 }
 
-.sidebar-sponsors {
-  overflow: auto;
-  height: 400px;
-}
-.sidebar-sponsors::-webkit-scrollbar {
-  width: 5px;
-}
-.sidebar-sponsors::-webkit-scrollbar-track {
-  background: #EEEEDA;
-}
-.sidebar-sponsors::-webkit-scrollbar-thumb {
-  background: #9491BA;
-}
-
 @media (max-width: 768px) {
   .header {
     background-image: none;

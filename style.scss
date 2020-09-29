@@ -458,19 +458,7 @@ body {
   }
 }
 
-.sidebar-sponsors {
-    overflow: auto;
-    height:400px;
-    &::-webkit-scrollbar {
-      width: 5px;
-    }
-    &::-webkit-scrollbar-track {
-      background: $beige;
-    }
-    &::-webkit-scrollbar-thumb {
-        background: $purple;
-    }
-}
+
 @media (max-width: 768px) {
   .header {
     background-image: none;
