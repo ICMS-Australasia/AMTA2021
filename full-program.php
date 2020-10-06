@@ -314,9 +314,9 @@ include('include/header.php');
             </tr>
             <tr valign="top">
                 <td align="center"><b>12:00pm – 1:15pm</b></td>
-                <td colspan="2" class="purple">International Dialogues in Music and Neuroscience: Pursuing Decolonisation and Self-Determination in Therapeutic Practice <br>
+                <td colspan="2" class="purple">Leaders in Conversation: Pursuing Decolonisation and Self-Determination in Therapeutic Practice <br>
                     <b>Sue-Anne Hunter & Special Guest</b></td>
-                <td colspan="2" class="purple">International Dialogues in Music and Neuroscience: Contemporary Understandings of Music and Neuroscience <br>
+                <td colspan="2" class="purple">Leaders in Conversation: International Dialogues in Music and Neuroscience <br>
                     <b>Professor Dale Taylor & Professor Jörg Fachner</b></td>
             </tr>
             <tr valign="top">
