@@ -39,14 +39,14 @@ include('include/header.php');
                 <td bgcolor="#e0e0e0" colspan="4" align="center"><b>Networking and coffee break</b></td>
             </tr>
             <tr valign="top">
-                <td align="center" rowspan="2"><b>11.30am – 12:00pm</b></td>
+                <td align="center" rowspan="2"><b>11.30am – 12:30pm</b></td>
                 <td class="green">Paper: Telehealth in the time of COVID 19- reflections on providing group music therapy online for people with intellectual and developmental disabilities <br>
                     <b>Helen Cameron</b></td>
                 <td class="blue" rowspan="2">Perspectives: Responding to families’ needs: reflections on the factors that allow families to engage in Sing & Grow’s innovative alternate service delivery options <br>
                     <b>Jessica Higgins-Anderson & Lorna Berry</b></td>
                 <td class="green">Paper: Music Therapy and NDIS planning in a sub-acute hospital setting: A case study about the role of the music therapist in supporting an adult patient’s transition from hospital to community following neuro-rehabilitation <br>
                     <b>Carena Khoo</b></td>
-                <td class="orange" rowspan="2">Panel: Moving forward as a profession: Understanding the Music Therapists experience of unconscious bias <br>
+                <td class="orange" rowspan="2">Panel: Moving forward as a profession: Understanding the Music Therapist’s experience of racialised unconscious bias <br>
                     <b>Tanya Silveira (Moderator), Delphine Geia, Asami Koike & Mai Abe </b></td>
             </tr>
             <tr valign="top">
@@ -191,7 +191,7 @@ include('include/header.php');
                 <td class="green">Paper: If my heart was wood, I'd set it on fire: Connecting to an adolescent's emotional world via songwriting collaborations <br>
                     <b>Verena Clemencic-Jones</b></td>
                 <td class="green">Paper: Remaining connected: Reflections of a music therapy team during a global pandemic <br>
-                    <b>Kate Fletcher</b></td>
+                    <b>Kate Fletcher, Tara Cronin & Dr Vicky Abad</b></td>
                 <td class="orange" rowspan="2">Panel: Cancer Care in a Covid-19 Context <br>
                     <b>Penelope Sanderson (Moderator) & Kate McMahon</b></td>
             </tr>
@@ -236,7 +236,7 @@ include('include/header.php');
                 <td class="orange">Panel: Deliberate resilience through collective reasoning: Peer support at the management level <br>
                     <b>Dr Helen Shoemark (Moderator), David Knott, Debbie Bates, Elizabeth Harman, Amy Thomas, Ann Hannan, Amy Troyano & Beth Collier</b></td>
                 <td class="green">Roundtable: Keeping people connected during a pandemic: Music therapy research and practice goes online <br>
-                    <b>Professor Felicity Baker, Jeanette Tamplin, Imogen Clark, Libby Flynn, Kate Teggelove, Zara Thompson, Hayley Miller & Kate McMahon</b>
+                    <b>Professor Felicity Baker, Dr Jeanette Tamplin, Dr Imogen Clark, Dr Libby Flynn, Kate Teggelove, Zara Thompson, Hayley Miller & Kate McMahon</b>
                     <br> <br>
                     <b>Paper 1:</b> Music Therapy Telehealth practices in Australia
                     <br> <br>
@@ -314,9 +314,9 @@ include('include/header.php');
             </tr>
             <tr valign="top">
                 <td align="center"><b>12:00pm – 1:15pm</b></td>
-                <td colspan="2" class="purple">Leaders in Conversation: Pursuing Decolonisation and Self-Determination in Therapeutic Practice <br>
+                <td colspan="2" class="purple">International Dialogues in Music and Neuroscience: Pursuing Decolonisation and Self-Determination in Therapeutic Practice <br>
                     <b>Sue-Anne Hunter & Special Guest</b></td>
-                <td colspan="2" class="purple">Leaders in Conversation: Contemporary Understandings of Music and Neuroscience <br>
+                <td colspan="2" class="purple">International Dialogues in Music and Neuroscience: Contemporary Understandings of Music and Neuroscience <br>
                     <b>Professor Dale Taylor & Professor Jörg Fachner</b></td>
             </tr>
             <tr valign="top">

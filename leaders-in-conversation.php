@@ -26,7 +26,7 @@ include('include/header.php');
 <hr class='my-4'>
 
 <h2 class="d-inline">Dr Dale Taylor in conversation with Professor Jorg Fachner</h2>
-<h3 class="d-inline">in conversation on the topic of <b>Contemporary Understandings of Music and Neuroscience</b></h3>
+<h3 class="d-inline">in conversation on the topic of <b>International Dialogues in Music and Neuroscience</b></h3>
 
 <div class="row my-5">
     <div class="col">
