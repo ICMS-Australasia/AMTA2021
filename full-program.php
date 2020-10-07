@@ -39,7 +39,7 @@ include('include/header.php');
                 <td bgcolor="#e0e0e0" colspan="4" align="center"><b>Networking and coffee break</b></td>
             </tr>
             <tr valign="top">
-                <td align="center" rowspan="2"><b>11.30am – 12:30pm</b></td>
+                <td align="center" rowspan="2"><b>12.00am – 1:00pm</b></td>
                 <td class="green">Paper: Telehealth in the time of COVID 19- reflections on providing group music therapy online for people with intellectual and developmental disabilities <br>
                     <b>Helen Cameron</b></td>
                 <td class="blue" rowspan="2">Perspectives: Responding to families’ needs: reflections on the factors that allow families to engage in Sing & Grow’s innovative alternate service delivery options <br>
