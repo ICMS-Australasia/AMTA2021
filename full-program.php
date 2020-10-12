@@ -47,7 +47,7 @@ include('include/header.php');
                 <td class="green">Paper: Music Therapy and NDIS planning in a sub-acute hospital setting: A case study about the role of the music therapist in supporting an adult patient’s transition from hospital to community following neuro-rehabilitation <br>
                     <b>Carena Khoo</b></td>
                 <td class="orange" rowspan="2">Panel: Moving forward as a profession: Understanding the Music Therapist’s experience of racialised unconscious bias <br>
-                    <b>Tanya Silveira (Moderator), Delphine Geia, Asami Koike & Mai Abe </b></td>
+                    <b>Tanya Marie Silveira (Moderator), Marisol Norris, Delphine Geia, Asami Koike & Mai Abe </b></td>
             </tr>
             <tr valign="top">
                 <td class="green">Paper: Collaboratively designing autism-friendly music making workshops to support social connection <br>
@@ -113,7 +113,7 @@ include('include/header.php');
                 <td class="red" rowspan="3">Masterclass: Collaborative Songwriting Online <br>
                     <b>Carlin Mclellan</b></td>
                 <td class="green" >Paper: Connecting practice with standards: reflections on a survey of music therapy effectiveness in a multi-population clinic setting <br>
-                <b>Joe Thompson</b></td>
+                <b>Joe Thompson & Rachael Mackay</b></td>
             </tr>
             <tr valign="top">
                 <td class="green">Paper: As Batten’s Disease disconnects, music therapy connects (A case study) <br>
@@ -121,7 +121,7 @@ include('include/header.php');
                 <td class="green">Paper: Singing With Grief: Accepting your own grief in the facilitation process of group singing <br>
                     <b>Kate Fletcher</b></td>
                 <td class="orange" rowspan="2">Panel: Mapping pathways to connection for music therapists during and after COVID-19 <br>
-                    <b>Minky van der Walt (Moderator), Bolette Beck, Ruth Langford & Andrea Phelps</b></td>
+                    <b>Minky van der Walt (Moderator), Dr Jane Munro, Dr Geoffrey Toogood & Ruth Langford</b></td>
             </tr>
             <tr valign="top">
                 <td class="green">Paper: The Transformation of Entrainment: Online Co-therapy During Lockdown <br>
