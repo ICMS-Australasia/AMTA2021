@@ -27,7 +27,7 @@ include('include/header.php');
     </tr>
     <tr>
         <td align="center">11:45am – 12:45pm</td>
-        <td>Guitar Skills <br>
+        <td>Unlocking melody on the guitar <br>
             <b>Oliver O’Reilly</b></td>
         <td>Musical insights: Identifying internal barriers to success and flourishing <br>
             <b>Katrina Skewes McFerran</b></td>
