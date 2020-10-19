@@ -65,6 +65,32 @@ include('include/header.php');
         <p class="mt-4">Priscilla Pek (MMthpy, B Arts Hons.) is a Melbourne-based Registered Music Therapist who has worked at Monash Children’s Hospital, Monash Health since 2012. She has extensive experience working within the acute medical model in public health, having started as a new graduate in General Paediatrics. Priscilla is currently working full-time, predominantly across Adolescent Medicine (Eating Disorders) and Paediatric Oncology. Over the years she has had the privilege to be involved in service expansion at Monash Health, and has most recently implemented a new inpatient Music Therapy service for Early in Life Mental Health (ELMHS) in partnership with the Monash Children’s Hospital School (MCHS). The ELMHS service consists of two units; ‘Oasis’ provides specialist care to primary school aged children with complex psychiatric and neurodevelopmental needs, while ‘Stepping Stones’ is an adolescent mental health inpatient unit. Alongside clinical work, Priscilla has been involved in a number of portfolios and committees at Monash Health, including Allied Health Ward Governance, Education Portfolio, and EMR (Electronic Medical Record) Portfolio. She has also previously worked with Child and Adolescent Mental Health Services (CAMHS) at Austin Health, and worked in research at the University of Melbourne investigating music for wellbeing in schools and the sustainability of these programs and initiatives. Priscilla is passionate about the use of music to improve the coping and health outcomes of young people experiencing medical or mental health challenges. In the context of our new COVID world where coping strategies are limited, this passion remains very much alive as she believes music can have an important role in maintaining connectedness, facilitate coping, and create opportunities for mindfulness.</p>
     </div>
 </div>
+
+<hr class='my-4'>
+
+<h2 class="d-inline">Allison Davies and Dr Vicky Abad</h2>
+<h3 class="d-inline">in conversation on the topic of <b>Advocacy in Music Therapy</b></h3>
+
+<div class="row my-5">
+    <div class="col">
+        <img src="./img/leaders/davies.jpg" class="img-fluid float-right ml-4" width="250">
+        <h2 class="d-inline">Allison Davies (RMT)</h2>
+        <p class="mt-4">Allison Davies has been an RMT since 2006, working in private practice in Tasmania until 2016. She now creates online resources for parents and teachers seeking guidance around how to use music therapeutically in their own lives, and to reclaim their inherent musicality along the way. </p>
+        <p>Working within a solid neurodiversity framework that favours regulation over intervention Allison empowers others to use music as a tool for neuro-regulation at home and in the classroom. Her programs, workshops and speaking events have received international acclaim for their ability to enthral an audience, deliver lightbulb moments and shift paradigms away from behavioural management and towards Brain Care.</p>
+    </div>
+</div>
+
+<div class="row my-5">
+    <div class="col">
+        <img src="./img/leaders/abad.jpg" class="img-fluid float-right ml-4" width="250">
+        <h2 class="d-inline">Dr Vicky Abad (RMT) </h2>
+        <p class="mt-4">Dr Vicky Abad is a Registered Music Therapist, researcher, entrepreneur, business owner, President of the Australian Music Therapy Association, World Congress Convenor, music therapy educator, mother and wife.</p>
+        <p>Vicky has been advocating for music therapy since her first day of graduation, and quite possibly even earlier than that. As the first student to study a Post Graduate degree in Music Therapy in Queensland, there were very limited clinical placements and she had to advocate for new placements. One of these remains a funded position today 27 years later. In addition to this placement, she has established more than 30 positions and created employment for hundreds of clinicians, in the areas of aged care, paediatric care and community music therapy.</p>
+        <p>Vicky has been an advocate for music therapy in community, medical and political settings. She grew the Sing & Grow program, taking it from a small program to an ongoing nationally funded program. This required a great deal of advocacy in the early years in both the community and government sector at local, state and federal levels. Sing & Grow continues to provide valuable services to thousands of Australian families twenty years on.</p>
+        <p>Vicky is also an advocate for music therapy businesses and is the Founding and Managing Director of Music Beat Australia, a multi-faceted business that provides community music, music early learning, education and therapy programs for children and adults of all abilities to support them to develop every day. She edited a book on the Economics of Therapy with Dan Thomas, and continues to work with creative arts therapists to help them develop and grow their own businesses.</p>
+        <p>Vicky is an internationally regarded researcher, presenter and speaker. She has presented many papers, including keynote and invited presentations, at a number of national and international conferences and events. She has achieved international recognition for her clinical work and research in the area of music therapy parent-child intervention and the impact of music early learning on family health and well-being.</p>
+    </div>
+</div>
 <?php
 include('include/footer.php');
 ?>

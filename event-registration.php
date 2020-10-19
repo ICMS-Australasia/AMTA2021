@@ -10,6 +10,8 @@ include('include/header.php');
 <h2>Virtual registration fees</h2>
 <p>All fees are quoted in Australian dollars ($AUD) and are inclusive of 10% GST (Goods and Services Tax).</p>
 
+<p>Please note that all AMTA 2020 conference program content will be available on demand for <b>3 months post conference</b>. </p>
+
 <table class="rego-table" cellpadding="10" cellspacing="10" border="0" width="100%">
     <col width="80%">
     <col width="20%">

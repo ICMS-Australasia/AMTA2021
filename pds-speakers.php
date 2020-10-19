@@ -57,6 +57,19 @@ include('include/header.php');
 
     </div>
 </div>
+
+<hr class='my-4'>
+
+<div class="row my-5">
+    <div class="col">
+        <img src="./img/pds/oreilly.jpg" class="img-fluid float-right ml-4" width="250">
+        <h2 class="d-inline">Oli O’Reilly</h2>
+        <p>Oli O’Reilly is a senior music therapist at Noro Music therapy, multi-instrumentalist and sessional academic in music and music therapy at Western Sydney University. Oli has worked with people across the lifespan, he currently works in Palliative Care and Oncology at Concord Repatriation General Hospital with Noro Music Therapy. In his PhD, Oli is investigating ways music therapists and other musicians develop ensemble skills, with a particular focus on generalising instrumental skills from first instrument to clinical applications of the guitar.</p>
+        <h3>Unlocking melody on the guitar</h3>
+        <p>For many of us growing up playing piano or melodic instruments like the violin or flute (or the tuba come to think of it), guitar was a difficult though necessary musical challenge during the early stages of our training. With so much to learn and so little time we tend to pick up a handful of chords and a couple of strumming patterns so we can get stuck into placement. However it can be challenging to find the time and headspace to expand beyond this as we settle into our music therapists careers. In this workshop participants learn how to navigate the notes on the fretboard, then put this to use and explore melodic ways to enhance their guitar work by adding a little flare to an ostinato pattern, adding some light and shade to the harmonic accompaniment, adding the melody to accompaniment and for those who are a little more game, exploring the joys of melodic improvisation.</p>
+
+    </div>
+</div>
 <?php
 include('include/footer.php');
 ?>

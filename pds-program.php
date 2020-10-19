@@ -3,6 +3,8 @@ $title = "PDS Program";
 include('include/header.php');
 ?>
 
+<p><b><em>Please note: the times displayed on the program below are in Australian Eastern Standard Time (Brisbane time). </em></b></p>
+
 <h2>Saturday 7 November 2020</h2>
 
 <table cellpadding="20" cellspacing="0" border="1">
@@ -29,7 +31,7 @@ include('include/header.php');
             <b>Oliver O’Reilly</b></td>
         <td>Musical insights: Identifying internal barriers to success and flourishing <br>
             <b>Katrina Skewes McFerran</b></td>
-        <td>Music Tech <br>
+        <td>Let’s get Technical: Technology and Music Therapy <br>
             <b>Rachael Mackay</b></td>
     </tr>
     <tr>

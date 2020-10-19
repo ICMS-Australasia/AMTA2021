@@ -13,7 +13,7 @@ include('include/header.php');
 </div>
 
 <div id="program">
-
+  <p><em><b>Please note: the times displayed on the program below are in Australian Eastern Standard Time (Brisbane time).</b></em></p>
 </div>
 
 <script type="text/javascript">
@@ -41,7 +41,7 @@ include('include/header.php');
             <tr valign="top">
                 <td align="center" rowspan="2"><b>12.00am – 1:00pm</b></td>
                 <td class="green">Paper: Telehealth in the time of COVID 19- reflections on providing group music therapy online for people with intellectual and developmental disabilities <br>
-                    <b>Helen Cameron</b></td>
+                    <b>Helen Cameron & Jolin Lee</b></td>
                 <td class="blue" rowspan="2">Perspectives: Responding to families’ needs: reflections on the factors that allow families to engage in Sing & Grow’s innovative alternate service delivery options <br>
                     <b>Jessica Higgins-Anderson & Lorna Berry</b></td>
                 <td class="green">Paper: Music Therapy and NDIS planning in a sub-acute hospital setting: A case study about the role of the music therapist in supporting an adult patient’s transition from hospital to community following neuro-rehabilitation <br>
@@ -193,7 +193,7 @@ include('include/header.php');
                 <td class="green">Paper: Remaining connected: Reflections of a music therapy team during a global pandemic <br>
                     <b>Kate Fletcher, Tara Cronin & Dr Vicky Abad</b></td>
                 <td class="orange" rowspan="2">Panel: Cancer Care in a Covid-19 Context <br>
-                    <b>Penelope Sanderson (Moderator) & Kate McMahon</b></td>
+                    <b>Penelope Sanderson (Moderator) & Kate McMahon, Lucy Forrest, Stephen Skov & Stef Zappino</b></td>
             </tr>
             <tr valign="top">
                 <td class="green">Paper: Reflections on adapting and creating in online music therapy spaces during COVID19 – perspectives from two music therapists and NDIS participants in an online music therapy group <br>
@@ -346,9 +346,6 @@ include('include/header.php');
                     Song Creation- a strength based tool to build expressive confidence <br>
                     <b>Ann Lehmann-kuit</b>
                     <br><br>
-                    Designing for different ways of knowing: Arts-Based Research in Dementia <br>
-                    <b>Kate McMahon</b>
-                    <br><br>
                     Exploring the use of music as an intervention in perinatal mental health: a systematic approach based on literature <br>
                     <b>Greer Boutling</b>
                     <br> <br>
@@ -357,12 +354,16 @@ include('include/header.php');
 
                     </td>
             </tr>
+            <tr valign="top">
+                <td align="center"><b>3:15pm – 3:45pm</b></td>
+                <td align="center" colspan="4" bgcolor="#e0e0e0"><b>Conference Closing </b></td>
+            </tr>
         </table>`
     };
     function program(day) {
         let table = document.getElementById('program');
         let title = document.getElementsByTagName('H1');
-        table.innerHTML = day.html;
+        table.innerHTML += day.html;
         title[0].innerText = day.title;
     }
     program(sunday8);
