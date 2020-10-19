@@ -12,8 +12,8 @@ include('include/header.php');
     <div class="col px-1"><button type="button" class="w-100 py-3" name="button" onclick="program(sunday15)">Sunday 15</button></div>
 </div>
 
+<p><em><b>Please note: the times displayed on the program below are in Australian Eastern Standard Time (Brisbane time).</b></em></p>
 <div id="program">
-  <p><em><b>Please note: the times displayed on the program below are in Australian Eastern Standard Time (Brisbane time).</b></em></p>
 </div>
 
 <script type="text/javascript">
@@ -363,7 +363,7 @@ include('include/header.php');
     function program(day) {
         let table = document.getElementById('program');
         let title = document.getElementsByTagName('H1');
-        table.innerHTML += day.html;
+        table.innerHTML = day.html;
         title[0].innerText = day.title;
     }
     program(sunday8);
