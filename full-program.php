@@ -12,7 +12,7 @@ include('include/header.php');
     <div class="col px-1"><button type="button" class="w-100 py-3" name="button" onclick="program(sunday15)">Sunday 15</button></div>
 </div>
 
-<p><em><b>Please note: the times displayed on the program below are in Australian Eastern Standard Time (Brisbane time).</b></em></p>
+<p><em><b>Please note: the times displayed on the program below are in Australian Eastern Daylight Time (NSW, Victoria, Tasmania, ACT time).</b></em></p>
 <div id="program">
 </div>
 
