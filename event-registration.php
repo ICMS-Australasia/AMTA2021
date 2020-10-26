@@ -142,6 +142,9 @@ include('include/header.php');
     <li>Certificate of CPD</li>
 </ul>
 <h3>Session Registration</h3>
+
+<p>One session entitles you to choose one stream and view the fixed “block” of presentations, which will either run for 1 – 1.5 hours. What you get for your one session will depend on what you choose. For example, you may choose a 1.5 hour block which contains three papers, or one masterclass, or a paper and a panel, depending on the stream you have chosen. Three sessions entitles you to choose three separate “blocks” of presentations. If you register for a single session or three sessions, a representative from the conference will contact you (using the email address you have registered with) to arrange which presentation block(s) you would like to purchase.</p>
+
 <p>1 or 3 session registration entitlements include:</p>
 <ul>
     <li>Unique attendee password-protected access to the AMTA 2020 virtual conference platform</li>
@@ -156,6 +159,7 @@ include('include/header.php');
     <li>Between 1 – 10.5 CPD hours depending on session amount and session length chosen.</li>
     <li>Certificate of CPD</li>
 </ul>
+
 <h3>PDS Registration</h3>
 <p>PDS registration entitlements include:</p>
 <ul>
@@ -172,7 +176,6 @@ include('include/header.php');
 <p>Registration can only be confirmed once payment is received.</p>
 <p>Payment can be made by Credit card: Visa, MasterCard and American Express are accepted. If you are making a credit card payment from a country outside Australia, for security reasons you must first advise your banking institution of the impending charge and authorise them to allow the charge to Australia to go through. Please note that charges to your credit card will appear as being from “ICMS Australasia Pty Ltd” on your bank statement.</p>
 <h2>Payment deadlines</h2>
-<p>All registrations must be paid in full by Friday 23 October 2020.</p>
 <h3>Registration cancellation & refund policy</h3>
 <p>Once your registration has been completed, there will be no refunds available. The Conference content will remain on-line and active for three months after the Conference dates and remain accessible for registered delegates to view at any time during this period, hence providing full value to any registered parties.  The Conference Secretariat will not provide any refunds.</p>
 <p>Your registration may be transferred to another person by 25 October 2020. The Conference Secretariat must be advised in writing of any alterations or transfers by this date.</p>
