@@ -99,7 +99,7 @@ include('include/header.php');
 
 <div class="row my-5">
     <div class="col">
-        <!-- <img src="./img/leaders/hunter.jpg" class="img-fluid float-right ml-4" width="250"> -->
+        <img src="./img/leaders/hunter.png" class="img-fluid float-right ml-4" width="250">
         <h2 class="d-inline">Sue-Anne Hunter</h2>
         <p class="mt-4">Sue-Anne Hunter is a proud Wurundjeri and Ngurai illum wurrung woman and is committed to self-determination and advocating for the rights of Aboriginal and Torres Strait Islander children and families. Prior to the establishment of her business, <a href="https://www.sueannehunter.com/" target="_blank">Aboriginal Cultural Consultancy</a> in 2019, Sue-Anne worked in the Aboriginal Child and Family Welfare field for over 18 years and has been appointed director on several boards.</p>
         <p>Sue-Anne is a trained Social Worker and has an in-depth understanding of developmental, trans-generational and community traumas as well as western modalities of therapy, her studies have been recognised nationally and internationally and she is proficient in multiple therapeutic interventions, in which she combines with cultural knowledge to bring about healing change for her people. Sue-Anne is passionate in ensuring her people receive a high quality of service delivery particularly in the space of health and wellbeing.</p>
@@ -108,7 +108,7 @@ include('include/header.php');
 
 <div class="row my-5">
     <div class="col">
-        <!-- <img src="./img/leaders/kebede.jpg" class="img-fluid float-right ml-4" width="250"> -->
+        <img src="./img/leaders/kebede.png" class="img-fluid float-right ml-4" width="250">
         <h2 class="d-inline">Tigist Kebede</h2>
         <p class="mt-4">Tigist Kebede is an inclusive counsellor. She employs trauma-informed, decolonizing and intersectional frameworks into her practice and advocacy. She is the founder of “The Coloured Therapist” a social media mental health platform and works for Pola Psychology, a culturally inclusive practice.</p>
         <p>You can learn more about Tigist Kebede advocacy work as “The Coloured Therapist” through her <a href="https://twitter.com/therapybytigist" target="_blank">Twitter</a> and <a href="https://www.instagram.com/ThecolouredTherapist/" target="_blank">Instagram platforms</a>.</p>

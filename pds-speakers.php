@@ -75,7 +75,7 @@ include('include/header.php');
 
 <div class="row my-5">
     <div class="col">
-        <!-- <img src="./img/pds/silveria.jpg" class="img-fluid float-right ml-4" width="250"> -->
+        <img src="./img/pds/silveria.jpg" class="img-fluid float-right ml-4" width="250">
         <h2 class="d-inline">Yves Silveira</h2>
         <p>Yves Silveira is an experienced musculoskeletal physiotherapist, with a passion for sports, rehabilitation and corporate wellness. Yves’ unique selling point is the three hats he wears – sports physiotherapist, teacher and corporate wellness facilitator. He combines these areas effectively to inspire his clients to feel better, work better and overall be 'the best versions of themselves’. Yves presentations are engaging, fun and successful in giving strategies to reduce lost time to injuries, as well as promoting happiness and productivity in the workplace. Yves has a keen interest in music, who enjoys playing piano, guitar and saxophone, and was short-listed to play at the Sydney Opera house for excelling in his HSC major work many years ago.</p>
         <h3>How to stay pain free in music therapy</h3>
