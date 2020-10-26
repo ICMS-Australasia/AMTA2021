@@ -24,6 +24,15 @@ include('include/header.php');
     <div class="col-3">
         <a href="http://www.singandgrow.org/" target="_blank"><img src="./img/sponsors/sing-and-grow.png" class="img-fluid mx-auto d-block" width="100"></a>
     </div>
+    <div class="col-3">
+        <a href="http://www.jammusictherapy.com/" target="_blank"><img src="./img/sponsors/jam.jpg" class="img-fluid mx-auto d-block" width="150"></a>
+    </div>
+    <div class="col-3">
+        <a href="http://www.musicbeat.com.au/" target="_blank"><img src="./img/sponsors/music-beat.jpg" class="img-fluid mx-auto d-block" width="150"></a>
+    </div>
+    <div class="col-3">
+        <a href="http://www.woodslane.com.au/" target="_blank"><img src="./img/sponsors/woodslane.png" class="img-fluid mx-auto d-block" width="100"></a>
+    </div>
 </div>
 
 <p>This year we look forward to partnering with individuals, small and large businesses and other organisations to support the music therapy community. The AMTA Conference will be delivered virtually in 2020. The 2020 sponsorship opportunities offer exposure via the dedicated AMTA 2020 virtual conference platform. Sponsorship opportunities will range in price from only $250 upwards, and can be tailored to suit your budget and requirements.</p>

@@ -31,7 +31,7 @@ include('include/header.php');
             </tr>
             <tr valign="top">
                 <td align="center"><b>10:00am – 11:30am</b></td>
-                <td colspan="4" class="pink">Keynote: Building connections: Radical imaginations in music therapy <br>
+                <td colspan="4" class="pink">Keynote: Building Connections: Radical Imaginations in Music Therapy <br>
                     <b>Dr Marisol Norris</b></td>
             </tr>
             <tr valign="top">
@@ -39,7 +39,7 @@ include('include/header.php');
                 <td bgcolor="#e0e0e0" colspan="4" align="center"><b>Networking and coffee break</b></td>
             </tr>
             <tr valign="top">
-                <td align="center" rowspan="2"><b>12.00am – 1:00pm</b></td>
+                <td align="center" rowspan="2"><b>12.00pm – 1:00pm</b></td>
                 <td class="green">Paper: Telehealth in the time of COVID 19- reflections on providing group music therapy online for people with intellectual and developmental disabilities <br>
                     <b>Helen Cameron & Jolin Lee</b></td>
                 <td class="blue" rowspan="2">Perspectives: Responding to families’ needs: reflections on the factors that allow families to engage in Sing & Grow’s innovative alternate service delivery options <br>
@@ -144,7 +144,7 @@ include('include/header.php');
                 <td align="center" rowspan="3"><b>7:00pm – 8:30pm</b></td>
                 <td class="green">Paper: PROJECT-CONNECT: Keeping New Grad RMTs Connected Through a Global Pandemic <br>
                     <b>Lauren Khalil-Salib</b></td>
-                <td class="green">Paper: Singing, Songwriting, and Synchrony through Screens: Adapting methods and developing meaningful therapeutic rapport within a short-term telehealth music therapy program <br>
+                <td class="green">Paper: Singing and Seeking Synchrony Through Screens: Adapting methods to support meaningful rapport development within a short-term telehealth music therapy program <br>
                     <b>Brede Davis</b></td>
                 <td class="red" rowspan="3">Masterclass: Connecting in and reaching out: evolving with nurture, knowledge and support through COVID-19 <br>
                     <b>Minky van der Walt</b></td>
@@ -162,7 +162,7 @@ include('include/header.php');
             <tr valign="top">
                 <td class="green">Paper: "Can you hear me?": Navigating the 'expert model' and power dynamics created by technological facilitation in telehealth music therapy <br>
                     <b>James Wheller</b></td>
-                <td class="green">Paper: Connecting the generations during unprecedented times <br>
+                <td class="green">Paper: Connecting the generations during unprecedented times. The benefits of intergenerational music therapy, for older adults aged 65 years plus <br>
                     <b>Heidi Hutchison</b></td>
 
             </tr>
@@ -179,25 +179,24 @@ include('include/header.php');
             <col width="20%">
             <tr valign="top">
                 <td align="center" rowspan="3"><b>7:00pm – 8:30pm</b></td>
-                <td class="green">Paper: Music Therapy Sessions and the Cello - A case study <br>
-                    <b>Michael McInerney</b></td>
+                <td class="green">Paper: If my heart was wood, I'd set it on fire: Connecting to an adolescent's emotional world via songwriting collaborations <br>
+                    <b>Verena Clemencic-Jones</b></td>
                 <td class="green">Paper: "Virtual Wise Wellness": online day program for older adults who suffer from mental health problems, an integrative therapeutic approach <br>
                     <b>Vannie Ip-Winfield & Jedda Tomkins</b></td>
                 <td class="red" rowspan="3">Masterclass: Developing and adapting music therapy assessment tools <br>
                     <b>Dr Gustavo Gattino</b></td>
-                <td>Session TBA</td>
+                <td>Paper: Reflections on adapting and creating in online music therapy spaces during COVID19 – perspectives from two music therapists and NDIS participants in an online music therapy group <br>
+                  <b>Zara Thompson & Lauren Khalil-Salib</b></td>
             </tr>
             <tr valign="top">
-                <td class="green">Paper: If my heart was wood, I'd set it on fire: Connecting to an adolescent's emotional world via songwriting collaborations <br>
-                    <b>Verena Clemencic-Jones</b></td>
+                <td class="orange" rowspan="2">Panel: Connection within Acute Adolescent Mental Health <br>
+                    <b>Ali Blundell (Moderator), Jenna Murphy, Emma Fitzgerald & Catherine Garner</b></td>
                 <td class="green">Paper: Remaining connected: Reflections of a music therapy team during a global pandemic <br>
                     <b>Kate Fletcher, Tara Cronin & Dr Vicky Abad</b></td>
                 <td class="orange" rowspan="2">Panel: Cancer Care in a Covid-19 Context <br>
                     <b>Penelope Sanderson (Moderator) & Kate McMahon, Lucy Forrest, Stephen Skov & Stef Zappino</b></td>
             </tr>
             <tr valign="top">
-                <td class="green">Paper: Reflections on adapting and creating in online music therapy spaces during COVID19 – perspectives from two music therapists and NDIS participants in an online music therapy group <br>
-                    <b>Zara Thompson & Lauren Khalil-Salib</b></td>
                 <td class="green">Paper: The use of visual supports by Registered Music Therapists (RMTs): Survey results that address the why, who, what and how <br>
                     <b>Allison Fuller</b></td>
             </tr>
@@ -275,8 +274,7 @@ include('include/header.php');
             </tr>
             <tr valign="top">
                 <td align="center"><b>2:45pm – 3:45pm</b></td>
-                <td class="orange">Panel: Connection within Acute Adolescent Mental Health <br>
-                    <b>Ali Blundell (Moderator), Jenna Murphy, Emma Fitzgerald & Catherine Garner</b></td>
+                <td class="orange"><b>Session TBA</b></td>
                 <td class="blue">Perspectives: Is connection enough? Can community musicians be effective replacements for music therapists in community settings? <br>
                     <b>Joe Thompson & Adam Van Eyk</b></td>
                 <td class="green">Roundtable: Evolving, Reflecting, Responding: Sing&Grow’s Lessons From COVID <br>
@@ -315,7 +313,7 @@ include('include/header.php');
             <tr valign="top">
                 <td align="center"><b>12:00pm – 1:15pm</b></td>
                 <td colspan="2" class="purple">Leaders in Conversation: Pursuing Decolonisation and Self-Determination in Therapeutic Practice <br>
-                    <b>Sue-Anne Hunter & Special Guest</b></td>
+                    <b>Sue-Anne Hunter & Tigist Kebede</b></td>
                 <td colspan="2" class="purple">Leaders in Conversation: International Dialogues in Music and Neuroscience <br>
                     <b>Professor Dale Taylor & Professor Jörg Fachner</b></td>
             </tr>
@@ -329,9 +327,6 @@ include('include/header.php');
                     <br><br>
                     Sing&Grow 2019 Evaluation Project <br>
                     <b>Jessica Higgins-Anderson</b>
-                    <br><br>
-                    Findings from the Rhythm & Movement for Self-Regulation (RAMSR) RCT: Connecting early years teachers to music therapy principles <br>
-                    <b>Dr Kate Williams</b>
                     <br><br>
                     The Possibilities of Group Singing Online <br>
                     <b>Kate Fletcher</b>
