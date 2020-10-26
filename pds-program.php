@@ -3,7 +3,7 @@ $title = "PDS Program";
 include('include/header.php');
 ?>
 
-<p><b><em>Please note: the times displayed on the program below are in Australian Eastern Standard Time (Brisbane time). </em></b></p>
+<p><b><em>Please note: the times displayed on the program below are in Australian Eastern Daylight Time (NSW, Victoria, Tasmania, ACT time).</em></b></p>
 
 <h2>Saturday 7 November 2020</h2>
 
