@@ -110,8 +110,8 @@ include('include/header.php');
     <div class="col">
         <img src="./img/leaders/kebede.png" class="img-fluid float-right ml-4" width="250">
         <h2 class="d-inline">Tigist Kebede</h2>
-        <p class="mt-4">Tigist Kebede is an inclusive counsellor. She employs trauma-informed, decolonizing and intersectional frameworks into her practice and advocacy. She is the founder of “The Coloured Therapist” a social media mental health platform and works for Pola Psychology, a culturally inclusive practice.</p>
-        <p>You can learn more about Tigist Kebede advocacy work as “The Coloured Therapist” through her <a href="https://twitter.com/therapybytigist" target="_blank">Twitter</a> and <a href="https://www.instagram.com/ThecolouredTherapist/" target="_blank">Instagram platforms</a>.</p>
+        <p class="mt-4">Tigist Kebede is an inclusive counsellor. She employs trauma-informed, decolonizing and intersectional frameworks into her practice and advocacy. She is the founder of “The Tena Therapist” a social media mental health platform and works for Pola Psychology, a culturally inclusive practice.</p>
+        <p>You can learn more about Tigist Kebede advocacy work as “The Tena Therapist” through her <a href="https://twitter.com/tigistkebede" target="_blank">Twitter</a> and <a href="https://www.instagram.com/thetenatherapist/" target="_blank">Instagram platforms</a>.</p>
     </div>
 </div>
 <?php
