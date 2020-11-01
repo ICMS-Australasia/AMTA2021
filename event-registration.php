@@ -156,7 +156,7 @@ include('include/header.php');
     <li>Access to view the AMTA PechaKucha Gallery</li>
     <li>Access to view the AMTA virtual exhibition and opportunity to engage with key sponsors and exhibitors</li>
     <li>Opportunity to meet other attendees, exchange contact details and set meetings via the AMTA 2020 meeting hub</li>
-    <li>Between 1 – 10.5 CPD hours depending on session amount and session length chosen.</li>
+    <li>Between 1 – 5 CPD hours depending on session amount and session length chosen.</li>
     <li>Certificate of CPD</li>
 </ul>
 
