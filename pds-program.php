@@ -14,7 +14,7 @@ include('include/header.php');
     <col width="25%">
     <tr>
         <td align="center">10:00am – 10:15am</td>
-        <td colspan="3">Welcome including Acknowledgement of Country</td>
+        <td colspan="3">Welcome including Welcome to Country</td>
     </tr>
     <tr>
         <td align="center">10:30am – 11:30am</td>
@@ -48,6 +48,10 @@ include('include/header.php');
         <td colspan="3">“Fostering Connection In The Therapeutic Relationship” - Counselling Skills <br>
             <b>Libby Sherring</b> <br>
             <em>*Additional Breaks will be scheduled during this time</em></td>
+    </tr>
+    <tr>
+        <td align="center">4:30pm – 4:45pm</td>
+        <td colspan="3">Closing Session</td>
     </tr>
 </table>
 
