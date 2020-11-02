@@ -18,7 +18,53 @@ include('include/header.php');
 <h3>Tanya Marie Silveira</h3>
 <p><strong>On behalf of the National Conference Committee</strong></p>
 
+<h2>Silver Sponsors</h2>
+<div class="row align-items-center my-4">
+  <div class="col-3">
+    <a href="http://www.rcdfoundation.org/" target="_blank"><img src="./img/sponsors/rcd-foundation.png" class="img-fluid mx-auto d-block mt-3" width="150"></a>
+  </div>
+  <div class="col-5">
+    <a href="http://www.tunedinmusictherapy.com/" target="_blank"><img src="./img/sponsors/tuned-in-music-therapy.png" class="img-fluid mx-auto d-block mt-3"></a>
+  </div>
+</div>
 
+<h2>AMTA 2020 Sponsors</h2>
+
+<div class="row align-items-center my-4">
+  <div class="col-3">
+    <a href="http://www.hansmusic.com.au/" target="_blank"><img src="./img/sponsors/hans-music.png" class="img-fluid mx-auto d-block mt-3"></a>
+  </div>
+  <div class="col-3">
+    <a href="http://www.soundexpression.com.au/" target="_blank"><img src="./img/sponsors/sound-expression.png" class="img-fluid mx-auto d-block mt-3"></a>
+  </div>
+  <div class="col-6">
+    <a href="http://www.rhythmvillage.com.au/" target="_blank"><img src="./img/sponsors/the-rhythm-village.jpg" class="img-fluid mx-auto d-block mt-3"></a>
+  </div>
+  <div class="col-3">
+    <a href="http://www.musictherapyonline.org/" target="_blank"><img src="./img/sponsors/mto.png" class="img-fluid mx-auto d-block mt-3"></a>
+  </div>
+  <div class="col-3">
+    <a href="http://www.musictherapyacademy.com/" target="_blank"><img src="./img/sponsors/mta.jpg" class="img-fluid mx-auto d-block mt-3"></a>
+  </div>
+  <div class="col-3">
+    <a href="http://www.tanyamariesilveira.com.au/" target="_blank"><img src="./img/sponsors/tms.png" class="img-fluid mx-auto d-block mt-3"></a>
+  </div>
+  <div class="col-3">
+    <a href="http://www.soundingboardmusictherapy.com/" target="_blank"><img src="./img/sponsors/sounding-board-music-therapy.png" class="img-fluid mx-auto d-block mt-3" ></a>
+  </div>
+  <div class="col-3">
+    <a href="http://www.singandgrow.org/" target="_blank"><img src="./img/sponsors/sing-and-grow.png" class="img-fluid mx-auto d-block mt-3" width="100"></a>
+  </div>
+  <div class="col-3">
+    <a href="http://www.jammusictherapy.com/" target="_blank"><img src="./img/sponsors/jam.jpg" class="img-fluid mx-auto d-block mt-3" width="150"></a>
+  </div>
+  <div class="col-3">
+    <a href="http://www.musicbeat.com.au/" target="_blank"><img src="./img/sponsors/music-beat.jpg" class="img-fluid mx-auto d-block mt-3" width="150"></a>
+  </div>
+  <div class="col-3">
+    <a href="http://www.woodslane.com.au/" target="_blank"><img src="./img/sponsors/woodslane.png" class="img-fluid mx-auto d-block mt-3" width="100"></a>
+  </div>
+</div>
 
 <?php
 include('include/footer.php');

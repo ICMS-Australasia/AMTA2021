@@ -8,19 +8,6 @@
     <li><strong>Registration</strong> Now open!</li>
     <li class="event"><strong>AMTA 2020 Conference</strong> 7 - 15 November 2020</li>
   </ul>
-  <?php if ($title != "Conference Sponsorship Opportunities") { ?>
-      <h2 class='mt-5'>AMTA 2020 Sponsors</h2>
-      <div class="sidebar-sponsor">
-          <a href="http://www.soundexpression.com.au/" target="_blank">
-              <img src="./img/sponsors/sound-expression.png" class="img-fluid p-4"></a>
-          <a href="http://www.musictherapyonline.org/" target="_blank">
-              <img src="./img/sponsors/mto.png" class="img-fluid p-4"></a>
-          <a href="http://www.musictherapyacademy.com/" target="_blank">
-              <img src="./img/sponsors/mta.jpg" class="img-fluid p-4"></a>
-          <a href="http://www.tanyamariesilveira.com.au/" target="_blank">
-              <img src="./img/sponsors/tms.png" class="img-fluid p-4"></a>
-      </div>
-  <?php } ?>
 </div>
 <?php } ?>
 </div>
