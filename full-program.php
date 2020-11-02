@@ -52,8 +52,8 @@ include('include/header.php');
             <tr valign="top">
                 <td class="green">Paper: Collaboratively designing autism-friendly music making workshops to support social connection <br>
                     <b>Dr Grace Thompson</b></td>
-                <td class="green">Paper: Carers Count <br>
-                    <b>Jessica Archbold</b></td>
+                <td class="green">Paper: Carers Count: A collaborative project between music therapy and physiotherapy designed to support stroke survivors and their caregivers. <br>
+                    <b>Jessica Archbold & Tamina Levy</b></td>
             </tr>
             <tr valign="top">
                 <td align="center"><b>1:00pm – 2:00pm</b></td>
@@ -62,7 +62,7 @@ include('include/header.php');
             <tr valign="top">
                 <td align="center" rowspan="3"><b>2:00pm – 3:30pm</b></td>
             	<td class="green">Paper: Connecting parents and their children through online music groups: Affordances and constraints in the face of crisis <br>
-                    <b>Dr Vicky Abad</b></td>
+                    <b>Dr Vicky Abad, Margaret Barrett & Helen Shoemark</b></td>
                 <td class="green">Paper: I thought CYMHS was someone called Kim: Young peoples’ lived experiences of mental health assessment and suggestions for music therapy assessment in a Child and Youth Mental Health Service <br>
                     <b>Kate Aitchison</b></td>
             	<td class="red" rowspan="3">Masterclass: Connecting research to practice: The future of music therapy <br>
@@ -74,9 +74,9 @@ include('include/header.php');
                 <td class="green">Paper: From Lullabies to Life: An Evolving Therapeutic Connection with a Preterm Infant and his Parents <br>
                     <b>Verena Clemencic Jones</b></td>
                 <td class="blue" rowspan="2">Perspectives: With a Little Help From My Friends: Collaboration between a Music Therapist and a Social Worker at an adolescent mental health inpatient unit <br>
-                    <b>Joanne McIntyre</b></td>
+                    <b>Joanne McIntyre & Nina Mather</b></td>
                 <td class="orange" rowspan="2">Panel: Queer Theory and Coming Out Stories: Making Connections between Australia and the US <br>
-                    <b>Annette Whitehead-Pleaux & Dr Michele Forinash</b></td>
+                    <b>Annette Whitehead-Pleaux, Dr Michele Forinash, Kristen Hillman & Bronte Arns</b></td>
             </tr>
             <tr valign="top">
                 <td class="green">Paper: Reflecting on the role of the Music Therapist in Infant Mental Health <br>
@@ -143,13 +143,13 @@ include('include/header.php');
             <tr valign="top">
                 <td align="center" rowspan="3"><b>7:00pm – 8:30pm</b></td>
                 <td class="green">Paper: PROJECT-CONNECT: Keeping New Grad RMTs Connected Through a Global Pandemic <br>
-                    <b>Lauren Khalil-Salib</b></td>
+                    <b>Lauren Khalil-Salib & Emilia Spragg</b></td>
                 <td class="green">Paper: Singing and Seeking Synchrony Through Screens: Adapting methods to support meaningful rapport development within a short-term telehealth music therapy program <br>
                     <b>Brede Davis</b></td>
                 <td class="red" rowspan="3">Masterclass: Connecting in and reaching out: evolving with nurture, knowledge and support through COVID-19 <br>
                     <b>Minky van der Walt</b></td>
                 <td class="green">Paper: Who Are You…Who Who, Who Who: Exploring Identity Through Music Therapy with Young People at The Forensic Hospital, Sydney <br>
-                    <b>Joanne McIntyre</b></td>
+                    <b>Joanne McIntyre & McAuliffe & Peter Tsagaroulis</b></td>
             </tr>
             <tr valign="top">
                 <td class="green">Paper: Recovering connections: The power of persistence and collaboration during telehealth music therapy <br>
@@ -194,7 +194,7 @@ include('include/header.php');
                 <td class="green">Paper: Remaining connected: Reflections of a music therapy team during a global pandemic <br>
                     <b>Kate Fletcher, Tara Cronin & Dr Vicky Abad</b></td>
                 <td class="orange" rowspan="2">Panel: Cancer Care in a Covid-19 Context <br>
-                    <b>Penelope Sanderson (Moderator) & Kate McMahon, Lucy Forrest, Stephen Skov & Stef Zappino</b></td>
+                    <b>Penelope Sanderson (Moderator), Lucy Forrest, Kate McMahon, Stef Zappino, James Wheller & Stefan Skov</b></td>
             </tr>
             <tr valign="top">
                 <td class="green">Paper: The use of visual supports by Registered Music Therapists (RMTs): Survey results that address the why, who, what and how <br>
@@ -288,7 +288,7 @@ include('include/header.php');
                     <b>Paper 3:</b> Responding - Looking forward <br>
                     <b>Julia Oreopoulos</b> </td>
                 <td class="orange">Panel: Musical engagement through healthy ageing, cognitive impairment and dementia <br> <br>
-                    <b>Pete McDonald, Matt Sutcliffe, Anita Connell & Dementia Australia Representative</b></td>
+                    <b>Anita Connell, Pete McDonald, Matthew Sutcliffe, Joanne Kershaw and Jeff Thurlow </b></td>
             </tr>
         </table>`
     };
@@ -323,31 +323,28 @@ include('include/header.php');
             </tr>
             <tr valign="top">
                 <td align="center"><b>2:15pm – 3:15pm</b></td>
-                <td colspan="2" class="yellow">PechaKucha Stream 1
+                <td colspan="2" class="yellow">PechaKucha Presentations
                     <br><br>
                     Sing&Grow 2019 Evaluation Project <br>
-                    <b>Jessica Higgins-Anderson</b>
+                    <b>Lorna Berry</b>
                     <br><br>
                     The Possibilities of Group Singing Online <br>
                     <b>Kate Fletcher</b>
                     <br><br>
                     Musical Attention Control Training for Schizophrenia <br>
-                    <b>Cameron Haigh</b></td>
-                <td colspan="2" class="yellow">PechaKucha Stream 2
+                    <b>Cameron Haigh</b>
                     <br><br>
                     The Evolution of Intergen: A New Grads' View <br>
                     <b>Soya Thippawal & Catherine Vesic</b>
                     <br><br>
-                    Song Creation- a strength based tool to build expressive confidence <br>
+                    Song Creation - a strength based tool to build expressive confidence <br>
                     <b>Ann Lehmann-kuit</b>
                     <br><br>
                     Exploring the use of music as an intervention in perinatal mental health: a systematic approach based on literature <br>
                     <b>Greer Boutling</b>
                     <br> <br>
                     Crucial connections: Reflections on the role of the Support Worker in group music therapy <br>
-                    <b>Helen Cameron</b>
-
-                    </td>
+                    <b>Helen Cameron</b></td>
             </tr>
             <tr valign="top">
                 <td align="center"><b>3:15pm – 3:45pm</b></td>
