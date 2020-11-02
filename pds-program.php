@@ -13,7 +13,7 @@ include('include/header.php');
     <col width="25%">
     <col width="25%">
     <tr>
-        <td align="center">10:00am – 10:15am</td>
+        <td align="center">10:00am – 10:30am</td>
         <td colspan="3">Welcome including Welcome to Country</td>
     </tr>
     <tr>
