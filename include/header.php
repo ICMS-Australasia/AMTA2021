@@ -79,8 +79,8 @@ if ($title == 'Welcome') {
                     <a class="dropdown-item" href="pds-speakers">PDS Speakers</a>
                   </div>
                 </li>
-                <li class="nav-item <?php if( in_array($title, array("Call for Presentations")) ) { echo "active"; }?>">
-                  <a class="nav-link" href="call-for-presentations">Call for Presentations</a>
+                <li class="nav-item <?php if( in_array($title, array("Virtual Conference Portal")) ) { echo "active"; }?>">
+                  <a class="nav-link" href="virtual-conference-portal">Virtual Conference Portal</a>
                 </li>
                 <li class="nav-item dropdown <?php if( in_array($title, array("Conference Program", "PDS Program")) ) { echo "active"; }?>"> <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
                     data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Program<i class="fas fa-angle-down"></i></a>
