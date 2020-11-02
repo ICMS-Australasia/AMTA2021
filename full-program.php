@@ -27,12 +27,16 @@ include('include/header.php');
             <col width="20%">
             <tr valign="top">
                 <td align="center"><b>9:30am – 10:00am</b></td>
-                <td align="center" colspan="4" bgcolor="#e0e0e0"><b>Welcome to Country & opening session</b></td>
+                <td align="center" colspan="4" bgcolor="#e0e0e0"><b>Conference opening – Including Acknowledgement of Country</b></td>
             </tr>
             <tr valign="top">
-                <td align="center"><b>10:00am – 11:30am</b></td>
+                <td align="center"><b>10:00am – 11:00am</b></td>
                 <td colspan="4" class="pink">Keynote: Building Connections: Radical Imaginations in Music Therapy <br>
                     <b>Dr Marisol Norris</b></td>
+            </tr>
+            <tr valign="top">
+                <td align="center"><b>11:00am – 11:30am</b></td>
+                <td colspan="4" class="pink">Live Q&A with Dr Marisol Norris</td>
             </tr>
             <tr valign="top">
                 <td align="center"><b>11.30am – 12:00pm</b></td>
@@ -62,7 +66,7 @@ include('include/header.php');
             <tr valign="top">
                 <td align="center" rowspan="3"><b>2:00pm – 3:30pm</b></td>
             	<td class="green">Paper: Connecting parents and their children through online music groups: Affordances and constraints in the face of crisis <br>
-                    <b>Dr Vicky Abad, Margaret Barrett & Helen Shoemark</b></td>
+                    <b>Dr Vicky Abad</b></td>
                 <td class="green">Paper: I thought CYMHS was someone called Kim: Young peoples’ lived experiences of mental health assessment and suggestions for music therapy assessment in a Child and Youth Mental Health Service <br>
                     <b>Kate Aitchison</b></td>
             	<td class="red" rowspan="3">Masterclass: Connecting research to practice: The future of music therapy <br>
@@ -76,7 +80,7 @@ include('include/header.php');
                 <td class="blue" rowspan="2">Perspectives: With a Little Help From My Friends: Collaboration between a Music Therapist and a Social Worker at an adolescent mental health inpatient unit <br>
                     <b>Joanne McIntyre & Nina Mather</b></td>
                 <td class="orange" rowspan="2">Panel: Queer Theory and Coming Out Stories: Making Connections between Australia and the US <br>
-                    <b>Annette Whitehead-Pleaux, Dr Michele Forinash, Kristen Hillman & Bronte Arns</b></td>
+                    <b>Annette Whitehead-Pleaux, Dr Michele Forinash, Kirsten Hillman & Bronte Arns</b></td>
             </tr>
             <tr valign="top">
                 <td class="green">Paper: Reflecting on the role of the Music Therapist in Infant Mental Health <br>
@@ -120,8 +124,7 @@ include('include/header.php');
                     <b>Dave Anthony & Matthew Breaden</b></td>
                 <td class="green">Paper: Singing With Grief: Accepting your own grief in the facilitation process of group singing <br>
                     <b>Kate Fletcher</b></td>
-                <td class="orange" rowspan="2">Panel: Mapping pathways to connection for music therapists during and after COVID-19 <br>
-                    <b>Minky van der Walt (Moderator), Dr Jane Munro, Dr Geoffrey Toogood & Ruth Langford</b></td>
+                <td rowspan="2"></td>
             </tr>
             <tr valign="top">
                 <td class="green">Paper: The Transformation of Entrainment: Online Co-therapy During Lockdown <br>
@@ -185,7 +188,7 @@ include('include/header.php');
                     <b>Vannie Ip-Winfield & Jedda Tomkins</b></td>
                 <td class="red" rowspan="3">Masterclass: Developing and adapting music therapy assessment tools <br>
                     <b>Dr Gustavo Gattino</b></td>
-                <td>Paper: Reflections on adapting and creating in online music therapy spaces during COVID19 – perspectives from two music therapists and NDIS participants in an online music therapy group <br>
+                <td class="green">Paper: Reflections on adapting and creating in online music therapy spaces during COVID19 – perspectives from two music therapists and NDIS participants in an online music therapy group <br>
                   <b>Zara Thompson & Lauren Khalil-Salib</b></td>
             </tr>
             <tr valign="top">
@@ -264,9 +267,9 @@ include('include/header.php');
                     <b>Brede Davis (presentation coordinator), Zoë Kalenderidis & Megan Murray</b>
                     <br> <br>
                     Paper 3: Introducing the Post-Ableist Collective (PAC) in celebration of diverse health identities within the music therapy profession <br>
-                    <b>Carolyn Ayson (presentation coordinator), Grace Thompson &  Zoë Kalenderidis</b></td>
+                    <b>Carolyn Shaw (presentation coordinator), Grace Thompson &  Zoë Kalenderidis</b></td>
                 <td class="orange">Panel: Advocating for systemic change: diverse perspectives on the NEED for music therapy in neurorehabilitation <br>
-                    <b>Tanya Marie Silveira (Moderator), Dr Jeanette Tamplin, Marissa Mellick, Steven Giannakopoulos, Dr Anuka Parapuram & Anna Barlow </b></td>
+                    <b>Tanya Marie Silveira (Moderator), Dr Jeanette Tamplin, Marissa Mellick, Steven Giannakopoulos, Dr Anuka Parapuram, Anna Barlow & Maria Venuti</b></td>
             </tr>
             <tr valign="top">
                 <td align="center"><b>2:30pm – 2:45pm</b></td>
@@ -302,9 +305,13 @@ include('include/header.php');
             <col width="20%">
             <col width="20%">
             <tr valign="top">
-                <td align="center"><b>10:00am – 11:30am</b></td>
+                <td align="center"><b>10:00am – 11:00am</b></td>
                 <td class="pink" colspan="4">Keynote: The Urgency for Sociocultural Reflexivity in Music Therapy <br>
                     <b>Professor Susan Hadley</b></td>
+            </tr>
+            <tr valign="top">
+                <td align="center"><b>11:00am – 11:30am</b></td>
+                <td class="pink" colspan="4">Live Q&A with Professor Susan Hadley</td>
             </tr>
             <tr valign="top">
                 <td align="center"><b>11:30am – 12:00pm</b></td>
@@ -315,7 +322,7 @@ include('include/header.php');
                 <td colspan="2" class="purple">Leaders in Conversation: Pursuing Decolonisation and Self-Determination in Therapeutic Practice <br>
                     <b>Sue-Anne Hunter & Tigist Kebede</b></td>
                 <td colspan="2" class="purple">Leaders in Conversation: International Dialogues in Music and Neuroscience <br>
-                    <b>Professor Dale Taylor & Professor Jörg Fachner</b></td>
+                    <b>Dr Dale Taylor & Professor Jörg Fachner</b></td>
             </tr>
             <tr valign="top">
                 <td align="center"><b>1:15pm – 2:15pm</b></td>
@@ -323,7 +330,7 @@ include('include/header.php');
             </tr>
             <tr valign="top">
                 <td align="center"><b>2:15pm – 3:15pm</b></td>
-                <td colspan="2" class="yellow">PechaKucha Presentations
+                <td colspan="4" class="blue"><b>PechaKucha Presentations</b>
                     <br><br>
                     Sing&Grow 2019 Evaluation Project <br>
                     <b>Lorna Berry</b>
