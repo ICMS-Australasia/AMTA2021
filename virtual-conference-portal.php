@@ -3,6 +3,17 @@ $title = "Virtual Conference Portal";
 include('include/header.php');
 ?>
 <h2>AMTA 2020 Going Virtual</h2>
+
+<a href="https://portalapp.icmsaust.eventsair.com/VirtualAttendeePortal/australian-music-therapy-association-46th-national-conference-pds/amta2020virtualconferenceportal" class="button" target="_blank">Log in to the Virtual Conference Portal</a>
+
+<h3>AMTA 2020 Virtual Conference Portal Tour</h3>
+
+
+<div class="embed-responsive embed-responsive-16by9 my-4">
+    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/xb7JK2ptDu4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
 <p>We will be using the online platform 'OnAir' for the virtual conference, which is a cloud-based secure streaming conference solution.  So, there is nothing to download!</p>
 <p>In the virtual platform, interaction is the key! You will be able to view the full program and save your favourites to customise your program. You can watch live sessions and pre-recorded presentations (including post questions and communicate in Q&A), you can visit the Virtual Exhibition and view and access content in the virtual booths, as well as connect and meet with exhibitors, PLUS make connection with delegates via our networking sessions and the Meeting Hub.</p>
 <p>Below is a quick guide to get you started, but more in-depth step by step instructions will be sent with your log-in details.</p>
@@ -41,7 +52,7 @@ include('include/header.php');
 <p>We are working diligently to prepare for this unique experience and will send you the necessary instructions a few days prior to the event. Make sure that the email address associated with your registration is accurate and up to date so that there is no delay in receiving our communications.</p>
 
 <h3>Will sessions be pre-recorded or live?</h3>
-<p>The presentations will be a mixture of pre-recorded presentations and live presentations, and interaction with the presenter will be available via live Q&A. A full recording of the conference sessions will be available within 2 hours of the live session ending. Please note that the PDS sessions will not be recorded or available on-demand.</p>
+<p>The presentations will be a mixture of pre-recorded presentations and live presentations, and interaction with the presenter will be available via live Q&A. All conference sessions will be recorded and will be available to watch on-demand post conference. Please note that the PDS sessions will not be recorded or available on-demand.</p>
 
 <h3>Will sessions be recorded and available after the conference?</h3>
 <p>Yes, for registered participants only, the conference presentations will be made available within 2 hours of the live session ending. These recordings will be available for 3 months after the conference. This also includes access to the virtual exhibition, meeting hub, and all handouts. Please not that closed captions will be added to live videos after the conference.</p>
