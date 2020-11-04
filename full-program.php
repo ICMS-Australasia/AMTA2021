@@ -277,9 +277,8 @@ include('include/header.php');
             </tr>
             <tr valign="top">
                 <td align="center"><b>2:45pm – 3:45pm</b></td>
-                <td class="orange"><b>Session TBA</b></td>
-                <td class="blue">Perspectives: Is connection enough? Can community musicians be effective replacements for music therapists in community settings? <br>
-                    <b>Joe Thompson & Adam Van Eyk</b></td>
+                <td></td>
+                <td></td>
                 <td class="green">Roundtable: Evolving, Reflecting, Responding: Sing&Grow’s Lessons From COVID <br>
                     <br> <br>
                     <b>Paper 1:</b> Evolving - A reimagining of Sing&Grow in response to COVID-19 <br>
