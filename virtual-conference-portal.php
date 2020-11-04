@@ -55,7 +55,7 @@ include('include/header.php');
 <p>The presentations will be a mixture of pre-recorded presentations and live presentations, and interaction with the presenter will be available via live Q&A. All conference sessions will be recorded and will be available to watch on-demand post conference. Please note that the PDS sessions will not be recorded or available on-demand.</p>
 
 <h3>Will sessions be recorded and available after the conference?</h3>
-<p>Yes, for registered participants only, the conference presentations will be made available within 2 hours of the live session ending. These recordings will be available for 3 months after the conference. This also includes access to the virtual exhibition, meeting hub, and all handouts. Please not that closed captions will be added to live videos after the conference.</p>
+<p>Yes, for registered participants only, the conference presentations will be made available post conference to watch on demand. These recordings will be available for 3 months after the conference. This also includes access to the virtual exhibition, meeting hub, and all handouts. Please not that closed captions will be added to live videos after the conference.</p>
 
 <h3>Will attendees be able to ask questions during sessions?</h3>
 <p>Yes, via the Q&A box in the session as well as communicate/discuss with other delegates in the Discussion Forum.</p>
