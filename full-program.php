@@ -3,6 +3,8 @@ $title = "Conference Program";
 include('include/header.php');
 ?>
 
+<a href="conference-program.pdf" class="button" style="font-size:1.8em;" target="_blank">Click here to download and print the Conference Program</a>
+
 <div class="row mb-5 program-buttons">
     <div class="col px-1"><button type="button" class="w-100 py-3" name="button" onclick="program(sunday8)">Sunday 8</button></div>
     <div class="col px-1"><button type="button" class="w-100 py-3" name="button" onclick="program(tuesday10)">Tuesday 10</button></div>

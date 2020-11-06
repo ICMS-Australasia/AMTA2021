@@ -3,6 +3,10 @@ $title = "PDS Program";
 include('include/header.php');
 ?>
 
+<a href="pds-program.pdf" class="button" style="font-size:1.8em;" target="_blank">Click here to download and print the PDS Program</a>
+
+
+
 <p><b><em>Please note: the times displayed on the program below are in Australian Eastern Daylight Time (NSW, Victoria, Tasmania, ACT time).</em></b></p>
 
 <h2>Saturday 7 November 2020</h2>
