@@ -60,7 +60,7 @@ include('include/header.php');
     <a href="https://www.unimelb.edu.au/" target="_blank"><img src="./img/sponsors/uom.jpg" class="img-fluid mx-auto d-block mt-4" width="115"></a>
   </div>
   <div class="col-4">
-    <a href="https://www.westernsydney.edu.au/" target="_blank"><img src="./img/sponsors/wsu.jpg" class="img-fluid mx-auto d-block mt-4" width="220"></a>
+    <a href="https://www.westernsydney.edu.au/future/study/courses/postgraduate/master-of-creative-music-therapy.html?cid=afl:mcmt-amta-conference_nov20" target="_blank"><img src="./img/sponsors/wsu.jpg" class="img-fluid mx-auto d-block mt-4" width="220"></a>
   </div>
 </div>
 
