@@ -62,7 +62,7 @@ include('include/header.php');
   <div class="col-4">
     <a href="https://www.westernsydney.edu.au/future/study/courses/postgraduate/master-of-creative-music-therapy.html?cid=afl:mcmt-amta-conference_nov20" target="_blank"><img src="./img/sponsors/wsu.jpg" class="img-fluid mx-auto d-block mt-4" width="220"></a>
   </div>
-  <div class="col-4">
+  <div class="col-3">
     <a href="http://www.lumapixel.com/" target="_blank"><img src="./img/sponsors/lumapixel.png" class="img-fluid mx-auto d-block mt-4" width="220"></a>
   </div>
 </div>
