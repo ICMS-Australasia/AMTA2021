@@ -62,6 +62,9 @@ include('include/header.php');
   <div class="col-4">
     <a href="https://www.westernsydney.edu.au/future/study/courses/postgraduate/master-of-creative-music-therapy.html?cid=afl:mcmt-amta-conference_nov20" target="_blank"><img src="./img/sponsors/wsu.jpg" class="img-fluid mx-auto d-block mt-4" width="220"></a>
   </div>
+  <div class="col-4">
+    <a href="http://www.lumapixel.com/" target="_blank"><img src="./img/sponsors/lumapixel.png" class="img-fluid mx-auto d-block mt-4" width="220"></a>
+  </div>
 </div>
 
 <p>This year we look forward to partnering with individuals, small and large businesses and other organisations to support the music therapy community. The AMTA Conference will be delivered virtually in 2020. The 2020 sponsorship opportunities offer exposure via the dedicated AMTA 2020 virtual conference platform. Sponsorship opportunities will range in price from only $250 upwards, and can be tailored to suit your budget and requirements.</p>
