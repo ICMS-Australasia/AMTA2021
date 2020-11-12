@@ -349,7 +349,7 @@ include('include/header.php');
                     <b>Ann Lehmann-kuit</b>
                     <br><br>
                     Exploring the use of music as an intervention in perinatal mental health: a systematic approach based on literature <br>
-                    <b>Greer Boutling</b>
+                    <b>Greer Boulting</b>
                     <br> <br>
                     Crucial connections: Reflections on the role of the Support Worker in group music therapy <br>
                     <b>Helen Cameron</b></td>
