@@ -191,7 +191,7 @@ include('include/header.php');
                 <td class="red" rowspan="3">Masterclass: Developing and adapting music therapy assessment tools <br>
                     <b>Dr Gustavo Gattino</b></td>
                 <td class="green">Paper: Reflections on adapting and creating in online music therapy spaces during COVID19 – perspectives from two music therapists and NDIS participants in an online music therapy group <br>
-                  <b>Zara Thompson & Lauren Khalil-Salib</b></td>
+                  <b>Zara Thompson, Lauren Khalil-Salib & Aaron Gonsalves</b></td>
             </tr>
             <tr valign="top">
                 <td class="orange" rowspan="2">Panel: Connection within Acute Adolescent Mental Health <br>
