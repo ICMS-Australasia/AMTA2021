@@ -9,16 +9,16 @@ include('include/header.php');
 
 <h2 class="mt-0">A warm welcome to you all!</h2>
 
-<p> The National Conference Committee is excited to be bringing the Australian Music Therapy Association’s 2020 National Conference to you… from the comfort of your own home! As the year progresses, we feel that our central theme of “Connection” seems to constantly deepen in experience and meaning... and so, we look forward to dialoguing, learning and collaborating with you.</p>
-<p>This website is the central point of information sharing for the 2020 AMTA National Conference. In the lead up to this on-line conference, we will be updating the content as plans are finalised. Over the next few months, we will be sharing more information about the accessibility of the conference, the exciting content, and the innovative ways that YOU can get involved.</p>
-<p>In the meantime, please feel free to get in touch if you have any questions or collaborative thoughts. We look forward to virtually welcoming you all in November!</p>
+<p>On behalf of the National Conference Committee, I warmly invite you to join us for the 47th National Conference of the Australian Music Therapy Association in October 2021.</p>
+<p>The central theme of “Amplify, Integrate and Evolve: the voices of music therapy” aims to provide the forum to reflect on innovative changes in our profession that has occurred in the past 12 months from the voices of clinicians, researchers and service providers. It is these voices that ensure music therapy continues to strengthen and evolve. Through presentations and workshops we also aim to reflect the voices of the populations we work with, creatively and collaboratively coming together to meet their evolving needs.</p>
+<p>Following last year’s successful online conference we want to continue to make the most of opportunities to engage with colleagues and explore current and emerging professional issues in our changing world.</p>
+<p>We look forward to seeing you all in October for this exciting conference opportunity!</p>
+<p><b>Amy Thomas</b> <br> <em>AMTA Conference Convenor</em></p>
 
-<p>Be well,</p>
+<img src="./img/speakers/thomas.png" width="200">
 
-<h3>Tanya Marie Silveira</h3>
-<p><strong>On behalf of the National Conference Committee</strong></p>
 
-<h2>Gold Sponsor</h2>
+<!-- <h2>Gold Sponsor</h2>
 
 <div class="row align-items-center my-4">
   <div class="col-4">
@@ -80,7 +80,7 @@ include('include/header.php');
   <div class="col-3">
     <a href="http://www.lumapixel.com/" target="_blank"><img src="./img/sponsors/lumapixel.png" class="img-fluid mx-auto d-block mt-4" width="220"></a>
   </div>
-</div>
+</div> -->
 
 <?php
 include('include/footer.php');

@@ -11,9 +11,9 @@
   <link rel="stylesheet" href="style.css">
   <title><?php
 if ($title == 'Welcome') {
-	echo "Australian Music Therapy Association's 2020 National Conference";
+	echo "Australian Music Therapy Association's 2021 National Conference";
 } else {
-	echo $title . ' | AMTA 2020';
+	echo $title . ' | AMTA 2021';
 }
 ?></title>
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -34,7 +34,7 @@ if ($title == 'Welcome') {
       <div class="row pt-4 pb-5">
 
         <div class="col-md-8">
-          <a href="./"><img src="img/logo.png" alt="" class="img-fluid" width="800"></a>
+          <a href="./"><img src="img/AMTA2021-logo.png" alt="AMTA Logo" class="img-fluid" width="800"></a>
         </div>
 
         <div class="col d-flex flex-md-column text-center text-md-right mt-5 mt-md-0">
@@ -45,7 +45,7 @@ if ($title == 'Welcome') {
             <a href="https://twitter.com/AustMTA" target="_blank">
               <i class="fab fa-twitter-square twitter"></i>
             </a>
-            <strong>#AUSMTA<span>2020</span></strong>
+            <strong>#AUSMTA<span>2021</span></strong>
           </div>
           <div class="mt-auto">
             <a href="https://www.austmta.org.au/" target="_blank"><img src="img/logo-amta.png" alt="" class="img-fluid association" width="300"></a>
@@ -71,25 +71,24 @@ if ($title == 'Welcome') {
                 <li class="nav-item <?php if( in_array($title, array("Committee")) ) { echo "active"; }?>">
                   <a class="nav-link" href="committee">Committee</a>
                 </li>
-                <li class="nav-item dropdown <?php if( in_array($title, array("Keynote Speakers", "Leaders in Conversation", "PDS Speakers")) ) { echo "active"; }?>"> <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown"
+                <!-- <li class="nav-item dropdown <?php if( in_array($title, array("Keynote Speakers", "Leaders in Conversation", "PDS Speakers")) ) { echo "active"; }?>"> <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown"
                     aria-haspopup="true" aria-expanded="false">Speakers<i class="fas fa-angle-down"></i></a>
                   <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                     <a class="dropdown-item" href="keynote-speakers">Keynote Speakers</a>
-                    <a class="dropdown-item" href="leaders-in-conversation">Leaders in Conversation</a>
                     <a class="dropdown-item" href="pds-speakers">PDS Speakers</a>
                   </div>
-                </li>
-                <li class="nav-item <?php if( in_array($title, array("Virtual Conference Portal")) ) { echo "active"; }?>">
+                </li> -->
+                <!-- <li class="nav-item <?php if( in_array($title, array("Virtual Conference Portal")) ) { echo "active"; }?>">
                   <a class="nav-link" href="virtual-conference-portal">Virtual Conference Portal</a>
-                </li>
-                <li class="nav-item dropdown <?php if( in_array($title, array("Conference Program", "PDS Program", "AMTA 2020 Abstract Book")) ) { echo "active"; }?>"> <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
+                </li> -->
+                <!-- <li class="nav-item dropdown <?php if( in_array($title, array("Conference Program", "PDS Program", "AMTA 2020 Abstract Book")) ) { echo "active"; }?>"> <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
                     data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Program<i class="fas fa-angle-down"></i></a>
                   <div class="dropdown-menu">
                     <a class="dropdown-item" href="full-program">Conference Program</a>
                     <a class="dropdown-item" href="pds-program">PDS Program</a>
                     <a class="dropdown-item" href="abstract-book">AMTA 2020 Abstract Book</a>
                   </div>
-                </li>
+                </li> -->
                 <li class="nav-item dropdown <?php if( in_array($title, array("Event Registration", "Privacy Policy")) ) { echo "active"; }?>"> <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
                     data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Registration<i class="fas fa-angle-down"></i></a>
                   <div class="dropdown-menu">
@@ -97,9 +96,9 @@ if ($title == 'Welcome') {
                     <a class="dropdown-item" href="privacy-policy">Privacy Policy</a>
                   </div>
                 </li>
-                <li class="nav-item <?php if( in_array($title, array("Conference Sponsorship Opportunities")) ) { echo "active"; }?>">
+                <!-- <li class="nav-item <?php if( in_array($title, array("Conference Sponsorship Opportunities")) ) { echo "active"; }?>">
                   <a class="nav-link" href="sponsorship-and-exhibition-opportunities">Sponsorship</a>
-                </li>
+                </li> -->
                 <!--li class="nav-item dropdown <?php if( in_array($title, array("Event Registration", "Accommodation", "Privacy Policy")) ) { echo "active"; }?>"> <a class="nav-link dropdown-toggle" href="#" id="Participations" role="button"
                     data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Registration<i class="fas fa-angle-down"></i></a>
                   <div class="dropdown-menu">

@@ -4,30 +4,30 @@ include('include/header.php');
 ?>
 
       <div class="row speakers">
-        <a href="#silveira" data-toggle="modal" class="col-md-4 mb-4">
-            <img src="img/speakers/silveira.jpg" alt="" class="img-fluid">
-            <h2>Tanya Marie Silveira</h2>
+        <a href="#thomas" data-toggle="modal" class="col-md-4 mb-4">
+            <img src="img/speakers/thomas.png" alt="" class="img-fluid">
+            <h2>Amy Thomas</h2>
             Conference Convenor
         </a>
-        <a href="#scrine" data-toggle="modal" class="col-md-4 mb-4">
-            <img src="img/speakers/scrine.jpg" alt="" class="img-fluid">
-            <h2>Elly Scrine</h2>
+        <a href="#forrest" data-toggle="modal" class="col-md-4 mb-4">
+            <img src="img/speakers/forrest.png" alt="" class="img-fluid">
+            <h2>Lucy Forrest</h2>
             Scientific Chair
         </a>
-        <a href="#couper" data-toggle="modal" class="col-md-4 mb-4">
-            <img src="img/speakers/couper.jpg" alt="" class="img-fluid">
-            <h2>Vanessa Couper</h2>
+        <a href="#mackay" data-toggle="modal" class="col-md-4 mb-4">
+            <img src="img/speakers/mackay.png" alt="" class="img-fluid">
+            <h2>Rachael Mackay</h2>
             PDS Chair
         </a>
-        <a href="#davison" data-toggle="modal" class="col-md-4 mb-4">
-            <img src="img/speakers/davison.jpg" alt="" class="img-fluid">
-            <h2>Shae Davison</h2>
+        <a href="#khalil-salib" data-toggle="modal" class="col-md-4 mb-4">
+            <img src="img/speakers/khalil-salib.png" alt="" class="img-fluid">
+            <h2>Lauren Khalil-Salib</h2>
             Engagement Coordinator
         </a>
-        <a href="#oreilly" data-toggle="modal" class="col-md-4 mb-4">
-            <img src="img/speakers/oreilly.jpg" alt="" class="img-fluid">
-            <h2>Oli O’Reilly</h2>
-            Marketing & Sponsorship Coordinator
+        <a href="#vesic" data-toggle="modal" class="col-md-4 mb-4">
+            <img src="img/speakers/vesic.png" alt="" class="img-fluid">
+            <h2>Catherine Vesic</h2>
+            Social, Marketing & Sponsorships Coordinator
         </a>
         <a href="#calabro" data-toggle="modal" class="col-md-4 mb-4">
             <img src="img/speakers/calabro.jpg" alt="" class="img-fluid">
@@ -38,57 +38,57 @@ include('include/header.php');
 
 
       <!-- speaker content -->
-      <div class="modal fade" id="silveira">
+      <div class="modal fade" id="thomas">
           <div class="modal-dialog modal-dialog-centered modal-lg">
               <div class="modal-content">
-                  <img src="img/speakers/silveira.jpg" class="img-fluid float-right mb-3 ml-3">
-                  <h2>Tanya Marie Silveira</h2>
+                  <img src="img/speakers/thomas.png" class="img-fluid float-right mb-3 ml-3">
+                  <h2>Amy Thomas</h2>
                   <h3>Conference Convenor</h3>
-                  <p>Tanya Marie Silveira is a Registered Music Therapist and PhD Graduate Researcher based in Sydney, Australia. Tanya PhD research examines how accessible music making can impact the hand function and wellbeing of stroke survivors. In 2019, Tanya was invited to speak about her research at the inaugural TEDxNewtown event. Drawing upon an holistic approach, Tanya combines motivational, interactional, physical and communicative aspects of music therapy when working in a strengths-based model. Over the years, Tanya has collaborated closely with doctors, physiotherapists, occupational therapists, speech pathologists, psychologists and creative arts therapists.</p>
+                  <p>Amy Thomas is a music therapist with over 20 years clinical experience in a variety of populations across the lifespan, however predominantly in home-based palliative and aged care. Amy is currently the Head of Music, Art and Child Life Therapies at Monash Health and is a part of the multi-disciplinary leadership team of Monash Children’s Hospital. Amy has a strong interest in clinical service design and delivery, and most recently has been a member of the national Arts in Health: Community of Practice working group, which has developed a framework and recommendations for the inclusion of the arts in hospital infrastructure.</p>
                   <button type="button" class="close" data-dismiss="modal">x</button>
               </div>
           </div>
       </div>
-      <div class="modal fade" id="scrine">
+      <div class="modal fade" id="forrest">
           <div class="modal-dialog modal-dialog-centered modal-lg">
               <div class="modal-content">
-                  <img src="img/speakers/scrine.jpg" class="img-fluid float-right mb-3 ml-3">
-                  <h2>Elly Scrine</h2>
+                  <img src="img/speakers/forrest.png" class="img-fluid float-right mb-3 ml-3">
+                  <h2>Lucy Forrest</h2>
                   <h3>Scientific Chair</h3>
-                  <p>Dr Elly Scrine is a Registered Music Therapist and a lecturer at the University of Melbourne. Elly’s research examines the role of music to explore gender with young people, and how schools in the settler-colonial context operate as sites of power and regulation. Elly has contributed to recent adolescent practice handbooks such as the Oxford Handbook of Music, Adolescents, and Wellbeing, and Creative Arts-Based Group Therapy with Adolescents. Elly's research and clinical work focuses on justice-oriented research and practice frameworks, seeking to identify connections between trauma, pathologisation, and structural violence, and support young people who are positioned as 'at risk'. </p>
+                  <p>Dr Lucy Forrest has been a music therapist for more than 20 years, and has extensive clinical experience in cancer and palliative care. Lucy is currently Senior Music Therapist at the Olivia Newton-John Cancer Wellness & Research Centre, Austin Health; and with the Palliative Care Service at Alfred Health. Lucy's clinical and research interests include paediatrics, neuro-palliative care, bereavement, and cultural issues in practice; and Lucy is passionate about using music to support quality of life and wellbeing across the lifespan for people living with life-threatening illness. Lucy is also an experienced clinical supervisor, and passionate about supporting clinicians to grow and develop throughout their professional lives.</p>
                   <button type="button" class="close" data-dismiss="modal">x</button>
               </div>
           </div>
       </div>
-      <div class="modal fade" id="couper">
+      <div class="modal fade" id="mackay">
           <div class="modal-dialog modal-dialog-centered modal-lg">
               <div class="modal-content">
-                  <img src="img/speakers/couper.jpg" class="img-fluid float-right mb-3 ml-3">
-                  <h2>Vanessa Couper</h2>
+                  <img src="img/speakers/mackay.png" class="img-fluid float-right mb-3 ml-3">
+                  <h2>Rachael Mackay</h2>
                   <h3>PDS Chair</h3>
-                  <p>Vanessa Couper is a Registered Music Therapist from the Central Coast of NSW. Vanessa is currently Head of Music Therapy at the Central Coast Conservatorium of Music and has worked as a music therapist in paediatric palliative care, with ‘at risk’ adolescents, in school settings and in oncology. Vanessa also writes, records and performs children’s music in Tiptoe Giants. In this kids music group, Vanessa uses her music therapy experience to write and perform music that is developmentally appropriate, accessible for all children at their shows and that provides opportunities for children and families to engage and connect physically, socially, cognitively and emotionally.</p>
+                  <p>Rachael is a Registered Music Therapist, Behaviour Support Practitioner, and the founder of Resourced Music Therapy which reflects her passion for creatively "Resourcing" therapists, clients and their families. Rachael is passionate about accessibility and technology and works with a wide range of clinic populations including; mental health, children and adolescents.</p>
                   <button type="button" class="close" data-dismiss="modal">x</button>
               </div>
           </div>
       </div>
-      <div class="modal fade" id="davison">
+      <div class="modal fade" id="khalil-salib">
           <div class="modal-dialog modal-dialog-centered modal-lg">
               <div class="modal-content">
-                  <img src="img/speakers/davison.jpg" class="img-fluid float-right mb-3 ml-3">
-                  <h2>Shae Davison</h2>
+                  <img src="img/speakers/khalil-salib.png" class="img-fluid float-right mb-3 ml-3">
+                  <h2>Engagement Coordinator</h2>
                   <h3>Engagement Coordinator</h3>
-                  <p>Shae is a newly graduated Registered Music Therapist. Shae graduated from her Masters of Music Therapy from Western Sydney University in 2019. Shae has her Bachelor of Contemporary Music and majored in voice at the Australian Institute of Music. Shae is currently working predominantly with children of all abilities in an Allied Health setting at Macarthur Children's Developmental Clinic. In conjunction with the CEO of the business, Shae created a music therapy role within the clinic in 2019 which has now equated to a permanent full time role. Shae is passionate about using her voice therapeutically and celebrating the strengths of her clients. </p>
+                  <p>Lauren graduated from The University of Melbourne in 2019. She has since worked as an RMT in a range of settings from acute paediatrics (NICU and Palliative Care), community infant and family programs, early intervention and community-based disability. Lauren has also taken a keen interest in supporting other music therapists through innovative peer supervision groups online and is currently the Secretary for the Australian Music Therapy Association, Victorian Branch.</p>
                   <button type="button" class="close" data-dismiss="modal">x</button>
               </div>
           </div>
       </div>
-      <div class="modal fade" id="oreilly">
+      <div class="modal fade" id="vesic">
           <div class="modal-dialog modal-dialog-centered modal-lg">
               <div class="modal-content">
-                  <img src="img/speakers/oreilly.jpg" class="img-fluid float-right mb-3 ml-3">
-                  <h2>Oli O’Reilly</h2>
-                  <h3>Marketing & Sponsorship Coordinator</h3>
-                  <p>Oli O’Reilly is a senior music therapist at Noro Music therapy and a sessional academic in music and music therapy at WSU. In his PhD, Oli is investigating ways music therapists and other musicians develop ensemble skills, with a particular focus on generalising instrumental skills from first instrument to clinical applications of the guitar. </p>
+                  <img src="img/speakers/vesic.png" class="img-fluid float-right mb-3 ml-3">
+                  <h2>Catherine Vesic</h2>
+                  <h3>Social, Marketing & Sponsorships Coordinator</h3>
+                  <p>Catherine has been a music therapist for two years, graduating from Melbourne University in 2019. Prior to music therapy, she worked in various corporate environments across the finance, media and health sectors. Catherine works in private practice, supporting neurodiverse children and their families, using a person-centred framework.</p>
                   <button type="button" class="close" data-dismiss="modal">x</button>
               </div>
           </div>

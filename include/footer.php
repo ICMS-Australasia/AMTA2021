@@ -3,10 +3,12 @@
 <div class="col-md-3 sidebar py-5">
   <h2>Key Dates</h2>
   <ul class="dates">
-    <li><strong>Call for Presentations</strong> <a href="call-for-presentations">Closed</a></li>
-    <li><strong>Notification to authors</strong> 7 September 2020</li>
-    <li><strong>Registration</strong> Now open!</li>
-    <li class="event"><strong>AMTA 2020 Conference</strong> 7 - 15 November 2020</li>
+    <li><strong>Call for Abstracts</strong> Now Open</li>
+    <li><strong>Call for Abstracts close</strong> Friday 30 July 2021</li>
+    <li><strong>Notification to authors</strong> Friday 13 August 2021</li>
+    <li><strong>Registration opens</strong> Now open</li>
+    <li><strong>AMTA 2021 PDS</strong> Saturday 9 October 2021</li>
+    <li class="event"><strong>AMTA 2021 Conference</strong> Saturday 16 & Sunday 17 October 2021</li>
   </ul>
 </div>
 <?php } ?>
@@ -83,7 +85,7 @@
       </p>
     </div>
     <div class="col-6 text-right">
-      <a href="http://www.icmsaust.com.au/" target="_blank"><img src="img/icms.png" width="200" class="img-fluid mt-2"></a>
+      <a href="http://www.icmsaust.com.au/" target="_blank"><img src="http://www.icmsaust.com.au/wp-content/uploads/2021/02/icmsa55.png" width="200" class="img-fluid mt-2"></a>
     </div>
   </div>
   <div class="row">
