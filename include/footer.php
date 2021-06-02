@@ -72,15 +72,12 @@
 
   <h3>Contact Us</h3>
 
-  <p>For all enquiries, please contact the AMTA2020 Conference Secretariat.</p>
+  <p>For all enquiries, please contact the AMTA2021 Conference Secretariat.</p>
 
   <div class="row">
     <div class="col-6">
-      <p><strong>General Enquiries</strong><br>
-        AMTA2020 Conference Secretariat<br>
-        GPO Box 3270<br>
-        Sydney NSW 2001<br>
-        +61 (0) 2 9254 5000<br>
+      <p><strong>AMTA2020 Conference Secretariat</strong><br>
+        General Enquiries<br>
         <a href="mailto:info@austmtaconference.com.au">info@austmtaconference.com.au</a>
       </p>
     </div>
