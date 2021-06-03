@@ -32,11 +32,9 @@ if ($title == 'Welcome') {
   <div class="header">
     <div class="container">
       <div class="row pt-4 pb-5">
-
-        <div class="col-md-8">
-          <a href="./"><img src="img/AMTA2021-logo.png" alt="AMTA Logo" class="img-fluid" width="800"></a>
+        <div class="col-12 col-md-8">
+          <a href="./"><img src="img/AMTA2021-logo.png" alt="AMTA Logo" class="img-fluid" width="500"></a>
         </div>
-
         <div class="col d-flex flex-md-column text-center text-md-right mt-5 mt-md-0">
           <div class="social mt-4">
             <a href="https://www.facebook.com/amtassociation" target="_blank">
@@ -47,8 +45,8 @@ if ($title == 'Welcome') {
             </a>
             <strong>#AUSMTA<span>2021</span></strong>
           </div>
-          <div class="mt-auto">
-            <a href="https://www.austmta.org.au/" target="_blank"><img src="img/logo-amta.png" alt="" class="img-fluid association" width="300"></a>
+          <div class="mt-4 mb-auto px-4 pr-md-0 pl-md-5">
+            <a href="https://www.austmta.org.au/" target="_blank"><img src="img/logo-amta.png" alt="Australian Music Therapy Association" class="pl-md-5 img-fluid"></a>
           </div>
         </div>
 

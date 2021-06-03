@@ -76,7 +76,7 @@
 
   <div class="row">
     <div class="col-6">
-      <p><strong>AMTA2020 Conference Secretariat</strong><br>
+      <p><strong>AMTA2021 Conference Secretariat</strong><br>
         General Enquiries<br>
         <a href="mailto:info@austmtaconference.com.au">info@austmtaconference.com.au</a>
       </p>

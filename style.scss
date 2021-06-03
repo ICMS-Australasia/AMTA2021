@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 $black: #231f20;
-$turquoise: #24C492;
+$turquoise: #002060;
 $beige: #EEEEDA;
 $purple: #E81CFF;
 $dpurple: #B93AFF;
@@ -75,7 +75,7 @@ body {
 
       &:hover {
         text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
-        background: darken($turquoise, 5%);
+        background: lighten($turquoise, 5%);
         text-decoration: underline;
         color: white !important;
       }
@@ -84,7 +84,7 @@ body {
     li.active {
       a {
         font-weight: 700;
-        background: darken($turquoise,5%);
+        background: lighten($turquoise,5%);
         color: white !important;
       }
     }
@@ -127,7 +127,7 @@ body {
           @for $i from 1 through 10 {
             &:nth-child(#{$i}) { background: darken($turquoise, $i * 2%) }
           }
-          background: darken($turquoise, 10%);
+          background: lighten($turquoise, 10%);
           text-decoration: underline;
           text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.35);
         }
@@ -157,10 +157,6 @@ body {
     margin-top: 0.5em;
     font-weight: 800;
     text-transform: uppercase;
-    &::first-letter {
-      color: $purple;
-      font-size: 1.5em;
-    }
   }
 
   h2 {
@@ -168,6 +164,8 @@ body {
     font-size: 2em;
     margin-bottom: 0.8em;
     margin-top: 1em;
+    text-transform: uppercase;
+    font-weight: 800;
   }
 
   h3 {
@@ -322,7 +320,7 @@ body {
 
   .rego-table {
       th {
-          background-color: lighten($turquoise, 40%);
+          background-color: lighten($turquoise, 60%);
       }
       td {
           border-bottom: 1px solid #e0e0e0;
@@ -333,6 +331,8 @@ body {
     h2 {
       margin-top: 0;
       font-size: 1.75em;
+      font-weight: 800;
+      text-transform: uppercase;
       color: $black;
     }
 
@@ -348,7 +348,7 @@ body {
         padding: 1em;
 
         &:nth-child(odd) {
-          background: lighten($turquoise, 50%);
+          background: lighten($turquoise, 75%);
         }
       }
 
@@ -446,7 +446,7 @@ body {
 }
 
 .footer {
-  background-color: lighten($turquoise, 50%);
+  background-color: lighten($turquoise, 75%);
 
   h3 {
     font-size: 1.75em;
