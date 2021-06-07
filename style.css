@@ -4,7 +4,22 @@ body {
   font-family: 'Montserrat', sans-serif; }
 
 .header {
-  background-color: white; }
+  position: relative;
+  background: url("./img/bg-header.png");
+  background-position: center center;
+  background-size: cover; }
+  .header canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -10; }
+  .header h1 {
+    font-weight: 800;
+    font-size: 1.6rem;
+    color: #002060; }
+    .header h1 span {
+      font-size: 1.4rem;
+      font-weight: 700; }
   .header .social {
     font-size: 1.5em; }
     .header .social i.twitter {
@@ -107,8 +122,8 @@ body {
     color: rgba(0, 0, 0, 0.8); }
 .content h1 {
   color: #231f20;
-  font-size: 3.5em;
-  margin-bottom: 1.2em;
+  font-size: 3em;
+  margin-bottom: 0.7em;
   margin-top: 0.5em;
   font-weight: 800;
   text-transform: uppercase; }
@@ -118,7 +133,7 @@ body {
   margin-bottom: 0.8em;
   margin-top: 1em;
   text-transform: uppercase;
-  font-weight: 800; }
+  font-weight: 700; }
 .content h3 {
   color: #231f20;
   font-size: 1.3em;
@@ -234,13 +249,16 @@ body {
   .content .modal-content p:last-of-type {
     margin-bottom: 0 !important; }
 .content .rego-table th {
-  background-color: #93b7ff; }
+  background-color: #002060;
+  color: white; }
+  .content .rego-table th em {
+    font-weight: 400; }
 .content .rego-table td {
   border-bottom: 1px solid #e0e0e0; }
 .content .sidebar h2 {
   margin-top: 0;
   font-size: 1.75em;
-  font-weight: 800;
+  font-weight: 700;
   text-transform: uppercase;
   color: #231f20; }
 .content .sidebar .dates {
@@ -343,7 +361,7 @@ body {
 
 @media (max-width: 768px) {
   .header {
-    background-image: none;
+    background: url("./img/bg-header.png");
     text-align: center; }
     .header .social {
       margin-left: 25px; }

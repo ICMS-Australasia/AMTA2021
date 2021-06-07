@@ -29,11 +29,11 @@ if ($title == 'Welcome') {
 </head>
 
 <body>
-  <div class="header">
+  <div class="header" id="header">
     <div class="container">
       <div class="row pt-4 pb-5">
-        <div class="col-12 col-md-8">
-          <a href="./"><img src="img/AMTA2021-logo.png" alt="AMTA Logo" class="img-fluid" width="500"></a>
+        <div class="col-12 col-md-7">
+          <a href="./"><img src="img/AMTA2021-logo.png" alt="AMTA Logo" class="img-fluid" width="600"></a>
         </div>
         <div class="col d-flex flex-md-column text-center text-md-right mt-5 mt-md-0">
           <div class="social mt-4">
@@ -43,10 +43,14 @@ if ($title == 'Welcome') {
             <a href="https://twitter.com/AustMTA" target="_blank">
               <i class="fab fa-twitter-square twitter"></i>
             </a>
-            <strong>#AUSMTA<span>2021</span></strong>
+            <strong style="font-weight: 800">#AUSMTA<span>2021</span></strong>
           </div>
           <div class="mt-4 mb-auto px-4 pr-md-0 pl-md-5">
-            <a href="https://www.austmta.org.au/" target="_blank"><img src="img/logo-amta.png" alt="Australian Music Therapy Association" class="pl-md-5 img-fluid"></a>
+            <a href="https://www.austmta.org.au/" target="_blank"><img src="img/logo-amta.png" alt="Australian Music Therapy Association" class="pl-md-5 img-fluid" width="250"></a>
+          </div>
+          <div class="mt-auto mb-0 px-4 pr-md-0 pl-md-5 text-right">
+            <h1 class="mb-4">PDS <br> <span>Saturday 9 October 2021</span></h1>
+            <h1>CONFERENCE <br> <span>16 - 17 October 2021</span></h1>
           </div>
         </div>
 

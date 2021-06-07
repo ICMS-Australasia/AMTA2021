@@ -14,7 +14,7 @@ include('include/header.php');
     <col width="80%">
     <col width="20%">
     <tr>
-        <th colspan="2"><b>Virtual Professional Development Seminar Registration</b> <br>
+        <th colspan="2">Virtual Professional Development Seminar Registration <br>
             <em>Saturday 9 October 2021</em></th>
     </tr>
     <tr>
@@ -26,7 +26,7 @@ include('include/header.php');
         <td align="center">$0</td>
     </tr>
     <tr>
-        <th colspan="2"><b>Virtual Conference Registration</b> <br>
+        <th colspan="2">Virtual Conference Registration <br>
             <em>Saturday 16 & Sunday 17 October 2021</em></th>
     </tr>
     <tr>

@@ -11,8 +11,26 @@ body {
 }
 
 .header {
-  background-color: white;
+  position: relative;
+  background: url('./img/bg-header.png');
+  background-position: center center;
+  background-size: cover;
+  canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -10;
+  }
 
+  h1 {
+    font-weight: 800;
+    font-size: 1.6rem;
+    color: $turquoise;
+    span {
+      font-size: 1.4rem;
+      font-weight: 700;
+    }
+  }
   .social {
     font-size: 1.5em;
 
@@ -152,8 +170,8 @@ body {
 
   h1 {
     color: $black;
-    font-size: 3.5em;
-    margin-bottom: 1.2em;
+    font-size: 3em;
+    margin-bottom: 0.7em;
     margin-top: 0.5em;
     font-weight: 800;
     text-transform: uppercase;
@@ -165,7 +183,7 @@ body {
     margin-bottom: 0.8em;
     margin-top: 1em;
     text-transform: uppercase;
-    font-weight: 800;
+    font-weight: 700;
   }
 
   h3 {
@@ -320,7 +338,11 @@ body {
 
   .rego-table {
       th {
-          background-color: lighten($turquoise, 60%);
+          background-color: lighten($turquoise, 0%);
+          color: white;
+          em {
+            font-weight: 400;
+          }
       }
       td {
           border-bottom: 1px solid #e0e0e0;
@@ -331,7 +353,7 @@ body {
     h2 {
       margin-top: 0;
       font-size: 1.75em;
-      font-weight: 800;
+      font-weight: 700;
       text-transform: uppercase;
       color: $black;
     }
@@ -496,7 +518,7 @@ body {
 
 @media (max-width: 768px) {
   .header {
-    background-image: none;
+    background: url('./img/bg-header.png');
     text-align: center;
 
     .social {
