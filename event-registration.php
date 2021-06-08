@@ -5,7 +5,7 @@ include('include/header.php');
 
 <p>The 47th Australian Music Therapy Association National Virtual Conference 2021 (AMTA 2021 Virtual) is open for online registration. Please read the registration information carefully before beginning.</p>
 
-<a href="https://icmsaust.eventsair.com/australian-music-therapy-association-46th-national-conference-pds/amtav" class="button" target="_blank">Click here to register</a>
+<a href="https://icmsaust.eventsair.com/amta-2021/registration-form" class="button" target="_blank">Click here to register</a>
 
 <h2>Virtual registration fees</h2>
 <p>All fees are quoted in Australian dollars ($AUD) and are inclusive of 10% GST (Goods and Services Tax). </p>
