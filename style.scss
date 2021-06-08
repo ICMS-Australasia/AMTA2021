@@ -515,6 +515,16 @@ body {
   }
 }
 
+.acknowledgement {
+  h6 {
+    font-weight: 700;
+  }
+  p {
+    font-size: 0.7rem;
+    margin: 0;
+  }
+}
+
 
 @media (max-width: 768px) {
   .header {

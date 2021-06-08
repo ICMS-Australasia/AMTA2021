@@ -359,6 +359,12 @@ body {
     .footer a:hover {
       color: #666666; }
 
+.acknowledgement h6 {
+  font-weight: 700; }
+.acknowledgement p {
+  font-size: 0.7rem;
+  margin: 0; }
+
 @media (max-width: 768px) {
   .header {
     background: url("./img/bg-header.png");

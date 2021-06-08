@@ -75,24 +75,35 @@
   <p>For all enquiries, please contact the AMTA2021 Conference Secretariat.</p>
 
   <div class="row">
-    <div class="col-6">
+    <div class="col-12 col-md-6">
       <p><strong>AMTA2021 Conference Secretariat</strong><br>
         General Enquiries<br>
         <a href="mailto:info@austmtaconference.com.au">info@austmtaconference.com.au</a>
+        <p><a href="contact-us">View full Contact Information</a></p>
       </p>
     </div>
-    <div class="col-6 text-right">
-      <a href="http://www.icmsaust.com.au/" target="_blank"><img src="http://www.icmsaust.com.au/wp-content/uploads/2021/02/icmsa55.png" width="200" class="img-fluid mt-2"></a>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-md">
-      <p><a href="contact-us">View full Contact Information</a></p>
+    <div class="col-6 col-md-6 text-right">
+      <a href="http://www.icmsaust.com.au/" target="_blank"><img src="http://www.icmsaust.com.au/wp-content/uploads/2021/02/icmsa55.png" class="img-fluid mt-2"></a>
     </div>
   </div>
 </div>
 </div>
 </div>
+</div>
+<!-- Acknowledgement of Country -->
+<div class="acknowledgement">
+  <div class="container">
+    <div class="row py-3 align-items-center">
+      <div class="col-12 col-md-9">
+        <h6>Acknowledgement of Country</h6>
+        <p>We acknowledge the Traditional Owners of the lands and waters throughout Australia, and pay respect to the Elders past, present and emerging. We recognise the importance of connection to culture, land, kinship and community to the health and wellbeing of Aboriginal & Torres Strait Islander families. We acknowledge the cultural practices and traditions still carried out today and being passed down to future generations.</p>
+      </div>
+      <div class="col-12 col-md-3">
+        <img src="https://waimh2021.org/img/flag-aboriginal.png" class="mt-3 mt-md-0" height="50">
+        <img src="https://waimh2021.org/img/flag-torres.png" class="mt-3 mx-2 mx-md-2 mt-md-0" height="50">
+      </div>
+    </div>
+  </div>
 </div>
 
 <!-- JavaScript -->

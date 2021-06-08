@@ -43,7 +43,7 @@ if ($title == 'Welcome') {
             <a href="https://twitter.com/AustMTA" target="_blank">
               <i class="fab fa-twitter-square twitter"></i>
             </a>
-            <strong style="font-weight: 800">#AUSMTA<span>2021</span></strong>
+            <strong style="font-weight: 800">#AUSTMTA<span>2021</span></strong>
           </div>
           <div class="mt-4 mb-auto px-4 pr-md-0 pl-md-5">
             <a href="https://www.austmta.org.au/" target="_blank"><img src="img/logo-amta.png" alt="Australian Music Therapy Association" class="pl-md-5 img-fluid" width="250"></a>
@@ -131,7 +131,15 @@ if ($title == 'Welcome') {
     <div class="container">
       <div class="row pb-2">
         <div class="col-md pr-md-4 py-5">
-
+          <?php if ($title == "Welcome") ?>
+            <div class="alert alert-primary">
+              <h2 class="mt-4">Acknowledgement of Country</h2>
+              <div class="float-md-right">
+                <img src="https://waimh2021.org/img/flag-aboriginal.png" class="mb-4 mb-md-0 ml-md-3" height="70">
+                <img src="https://waimh2021.org/img/flag-torres.png" class="mb-4 mb-md-0 ml-md-3" height="70">
+              </div>
+              <p>We acknowledge the Traditional Owners of the lands and waters throughout Australia, and pay respect to the Elders past, present and emerging. We recognise the importance of connection to culture, land, kinship and community to the health and wellbeing of Aboriginal & Torres Strait Islander families. We acknowledge the cultural practices and traditions still carried out today and being passed down to future generations.</p>
+            </div>
           <h1>
             <?php	echo $title; ?>
           </h1>

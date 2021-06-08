@@ -3,9 +3,6 @@ $title = "Welcome";
 include('include/header.php');
 ?>
 
-<figure class="figure ml-0 mb-5 ml-md-5 float-md-right">
-                            <img src="img/speakers/silveira.jpg" class=" img-fluid" width="260" alt="">
-                        </figure>
 
 <h2 class="mt-0">A warm welcome to you all!</h2>
 
