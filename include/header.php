@@ -49,8 +49,8 @@ if ($title == 'Welcome') {
             <a href="https://www.austmta.org.au/" target="_blank"><img src="img/logo-amta.png" alt="Australian Music Therapy Association" class="pl-md-5 img-fluid" width="250"></a>
           </div>
           <div class="mt-auto mb-0 px-4 pr-md-0 pl-md-5 text-right">
-            <h1 class="mb-4">PDS <br> <span>Saturday 9 October 2021</span></h1>
-            <h1>CONFERENCE <br> <span>16 - 17 October 2021</span></h1>
+            <h1 class="mb-4">VIRTUAL PDS <br> <span>Saturday 9 October 2021</span></h1>
+            <h1>VIRTUAL CONFERENCE <br> <span>16 - 17 October 2021</span></h1>
           </div>
         </div>
 

@@ -5,7 +5,7 @@ body {
 
 .header {
   position: relative;
-  background: url("./img/bg-header.png");
+  background: linear-gradient(#fff, #c6d9ff);
   background-position: center center;
   background-size: cover; }
   .header canvas {
@@ -331,7 +331,7 @@ body {
     border: solid 1px #777; }
 
 .footer {
-  background-color: #e0eaff; }
+  background: linear-gradient(#c6d9ff, #fff); }
   .footer h3 {
     font-size: 1.75em;
     font-weight: 400;

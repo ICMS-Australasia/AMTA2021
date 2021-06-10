@@ -12,7 +12,8 @@ body {
 
 .header {
   position: relative;
-  background: url('./img/bg-header.png');
+  // background: url('./img/background.png');
+  background: linear-gradient(#fff, lighten($turquoise, 70%));
   background-position: center center;
   background-size: cover;
   canvas {
@@ -468,7 +469,7 @@ body {
 }
 
 .footer {
-  background-color: lighten($turquoise, 75%);
+  background: linear-gradient(lighten($turquoise, 70%), #fff);
 
   h3 {
     font-size: 1.75em;
