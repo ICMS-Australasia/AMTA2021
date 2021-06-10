@@ -91,6 +91,7 @@
 </div>
 </div>
 <!-- Acknowledgement of Country -->
+<?php if ($title != "Welcome") { ?>
 <div class="acknowledgement">
   <div class="container">
     <div class="row py-3 align-items-center">
@@ -105,6 +106,7 @@
     </div>
   </div>
 </div>
+<?php } ?>
 
 <!-- JavaScript -->
 <script src="https://kit.fontawesome.com/abad5402ea.js" crossorigin="anonymous"></script>
