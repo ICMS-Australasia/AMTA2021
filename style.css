@@ -5,9 +5,7 @@ body {
 
 .header {
   position: relative;
-  background: linear-gradient(#fff, #c6d9ff);
-  background-position: center center;
-  background-size: cover; }
+  background: linear-gradient(#fff, #c6d9ff); }
   .header canvas {
     position: absolute;
     top: 0;
@@ -367,7 +365,7 @@ body {
 
 @media (max-width: 768px) {
   .header {
-    background: url("./img/bg-header.png");
+    background: linear-gradient(#fff, #c6d9ff);
     text-align: center; }
     .header .social {
       margin-left: 25px; }
