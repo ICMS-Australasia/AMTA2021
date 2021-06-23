@@ -28,7 +28,7 @@ include('include/header.php');
   <li>Workshop (60 minutes live presentation including Question & Discussion Time)</li>
   <li>Panel (45 minutes pre-record + 15 minutes live Question & Discussion Time)</li>
   <li>PechaKucha (6 minutes and 40 seconds pre-record)</li>
-  <li>Leaders in Conversation (45-60 minutes pre-record + live Question & Discussion Time)</li>
+  <li>Leaders in Conversation (45 minutes pre-record + 15 minutes live Question and Discussion time)</li>
 </ul>
 <p>These categories have been selected to provide a rich and diverse selection of formats for presenters to consider where best their presentation might sit. If you have multiple speakers addressing a topic, a 60-minute Panel Presentation may be more appropriate for your presentation than a 15-minute Oral Presentation. Likewise, if you are presenting the results of a study you have undertaken, or a “verbal poster”, then the short Pecha Kucha Presentation format might best meet your needs. Paper, Panel, Pecha-Kucha and Leaders in Conversation accepted presentations will be required to be pre-recorded. You will then engage in the question and answer time live at a specific scheduled time in the program.</p>
 <p>Workshops will be scheduled fully live.</p>
@@ -44,7 +44,7 @@ include('include/header.php');
       <div class="collapse" id="one">
           <div class="card-body">
             <h3>Brief description:</h3>
-            <p>Papers are traditional oral presentations lasting 15 minutes followed by 5 minutes question time. Papers presentations will be streamed into sessions of 60 minutes duration, with two other papers presenting on a related topic. </p>
+            <p>Papers are traditional oral presentations lasting 15 minutes followed by 5 minutes question time. Paper Presentations will be streamed into sessions of 60 minutes duration, with three papers on a related topic in each session.</p>
             <h3>Detailed description:</h3>
             <p>Papers are designed for one to two presenters to provide a detailed presentation of research, a case study, clinical or professional topic. The conference committee will allocate Papers into a stream, with two other Papers presenting on a related topic. Papers are best suited to speakers who wish to pre-prepare a presentation and speak didactically to the audience. Papers are encouraged to include some sort of visual aid, such as a PowerPoint presentation, audio or visual material (as applicable). Oral Paper Streams will have a technical assistant to provide support with moderating the chat thread and the Q&A session at the end.</p>
           </div>
@@ -72,7 +72,7 @@ include('include/header.php');
       <div class="collapse" id="three">
           <div class="card-body">
             <h3>Brief description:</h3>
-            <p>A panel is a crafted collection of presenters speaking live on a specific topic, guided by questions from a moderator. Those wishing to submit a panel abstract should be prepared to articulate the topic of their panel as well as their proposed line-up of panellists and their moderator. Panel submissions must include their proposed presenters, though speakers can be finalised/confirmed at a later date.</p>
+            <p>A panel is a crafted collection of presenters speaking on a specific topic, guided by questions from a moderator. Those wishing to submit a panel abstract should be prepared to articulate the topic of their panel as well as their proposed line-up of panellists and their moderator. Panel submissions must include their proposed presenters, though speakers can be finalised/confirmed at a later date.</p>
             <h3>Detailed description:</h3>
             <p>Panels are designed for presenters who have a desire and capacity to curate several people together to discuss their proposed topic. The conversation should be centred on a specific topic, such as a population, context, clinical issue or intervention, funding, or research idea. Panels must be guided by a moderator, but the moderator does not have to be the person proposing the panel. Panels should include two to four panellists, plus the moderator. In curating a panel, a diverse range of speakers should be selected who all have some form of experience on the topic and are interested in sharing this experience. For example, panels could involve an experienced clinician, a researcher, a new graduate, and someone with lived experience. Panels are designed to be dynamic, interactive conversation between the speakers and moderators, rather than pre-prepared presentations. The moderator’s role is to ask questions of the panellists and guide the conversation. Panels will each have a technical assistant to provide support with moderating the chat thread, and each panel will end with a Q&A session inviting questions from the audience.</p>
           </div>
@@ -237,7 +237,7 @@ include('include/header.php');
   </tr>
   <tr>
     <td>Abstract submissions close</td>
-    <td>Friday 30 2021</td>
+    <td>Friday 30 July 2021</td>
   </tr>
   <tr>
     <td>Notification of Acceptance</td>
