@@ -15,7 +15,7 @@ include('include/header.php');
 
 <p>Please find below a copy of the AMTA 2021 Sponsorship prospectus & application form</p>
 
-<a href="./downloads/AMTA2020-prospectus.pdf" class="button mt-4" target="_blank">Download Sponsorship Prospectus</a>
+<a href="./AMTA2020-prospectus.pdf" class="button mt-4" target="_blank">Download Sponsorship Prospectus</a>
 
 <?php
 include('include/footer.php');
