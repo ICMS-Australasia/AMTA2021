@@ -101,9 +101,9 @@ if ($title == 'Welcome') {
                     <a class="dropdown-item" href="privacy-policy">Privacy Policy</a>
                   </div>
                 </li>
-                <!-- <li class="nav-item <?php if( in_array($title, array("Conference Sponsorship Opportunities")) ) { echo "active"; }?>">
+                <li class="nav-item <?php if( in_array($title, array("Conference Sponsorship Opportunities")) ) { echo "active"; }?>">
                   <a class="nav-link" href="sponsorship-and-exhibition-opportunities">Sponsorship</a>
-                </li> -->
+                </li>
                 <!--li class="nav-item dropdown <?php if( in_array($title, array("Event Registration", "Accommodation", "Privacy Policy")) ) { echo "active"; }?>"> <a class="nav-link dropdown-toggle" href="#" id="Participations" role="button"
                     data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Registration<i class="fas fa-angle-down"></i></a>
                   <div class="dropdown-menu">
