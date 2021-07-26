@@ -83,14 +83,14 @@ if ($title == 'Welcome') {
                     <a class="dropdown-item" href="pds-speakers">PDS Speakers</a>
                   </div>
                 </li>
-                <li class="nav-item dropdown <?php if( in_array($title, array("Conference Program", "PDS Program", "AMTA 2020 Abstract Book")) ) { echo "active"; }?>"> <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
+                <!-- <li class="nav-item dropdown <?php if( in_array($title, array("Conference Program", "PDS Program", "AMTA 2020 Abstract Book")) ) { echo "active"; }?>"> <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
                     data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Program<i class="fas fa-angle-down"></i></a>
                   <div class="dropdown-menu">
                     <a class="dropdown-item" href="full-program">Conference Program</a>
                     <a class="dropdown-item" href="pds-program">PDS Program</a>
                     <a class="dropdown-item" href="abstract-book">AMTA 2020 Abstract Book</a>
                   </div>
-                </li>
+                </li> -->
                 <li class="nav-item dropdown <?php if( in_array($title, array("Event Registration", "Privacy Policy")) ) { echo "active"; }?>"> <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
                     data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Registration<i class="fas fa-angle-down"></i></a>
                   <div class="dropdown-menu">
