@@ -4,7 +4,7 @@
   <h2>Key Dates</h2>
   <ul class="dates">
     <li><strong>Call for Abstracts</strong> Now Open</li>
-    <li><strong>Call for Abstracts close</strong> Friday 30 July 2021</li>
+    <li><strong>Call for Abstracts close</strong> Deadline extended until Wednesday 11 August 2021, Midnight AEST</li>
     <li><strong>Notification to authors</strong> Friday 13 August 2021</li>
     <li><strong>Registration opens</strong> Now open</li>
     <li><strong>AMTA 2021 PDS</strong> Saturday 9 October 2021</li>

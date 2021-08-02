@@ -137,6 +137,11 @@ body {
   font-size: 1.3em;
   margin-bottom: 0.8em;
   margin-top: 1.25em; }
+.content .alert.alert-danger {
+  background-color: #fde8ff;
+  border: 1px solid #facfff; }
+  .content .alert.alert-danger h3 {
+    color: #a300b5; }
 .content .button {
   padding: 1em;
   display: block;

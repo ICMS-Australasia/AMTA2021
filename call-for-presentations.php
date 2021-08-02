@@ -3,6 +3,10 @@ $title = "Call for Presentations";
 include('include/header.php');
 ?>
 
+<div class="alert alert-danger p-4 mb-4">
+  <h3 class="my-0 text-center">AMTA 2021 Call for Abstracts deadline extended until Wednesday 11 August 2021, midnight AEST.</h3>
+</div>
+
 <a href="https://icmsaust.eventsair.com/amta-2021/presentationportal" style="color: white" class="button" target="_blank">Submit an Abstract</a>
 
 <h2>Conference theme</h2>
@@ -17,7 +21,7 @@ include('include/header.php');
 
 <p>Music has the power to give voice to and amplify the issues that are important to us, whether at an individual, community or global level. It can take us on a journey, of exploration and discovery, growth, change and evolution. It can inspire us to action, and bring diverse voices together in unison or harmony to create a cohesive whole.</p>
 <p>Each day, in clinical, research and educational contexts, music therapists consider the spaces that are co-created with clients and other clinicians, in and through music. Spaces that enable people to develop their own voice, hear others’ voices, and evolve deeper and more profound understandings of self, others and the world. Spaces that introduce new voices, rhythms, harmonies and songs, to bring new perspectives and ways of being and doing. Spaces that amplify voices of joy, pride, sorrow and suffering; and the voices of those living with conflict, trauma, oppression, discrimination and inequality. From group drumming for youth in detention, to playgroups for women and children experiencing domestic violence, community choirs for people living with dementia, to palliative care programs that support families farewelling a loved one from afar due to COVID restrictions, music therapy provides opportunities to bring people together, amplify the resilience and strengths of the individual or group, and transform a moment – or many moments - in time.</p>
-<p>The AMTA Conference 2021 is celebrating the diversity of voices in music therapy – of music therapists, consumers and clients, educators, researchers, students and advocates - and explores ways in which the voices of music therapy are evolving and/or coming together, and how music therapy is giving voice to and amplifying the issues and concerns that are important to people. So, whether your voice is well-known or emerging; whether you are providing face-to-face or telehealth music therapy services; whether you are working alone or with a team; with children, youth or adults; in a hospital, school or in the community; we invite you to consider being a voice of the 2021 AMTA Conference, and sharing your story and your experiences through the lens of the conference theme.</p>
+<p>The AMTA Conference 2021 is celebrating the diversity of voices in music therapy - of music therapists, whether working alone or with other professionals and also consumers and clients, educators, researchers, students and advocates - and explores ways in which the voices of music therapy are evolving and/or coming together, and how music therapy is giving voice to and amplifying the issues and concerns that are important to people. So, whether your voice is well-known or emerging; whether you are providing face-to-face or telehealth music therapy services; whether you are working alone or with a team; with children, youth or adults; in a hospital, school or in the community; we invite you to consider being a voice of the 2021 AMTA Conference, and sharing your story and your experiences through the lens of the conference theme.</p>
 
 <h2>Presentation Categories</h2>
 
@@ -32,7 +36,7 @@ include('include/header.php');
 </ul>
 <p>These categories have been selected to provide a rich and diverse selection of formats for presenters to consider where best their presentation might sit. If you have multiple speakers addressing a topic, a 60-minute Panel Presentation may be more appropriate for your presentation than a 15-minute Oral Presentation. Likewise, if you are presenting the results of a study you have undertaken, or a “verbal poster”, then the short Pecha Kucha Presentation format might best meet your needs. Paper, Panel, Pecha-Kucha and Leaders in Conversation accepted presentations will be required to be pre-recorded. You will then engage in the question and answer time live at a specific scheduled time in the program.</p>
 <p>Workshops will be scheduled fully live.</p>
-<p>You will have approximately 8 weeks from presentation acceptance notification date to prepare your pre-recording. Pre-recordings will be due approximately 2 weeks prior to the Conference to allow time for uploading and testing.</p>
+<p>You will have approximately 6 weeks from presentation acceptance notification date to prepare your pre-recording. Pre-recordings will be due approximately 2 weeks prior to the Conference to allow time for uploading and testing.</p>
 <p>For further information on each of the categories, you can click on the Presentation type.</p>
 
 <div class="faqs">
@@ -237,7 +241,7 @@ include('include/header.php');
   </tr>
   <tr>
     <td>Abstract submissions close</td>
-    <td>Friday 30 July 2021</td>
+    <td>Extended until Wednesday 11 August 2021</td>
   </tr>
   <tr>
     <td>Notification of Acceptance</td>

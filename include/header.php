@@ -132,13 +132,16 @@ if ($title == 'Welcome') {
       <div class="row pb-2">
         <div class="col-md pr-md-4 py-5">
           <?php if ($title == "Welcome") { ?>
-            <div class="alert alert-primary">
-              <h2 class="mt-4">Acknowledgement of Country</h2>
+            <div class="alert alert-danger p-4">
+              <h3 class="my-0 text-center">AMTA 2021 Call for Abstracts deadline extended until Wednesday 11 August 2021, midnight AEST.</h3>
+            </div>
+            <div class="alert alert-primary p-4">
+              <h2 class="mt-0">Acknowledgement of Country</h2>
               <div class="float-md-right">
                 <img src="https://waimh2021.org/img/flag-aboriginal.png" class="mb-4 mb-md-0 ml-md-3" height="70">
                 <img src="https://waimh2021.org/img/flag-torres.png" class="mb-4 mb-md-0 ml-md-3" height="70">
               </div>
-              <p>We acknowledge the Traditional Owners of the lands and waters throughout Australia, and pay respect to the Elders past, present and emerging. We recognise the importance of connection to culture, land, kinship and community to the health and wellbeing of Aboriginal & Torres Strait Islander families. We acknowledge the cultural practices and traditions still carried out today and being passed down to future generations.</p>
+              <p class="mb-0">We acknowledge the Traditional Owners of the lands and waters throughout Australia, and pay respect to the Elders past, present and emerging. We recognise the importance of connection to culture, land, kinship and community to the health and wellbeing of Aboriginal & Torres Strait Islander families. We acknowledge the cultural practices and traditions still carried out today and being passed down to future generations.</p>
             </div>
           <?php } ?>
           <h1>
