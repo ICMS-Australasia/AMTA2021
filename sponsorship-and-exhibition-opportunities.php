@@ -17,6 +17,25 @@ include('include/header.php');
 
 <a href="./AMTA2020-prospectus.pdf" class="button mt-4" target="_blank">Download Sponsorship Prospectus</a>
 
+
+<h2>AMTA 2021 Sponsors</h2>
+<h3>Silver Sponsor</h3>
+<div class="row align-items-center">
+  <div class="col-6 col-md-6 col-lg-4">
+    <a href="https://www.redkite.org.au/" target="_blank"><img src="./img/sponsors/redkite.png" class="img-fluid"/></a>
+  </div>
+</div>
+
+<h3>Sponsors</h3>
+<div class="row align-items-center">
+  <div class="col-4 col-md-4 col-lg-3">
+    <a href="http://www.soundexpression.com.au" target="_blank"><img src="./img/sponsors/sound-expression.png" class="img-fluid"></a>
+  </div>
+  <div class="col-4 col-md-4 col-lg-3">
+    <a href="http://www.musictherapyonline.org" target="_blank"><img src="./img/sponsors/music-therapy-online.png" class="img-fluid"></a>
+  </div>
+</div>
+
 <?php
 include('include/footer.php');
 ?>
