@@ -4,10 +4,10 @@ include('include/header.php');
 ?>
 
 <div class="alert alert-danger p-4 mb-4">
-  <h3 class="my-0 text-center">AMTA 2021 Call for Abstracts deadline extended until Wednesday 11 August 2021, midnight AEST.</h3>
+  <h3 class="my-0 text-center">Abstract submissions have now closed and abstracts are being reviewed. Authors will be notified on Monday 23 Aug 2021.</h3>
 </div>
 
-<a href="https://icmsaust.eventsair.com/amta-2021/presentationportal" style="color: white" class="button" target="_blank">Submit an Abstract</a>
+<!-- <a href="https://icmsaust.eventsair.com/amta-2021/presentationportal" style="color: white" class="button" target="_blank">Submit an Abstract</a> -->
 
 <h2>Conference theme</h2>
 
@@ -237,15 +237,11 @@ include('include/header.php');
 <table class="main-dates">
   <tr>
     <td>Abstract submissions open</td>
-    <td>Now open</td>
-  </tr>
-  <tr>
-    <td>Abstract submissions close</td>
-    <td>Extended until Wednesday 11 August 2021</td>
+    <td>CLOSED</td>
   </tr>
   <tr>
     <td>Notification of Acceptance</td>
-    <td>Late August 2021</td>
+    <td>Monday 23 August 2021</td>
   </tr>
   <tr>
     <td>Draft program available</td>

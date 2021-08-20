@@ -133,7 +133,7 @@ if ($title == 'Welcome') {
         <div class="col-md pr-md-4 py-5">
           <?php if ($title == "Welcome") { ?>
             <div class="alert alert-danger p-4">
-              <h3 class="my-0 text-center">AMTA 2021 Call for Abstracts deadline extended until Wednesday 11 August 2021, midnight AEST.</h3>
+              <h3 class="my-0 text-center">Abstract submissions have now closed and abstracts are being reviewed. Authors will be notified on Monday 23 Aug 2021.</h3>
             </div>
             <div class="alert alert-primary p-4">
               <h2 class="mt-0">Acknowledgement of Country</h2>

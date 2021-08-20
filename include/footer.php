@@ -3,9 +3,8 @@
 <div class="col-md-3 sidebar py-5">
   <h2>Key Dates</h2>
   <ul class="dates">
-    <li><strong>Call for Abstracts</strong> Now Open</li>
-    <li><strong>Call for Abstracts close</strong> Deadline extended until Wednesday 11 August 2021, Midnight AEST</li>
-    <li><strong>Notification to authors</strong> Friday 13 August 2021</li>
+    <li><strong>Call for Abstracts</strong> Closed</li>
+    <li><strong>Notification to authors</strong> Monday 23 August 2021</li>
     <li><strong>Registration opens</strong> Now open</li>
     <li><strong>AMTA 2021 PDS</strong> Saturday 9 October 2021</li>
     <li class="event"><strong>AMTA 2021 Conference</strong> Saturday 16 & Sunday 17 October 2021</li>
