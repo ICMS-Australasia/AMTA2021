@@ -4,7 +4,7 @@ include('include/header.php');
 ?>
 
 <div class="alert alert-danger p-4 mb-4">
-  <h3 class="my-0 text-center">Abstract submissions have now closed and abstracts are being reviewed. Authors will be notified on Monday 23 Aug 2021.</h3>
+  <h3 class="my-0 text-center">Thank you to all the authors who submitted abstracts for the 2021 AMTA Conference! All abstracts have now been reviewed, and authors will receive their notification letter in the next 24 hours. Thank you to everyone for your patience, and I look forward to sharing an exciting program with you very soon! - Dr Lucy Forrest, Scientific Chair, AMTA National Conference 2021.</h3>
 </div>
 
 <!-- <a href="https://icmsaust.eventsair.com/amta-2021/presentationportal" style="color: white" class="button" target="_blank">Submit an Abstract</a> -->
