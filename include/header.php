@@ -81,6 +81,7 @@ if ($title == 'Welcome') {
                   <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                     <a class="dropdown-item" href="keynote-speakers">Keynote Speakers</a>
                     <a class="dropdown-item" href="pds-speakers">PDS Speakers</a>
+                    <a class="dropdown-item" href="spotlight-panel-speakers.php">Spotlight Panel Speakers</a>
                   </div>
                 </li>
                 <!-- <li class="nav-item dropdown <?php if( in_array($title, array("Conference Program", "PDS Program", "AMTA 2020 Abstract Book")) ) { echo "active"; }?>"> <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
