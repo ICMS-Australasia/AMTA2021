@@ -33,7 +33,7 @@ include('include/header.php');
     <tr align="center">
       <td>9:00 AM</td>
       <td rowspan="3">Early Childhood Music Therapy Refresh: Songs, Interventions, and Theories <br>
-        <a href="./pds-speakers#knight"><b>Andrew Knight</b></a></td>
+        <a href="./pds-speakers#knight" target="_blank"><b>Andrew Knight</b></a></td>
     </tr>
     <tr align="center">
       <td>9:30 AM</td>
@@ -45,7 +45,7 @@ include('include/header.php');
     <tr align="center">
       <td>11:00 AM</td>
       <td rowspan="3">4 Interventions from the Meet In the Music Curriculum for Autism & Diverse Needs <br>
-        <a href="./pds-speakers#thane"><b>Esther Thane</b></a></td>
+        <a href="./pds-speakers#thane" target="_blank"><b>Esther Thane</b></a></td>
       <td rowspan="3">PART 1: Expanding, Integrating and Evolving your Assessment Skills in Music Therapy <br>
         <b>Gustavo Schulz</b></td>
     </tr>
