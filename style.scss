@@ -342,7 +342,28 @@ body {
       margin-bottom: 0 !important;
     }
   }
-
+  .pds-program {
+    overflow-x: auto;
+    th {
+      font-size: 1.7rem;
+      font-weight: 800;
+    }
+    .grey {
+      background-color: #f2f2f2;
+    }
+    .break {
+      background-color: lighten($purple, 35%);
+    }
+    .stream1 {
+      background-color: lighten($turquoise, 70%);
+    }
+    .stream2 {
+      background-color: lighten($purple, 35%);
+    }
+    .stream3 {
+      background-color: lighten($dpurple, 25%);
+    }
+  }
   .rego-table {
       th {
           background-color: lighten($turquoise, 0%);

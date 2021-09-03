@@ -2,7 +2,7 @@
 $title = "PDS Speakers";
 include('include/header.php');
 ?>
-<div class="row my-5">
+<div class="row my-5" id="thane">
     <div class="col">
         <img src="./img/pds/thane.jpg" class="img-fluid float-right ml-4" width="250">
         <h2 class="d-inline">Esther Thane</h2>
@@ -16,7 +16,7 @@ include('include/header.php');
 
 <hr class='my-4'>
 
-<div class="row my-5">
+<div class="row my-5" id="knight">
     <div class="col">
         <img src="./img/pds/knight.jpg" class="img-fluid float-right ml-4" width="250">
         <h2 class="d-inline">Dr Andrew Knight</h2>

@@ -251,6 +251,21 @@ body {
     font-size: 1em; }
   .content .modal-content p:last-of-type {
     margin-bottom: 0 !important; }
+.content .pds-program {
+  overflow-x: auto; }
+  .content .pds-program th {
+    font-size: 1.7rem;
+    font-weight: 800; }
+  .content .pds-program .grey {
+    background-color: #f2f2f2; }
+  .content .pds-program .break {
+    background-color: #facfff; }
+  .content .pds-program .stream1 {
+    background-color: #c6d9ff; }
+  .content .pds-program .stream2 {
+    background-color: #facfff; }
+  .content .pds-program .stream3 {
+    background-color: #e6baff; }
 .content .rego-table th {
   background-color: #002060;
   color: white; }

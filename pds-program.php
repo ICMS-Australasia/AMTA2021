@@ -3,92 +3,113 @@ $title = "PDS Program";
 include('include/header.php');
 ?>
 
-<a href="pds-program.pdf" class="button" style="font-size:1.8em;" target="_blank">Click here to download and print the PDS Program</a>
+<table cellpadding="20" cellspacing="0" border="1" class='pds-program'>
+    <col width="16%">
+    <col width="28%">
+    <col width="28%">
+    <col width="28%">
+    <tr align="center">
+      <th></th>
+      <th class="stream1">STREAM 1</th>
+      <th class="stream2">STREAM 2</th>
+      <th class="stream3">STREAM 3</th>
+    </tr>
+    <tr align="center">
+      <th></th>
+      <td class="stream1"><b>Professional Development</b></td>
+      <td class="stream2"><b>Through the Lifespan Stream  Assessment, Goal Setting, Evaluation & Report Writing Stream</b></td>
+      <td class="stream3"><b>NDIS & Business Insights Stream</b></td>
+    </tr>
+    <tr align="center">
+      <td>8:00 AM</td>
+      <td class="grey" rowspan="2"></td>
+      <td rowspan="3">Musical Goals are Clinical Goals: Hearing Music as a Domain of Health <br>
+        <b>John Carpente</b></td>
+      <td class="grey" rowspan="8"></td>
+    </tr>
+    <tr align="center">
+      <td>8:30 AM</td>
+    </tr>
+    <tr align="center">
+      <td>9:00 AM</td>
+      <td rowspan="3">Early Childhood Music Therapy Refresh: Songs, Interventions, and Theories <br>
+        <a href="./pds-speakers#knight"><b>Andrew Knight</b></a></td>
+    </tr>
+    <tr align="center">
+      <td>9:30 AM</td>
+      <td class="grey" rowspan="2"></td>
+    </tr>
+    <tr align="center">
+      <td>10:30 AM</td>
+    </tr>
+    <tr align="center">
+      <td>11:00 AM</td>
+      <td rowspan="3">4 Interventions from the Meet In the Music Curriculum for Autism & Diverse Needs <br>
+        <a href="./pds-speakers#thane"><b>Esther Thane</b></a></td>
+      <td rowspan="3">PART 1: Expanding, Integrating and Evolving your Assessment Skills in Music Therapy <br>
+        <b>Gustavo Schulz</b></td>
+    </tr>
+    <tr align="center">
+      <td>11:30 AM</td>
+    </tr>
+    <tr align="center">
+      <td>12:00 PM</td>
+    </tr>
 
+    <tr align="center">
+      <td>12:30 PM</td>
+      <td class="break" colspan="3"><b>BREAK & Client Insights</b></td>
+    </tr>
 
+    <tr align="center">
+      <td>1:00 PM</td>
+      <td rowspan="2">Title TBC <br>
+        <b>Kate Fletcher</b></td>
+      <td rowspan="3">PART 2: Expanding, Integrating and Evolving your Assessment Skills in Music Therapy <br>
+          <b>Gustavo Schulz</b></td>
+      <td rowspan="4">Music as a Metaphor: A Deep Dive into Curiosity <br>
+        <b>Belinda Thurlow</b></td>
+    </tr>
+    <tr align="center">
+      <td>1:30 PM</td>
+    </tr>
+    <tr align="center">
+      <td>2:00 PM</td>
+      <td class="grey" rowspan="2"></td>
+    </tr>
+    <tr align="center">
+      <td>2:30 PM</td>
+      <td>Movement, Music, Meditation, and Play <br>
+        <b>Laura Murray</b></td>
+    </tr>
 
-<p><b><em>Please note: the times displayed on the program below are in Australian Eastern Daylight Time (NSW, Victoria, Tasmania, ACT time).</em></b></p>
+    <tr align="center">
+      <td>3:00 PM</td>
+      <td class="break" colspan="3"><b>BREAK & Client Insights</b></td>
+    </tr>
 
-<h2>Saturday 7 November 2020</h2>
+    <tr align="center">
+      <td>3:30 PM</td>
+      <td rowspan="2">Title TBC <br>
+        <b>Clare Kildea  & Helen Carrington</b></td>
+      <td rowspan="4">Music Therapy NDIS Report Writing (INCLUDES FREE REPORT TEMPLATE) <br>
+        <b>Kylie Morgan</b></td>
+      <td rowspan="3">Connect, Create, Communicate: An interactive panel/workshop to keep RMTs up to date with information and resources provided by the AMTA on disability and the NDIS <br>
+        <b>Helen Cameron, Elizabeth Mackney, Megan Dalmazzo, Anita Connell & Josh Berryman</b></td>
+    </tr>
+    <tr align="center">
+      <td>4:00 PM</td>
+    </tr>
+    <tr align="center">
+      <td>4:30 PM</td>
+      <td class="grey" rowspan="2"></td>
+    </tr>
+    <tr align="center">
+      <td>5:00 PM</td>
+      <td>Title TBC <br>
+        <b>Iani Sujono & Rob Devlin</b></td>
+    </tr>
 
-<table cellpadding="20" cellspacing="0" border="1">
-    <col width="25%">
-    <col width="25%">
-    <col width="25%">
-    <col width="25%">
-    <tr>
-        <td align="center">10:00am – 10:30am</td>
-        <td colspan="3">Welcome including Welcome to Country</td>
-    </tr>
-    <tr>
-        <td align="center">10:30am – 11:30am</td>
-        <td colspan="3">Vocal sustainability in change of climate <br>
-            <b>Associate Professor Debra Phyland</b></td>
-    </tr>
-    <tr>
-        <td align="center">11:30am – 11:45am</td>
-        <td colspan="3">Networking and coffee break</td>
-    </tr>
-    <tr>
-        <td align="center">11:45am – 12:45pm</td>
-        <td>Unlocking melody on the guitar <br>
-            <b>Oliver O’Reilly</b> <br><br>
-            Resources/Requirements
-            <ul>
-              <li>Guitar (tuned before workshop)</li>
-              <li>Tuner and capo</li>
-              <li>Zoom audio settings set to ‘Suppress Persistent Background Noise’</li>
-            </ul>
-        </td>
-        <td>Musical insights: Identifying internal barriers to success and flourishing <br>
-            <b>Katrina Skewes McFerran</b> <br><br>
-            Resources/Requirements
-            <ul>
-              <li>Invited to have drawing materials at hand (e.g. pastels and paper)</li>
-              <li>Invited to download Rebelle 3 drawing program</li>
-            </ul>
-        </td>
-        <td>Let’s get Technical: Technology and Music Therapy <br>
-            <b>Rachael Mackay</b> <br><br>
-            Resources/Requirements
-            <ul>
-              <li>Phone or device to capture QR codes that will be displayed during the session</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td align="center">12:45pm – 1:30pm</td>
-        <td colspan="3">Lunch break</td>
-    </tr>
-    <tr>
-        <td align="center">1:30pm – 2:00pm</td>
-        <td colspan="3">How to stay pain free in music therapy <br>
-            <b>Yves Silveira</b> <br><br>
-            Resources/Requirements
-            <ul>
-              <li>Space to do exercises</li>
-              <li>Tennis ball or equivalent )lacross ball/spiky ball)</li>
-              <li>Theraband/strap if you have one</li>
-              <li>Comfortable clothes</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td align="center">2:00pm – 4:30pm*</td>
-        <td colspan="3">“Fostering Connection In The Therapeutic Relationship” - Counselling Skills <br>
-            <b>Libby Sherring</b> <br>
-            <em>*Additional Breaks will be scheduled during this time</em> <br><br>
-            Resources/Requirements
-            <ul>
-              <li>In Webinar Workbook (sent to attendees via email)</li>
-              <li>Pre-webinar activities booklet (sent to attendees via email)</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td align="center">4:30pm – 4:45pm</td>
-        <td colspan="3">Closing Session</td>
-    </tr>
 </table>
 
 
