@@ -19,6 +19,9 @@ include('include/header.php');
   <div class="col-4 col-md-4 col-lg-3">
     <a href="http://www.musictherapyonline.org" target="_blank"><img src="./img/sponsors/music-therapy-online.png" class="img-fluid"></a>
   </div>
+  <div class="col-4 col-md-4 col-lg-3">
+    <img src="./img/sponsors/jam.jpg" class="img-fluid">
+  </div>
 </div>
 
 <hr class="my-4">

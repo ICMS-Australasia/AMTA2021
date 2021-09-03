@@ -2,13 +2,27 @@
 <?php if ($title != "Conference Program") {?>
 <div class="col-md-3 sidebar py-5">
   <h2>Key Dates</h2>
-  <ul class="dates">
-    <li><strong>Call for Abstracts</strong> Closed</li>
-    <li><strong>Notification to authors</strong> Monday 23 August 2021</li>
+  <ul class="dates mb-4">
     <li><strong>Registration opens</strong> Now open</li>
     <li><strong>AMTA 2021 PDS</strong> Saturday 9 October 2021</li>
     <li class="event"><strong>AMTA 2021 Conference</strong> Saturday 16 & Sunday 17 October 2021</li>
   </ul>
+
+  <h2>Sponsors</h2>
+  <div class="row justify-content-center">
+    <div class="col-6 col-md-12">
+      <img src="./img/sponsors/redkite.png" class="img-fluid mb-4 mx-auto d-block"/>
+    </div>
+    <div class="col-6 col-md-12">
+      <img src="./img/sponsors/sound-expression.png" class="img-fluid my-4 mx-auto d-block"/>
+    </div>
+    <div class="col-6 col-md-12">
+      <img src="./img/sponsors/music-therapy-online.png" class="img-fluid my-4 mx-auto d-block"/>
+    </div>
+    <div class="col-6 col-md-12">
+      <img src="./img/sponsors/jam.jpg" class="img-fluid my-4 mx-auto d-block w-75"/>
+    </div>
+  </div>
 </div>
 <?php } ?>
 </div>
