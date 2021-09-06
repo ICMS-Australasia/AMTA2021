@@ -1,5 +1,5 @@
 <?php
-$title = "PDS Program";
+$title = "PDS Program – Saturday 9 October 2021";
 include('include/header.php');
 ?>
 
