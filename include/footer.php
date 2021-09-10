@@ -9,9 +9,12 @@
   </ul>
 
   <h2>Sponsors</h2>
-  <div class="row justify-content-center">
+  <div class="row justify-content-center sponsors">
     <div class="col-6 col-md-12">
       <img src="./img/sponsors/redkite.png" class="img-fluid mb-4 mx-auto d-block"/>
+    </div>
+    <div class="col-6 col-md-12">
+      <img src="./img/sponsors/wsu.png" class="img-fluid my-4 mx-auto d-block"/>
     </div>
     <div class="col-6 col-md-12">
       <img src="./img/sponsors/sound-expression.png" class="img-fluid my-4 mx-auto d-block"/>
@@ -21,6 +24,9 @@
     </div>
     <div class="col-6 col-md-12">
       <img src="./img/sponsors/jam.jpg" class="img-fluid my-4 mx-auto d-block w-75"/>
+    </div>
+    <div class="col-6 col-md-12">
+      <img src="./img/sponsors/hans-music.png" class="img-fluid my-4 mx-auto d-block w-75"/>
     </div>
   </div>
 </div>

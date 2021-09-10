@@ -9,6 +9,9 @@ include('include/header.php');
   <div class="col-6 col-md-6 col-lg-4">
     <a href="https://www.redkite.org.au/" target="_blank"><img src="./img/sponsors/redkite.png" class="img-fluid"/></a>
   </div>
+  <div class="col-6 col-md-6 col-lg-4">
+    <a href="https://www.redkite.org.au/" target="_blank"><img src="./img/sponsors/wsu.png" class="img-fluid"/></a>
+  </div>
 </div>
 
 <h3>Sponsors</h3>
@@ -21,6 +24,9 @@ include('include/header.php');
   </div>
   <div class="col-4 col-md-4 col-lg-3">
     <img src="./img/sponsors/jam.jpg" class="img-fluid">
+  </div>
+  <div class="col-4 col-md-4 col-lg-3">
+    <img src="./img/sponsors/hans-music.png" class="img-fluid">
   </div>
 </div>
 

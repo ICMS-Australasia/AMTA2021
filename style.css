@@ -290,6 +290,18 @@ body {
       background: #e0eaff; }
   .content .sidebar .dates .event strong {
     color: #002060; }
+.content .sidebar .sponsors {
+  max-height: 600px;
+  overflow-y: scroll; }
+  .content .sidebar .sponsors::-webkit-scrollbar {
+    width: 5px; }
+  .content .sidebar .sponsors::-webkit-scrollbar-track {
+    background: #c6d9ff;
+    border: none; }
+  .content .sidebar .sponsors::-webkit-scrollbar-thumb {
+    background: #0042c6; }
+  .content .sidebar .sponsors::-webkit-scrollbar-thumb:hover {
+    background: #0053f9; }
 
 .faqs {
   margin-top: 2em; }

@@ -139,9 +139,6 @@ if ($title == 'Welcome') {
       <div class="row pb-2">
         <div class="col-md pr-md-4 py-5">
           <?php if ($title == "Welcome") { ?>
-            <div class="alert alert-danger p-4">
-              <h3 class="my-0 text-center">Thank you to all the authors who submitted abstracts for the 2021 AMTA Conference! All abstracts have now been reviewed, and authors will receive their notification letter in the next 24 hours. Thank you to everyone for your patience, and I look forward to sharing an exciting program with you very soon! - Dr Lucy Forrest, Scientific Chair, AMTA National Conference 2021.</h3>
-            </div>
             <div class="alert alert-primary p-4">
               <h2 class="mt-0">Acknowledgement of Country</h2>
               <div class="float-md-right">
