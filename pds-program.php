@@ -47,7 +47,7 @@ include('include/header.php');
       <td rowspan="3">4 Interventions from the Meet In the Music Curriculum for Autism & Diverse Needs <br>
         <a href="./pds-speakers#thane"><b>Esther Thane</b></a></td>
       <td rowspan="3">PART 1: Expanding, Integrating and Evolving your Assessment Skills in Music Therapy <br>
-        <b>Gustavo Schulz</b></td>
+        <a href="./pds-speakers#gattino"><b>Gustavo Schulz</b></a></td>
     </tr>
     <tr align="center">
       <td>11:30 AM</td>
@@ -66,7 +66,7 @@ include('include/header.php');
       <td rowspan="2">Thinking outside the Music; Creative ways to work with adults with disabilities <br>
         <a href="./pds-speakers#fletcher"><b>Kate Fletcher</b></a></td>
       <td rowspan="3">PART 2: Expanding, Integrating and Evolving your Assessment Skills in Music Therapy <br>
-          <a href="./pds-speakers#gattino"><b>Gustavo Schulz</b></a></td>
+        <a href="./pds-speakers#gattino"><b>Gustavo Schulz</b></a></td>
       <td rowspan="4">Music as a Metaphor: A Deep Dive into Curiosity <br>
         <a href="./pds-speakers#thurlow"><b>Belinda Thurlow</b></a></td>
     </tr>
@@ -80,7 +80,7 @@ include('include/header.php');
     <tr align="center">
       <td>2:30 PM</td>
       <td>Movement, Music, Meditation, and Play <br>
-        <b>Laura Murray</b></td>
+        <a href="./pds-speakers#murray"><b>Laura Murray</b></a></td>
     </tr>
 
     <tr align="center">
