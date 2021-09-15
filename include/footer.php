@@ -1,5 +1,4 @@
 </div>
-<?php if ($title != "Conference Program") {?>
 <div class="col-md-3 sidebar py-5">
   <h2>Key Dates</h2>
   <ul class="dates mb-4">
@@ -11,7 +10,10 @@
   <h2>Sponsors</h2>
   <div class="row justify-content-center sponsors">
     <div class="col-6 col-md-12">
-      <img src="./img/sponsors/redkite.png" class="img-fluid mb-4 mx-auto d-block"/>
+      <img src="./img/sponsors/uom.png" class="img-fluid mb-4 mx-auto d-block w-75"/>
+    </div>
+    <div class="col-6 col-md-12">
+      <img src="./img/sponsors/redkite.png" class="img-fluid my-4 mx-auto d-block"/>
     </div>
     <div class="col-6 col-md-12">
       <img src="./img/sponsors/wsu.png" class="img-fluid my-4 mx-auto d-block"/>
@@ -30,7 +32,6 @@
     </div>
   </div>
 </div>
-<?php } ?>
 </div>
 </div>
 </div>

@@ -70,6 +70,37 @@ include('include/header.php');
     </div>
 </div>
 
+<hr class='mt-4 mb-5'>
+
+<h2>Amplifying the Voices of Older Adults and their Carers in Music Therapy</h2>
+
+<p>Globally, the number of older persons is growing faster than the number of people in any other age group. Older adults face changing healthcare needs, as well as changing social roles, responsibilities and relationships. The carers of older adults also represent a diverse and growing group, with their own unique needs and roles. The Panel will explore how music therapy can give voice to and support the evolving needs of older adults and their carers, helping them to live and age well; enhancing quality of life; and enabling them to create, connect, learn and grow through ageing.</p>
+
+<div class="row mb-5">
+    <div class="col">
+        <img src="./img/speakers/sham.png" class="img-fluid float-right ml-4" width="200">
+        <h3 class="mt-0">Fiona Sham</h3>
+        <p class="mt-4">Fiona Sham is a Registered Music Therapist in Melbourne Australia, working in a sub-acute in-patient adult rehabilitation centre at Monash Health, and with people living with Parkinson’s disease and their carers through Parkinson’s Victoria. She has 10 years of experience working with adults with acquired brain injury, neurological conditions and older adults in the hospital setting and community. Fiona is a neurologic music therapist fellow and is passionate about using music to support her clients to achieve their goals to improve their functioning and well-being.</p>
+    </div>
+</div>
+
+<div class="row mb-5">
+    <div class="col">
+        <img src="./img/speakers/delaney.png" class="img-fluid float-right ml-4" width="200">
+        <h3 class="mt-0">Angela Delaney</h3>
+        <p class="mt-4">Angela Delaney is a Registered Music Therapist working in public health and private practice; and is currently a National Allied Health Educator in the paediatric palliative care sector and Lead Music Therapist for the WEAVE project, facilitating music therapy for veterans with dementia. Angela has been a long-term advocate for music therapy in clinical and community settings and was the proud recipient of the Richard Thompson Award for Excellence & Outstanding Professional Achievement in Music Therapy in 2017. Angela is passionate about deepening awareness and understanding of the role of music, music-making and community for health and wellbeing. Angela values a balanced life, living near the ocean, and loves immersing herself in water and nature with her family.</p>
+    </div>
+</div>
+
+
+<div class="row mb-5">
+    <div class="col">
+        <img src="./img/speakers/molyneux.png" class="img-fluid float-right ml-4" width="200">
+        <h3 class="mt-0">Claire Molyneux</h3>
+        <p class="mt-4">Claire Molyneux, MA (Music Therapy), BA (Hons), PGCertHealSc (Clinical Supervision), NZ RMTh, HCPC (UK), FHEA has worked as a music therapist and supervisor in the UK and New Zealand for over 20 years with people across the lifespan. She is currently Course Leader for the MA Music Therapy at Anglia Ruskin University, UK and is undertaking PhD research exploring the impact of group music therapy for people living with dementia and their companions.</p>
+    </div>
+</div>
+
 
 <?php
 include('include/footer.php');

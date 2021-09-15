@@ -12,6 +12,7 @@ include('include/header.php');
       title: "",
       firstname: "Esther",
       lastname: "Thane",
+      img: true,
       name: "Esther Thane",
       workshop: "4 Interventions from the Meet in the Music Curriculum for Autism & Diverse Needs",
       content: `Esther has specialized since 1996 in the field of Autism and special needs.  After over a decade on faculty at Capilano University, teaching in the Bachelor of Music Therapy Program, Esther continues to enjoy presenting at conferences, writing book reviews for published journals, & holding workshops for universities, local agencies and internationally. In 2014, Esther completed Dr. Diane Austin's (Music Psychotherapy Center, NY) first international distance training program in Advanced Vocal Psychotherapy. Her publication in the book: Voicework in Music Therapy (Jessica Kingsley Publishers), focuses on her innovative method of Vocal-Led Relaxation for Children with Autism.  Esther created Meet In The Music (MITM) music therapy curriculum for children with autism, which is utilized by music therapists throughout the United States, Canada and Australia.  Esther is Executive Director of ET Music Therapy in Vancouver, British Columbia, Canada, where the team serve over 120 families with both in person and telehealth: in two studio locations, & in schools, implementing the MITM curriculum. In 2017, Esther received the Iconic Women Creating a Better World For All Award, presented by the Women Economic Forum in New Delhi, India. Recently, Esther received CAMT’s (Canadian Association For Music Therapy) PEER RECOGNITION AWARD for innovation and advocacy.`,
@@ -22,6 +23,7 @@ include('include/header.php');
       title: "Dr",
       firstname: "Andrew",
       lastname: "Knight",
+      img: true,
       name: "Dr Andrew Knight",
       workshop: "Early Childhood Music Therapy Refresh: Songs, Interventions, and Theories",
       content: `Dr. Andrew Knight holds a bachelor's degree in Percussion Performance, Jazz emphasis from University of Wisconsin-La Crosse, a music therapy equivalency and master's degree from the University of Minnesota, and a Ph.D. in Educational Foundations and Research from the University of North Dakota. Dr. Knight has research interests in substance use disorders in adults and early childhood social/emotional developmental issues. He directs the Parkinson’s Disease vocal exercise group in collaboration with the Parkinson’s Support Group in Larimer County and is a Music Together Within Therapy provider. His research has been published in the Journal of Music Therapy and Music Therapy Perspectives, among other journals, and serves as Associate Editor for Book Reviews for JMT. He is a past president of the Midwestern Region (MWR) of the American Music Therapy Association (AMTA), on the AMTA Assembly of Delegates, and has won the MWR and AMTA Service Awards. Along with Drs. Blythe LaGasse and Alicia Clair, he is a co-editor of the 2018 Introduction to Music Therapy textbook published by AMTA.`,
@@ -32,6 +34,7 @@ include('include/header.php');
       title: "",
       firstname: "Laura",
       lastname: "Murray",
+      img: true,
       name: "Laura Murray",
       workshop: "Movement, Music, Meditation, and Play",
       content: `Laura Murray (she/her) is a musician, piano enthusiast, yogi, registered music therapist, and proud Newfoundlander. Prior to moving to Australia in 2017, she taught a diverse range of weekly fitness and yoga classes, for various ages and abilities, for 10 years. Laura’s well-being philosophy intertwines a solid theoretical knowledge through attaining six certifications in the domain of fitness, health, and yoga, and a multitude of experiences from over 20 years of attending or leading groups. At the core, she holds a strong interest in supporting individuals to discover their own best health and movement needs. `,
@@ -42,6 +45,7 @@ include('include/header.php');
       title: "",
       firstname: "Kylie",
       lastname: "Morgan",
+      img: true,
       name: "Kylie Morgan (PhD, GDip Music Therapy, BCA)",
       workshop: "Music Therapy NDIS Report Writing",
       content: `Kylie has works as a senior consultant for Disability Services Consulting. She completed her PhD in Music Therapy in 2007. During her career as a Registered Music Therapist she gained extensive experience in designing, implementing and evaluating music therapy programs in the mental health, aged and disability sectors. For the past 7 years, she has devoted her career to the disability sector and it’s interface with other systems. She has developed a deep knowledge and expertise in NDIS and it’s place within the allied health and mental health sectors. This knowledge is combined with her personal passion for the sector arising out of her lived experience as a proud mum of a daughter with ASD, who is also an NDIS participant.`,
@@ -52,6 +56,7 @@ include('include/header.php');
       title: "",
       firstname: "Kate",
       lastname: "Fletcher",
+      img: true,
       name: "Kate Fletcher",
       workshop: "Thinking outside the Music; Creative ways to work with adults with disabilities",
       content: `Kate Fletcher is an RMT/NMT with clinical experience working with children and adults in a variety of clinical settings (special education, disability, early intervention, ABI and community).  Kate is passionate about using a client-centred, holistic approach to her work, and is currently the manager of clinical services for Music Beat Australia.`,
@@ -64,6 +69,7 @@ include('include/header.php');
       title: "",
       firstname: "Belinda",
       lastname: "Thurlow",
+      img: true,
       name: "Belinda Thurlow",
       workshop: "Music as a Metaphor: A Deep Dive into Curiosity",
       content: `Belinda has been working therapeutically for over 11 years in mental health, disability, and aged care and has worked extensively in both clinical and community settings. Belinda has completed additional training in neurological music therapy, complex trauma, sensory processing, motivational interviewing, and coaching skills. Drawing on this experience, Belinda brings an open, compassionate and person centered approach to therapy in order to work collaboratively with clients to address underlying issues that impact quality of life in the short term and long term.Belinda spent the foundational years of her career at Nordoff Robbins Music Therapy Australia as a therapist and clinic operations manager. More recently, Belinda works as behaviour support clinician for the NDIS and is currently completing additional qualifications in counseling and psychotherapy. Belinda runs her own practice, Compass Therapeutic Services offering music therapy for mental health and professional supervision to music therapists, students and other allied health practitioners`,
@@ -74,6 +80,7 @@ include('include/header.php');
       title: "",
       firstname: "Gustavo",
       lastname: "Gattino",
+      img: true,
       name: "Gustavo Schulz Gattino",
       workshop: "Expanding, integrating and evolving your assessment skills in music therapy. ",
       content: `Gustavo Schulz Gattino, Ph.D, is music therapist and Associate Professor in the Department of Communication and Psychology at the Aalborg University (Denmark). He is a teacher of the Bachelor, Master and PhD music therapy programs at the same university. He is accredited as a music Therapist by the Portuguese Association of Music Therapy (APMT) and the country representative of Denmark in the European Music Therapy Confederation (EMTC). Dr. Gattino is the editor of publications Brazilian Journal of Music Therapy and Portuguese Journal of Music Therapy (RPM). He is a member of the International Music Therapy Evaluation Consortium (IMTAC) and also member of the Publications commission of the World Federation of Music Therapy (WFMT).`,
@@ -84,6 +91,7 @@ include('include/header.php');
       title: "",
       firstname: "John",
       lastname: "Carpente",
+      img: true,
       name: "John Carpente",
       workshop: "Musical Goals are Clinical Goals: Hearing Music as a Domain of Health",
       content: `John A. Carpente, Ph.D., MT-BC, LCAT is a Professor of Music and Music therapy at Molloy College, Founder, and Director of The Rebecca Center for Music Therapy at Molloy College, NY, USA, Founding Clinical Director of the Center for Autism and Child Developmental and owner of Developmental Health Services. He has over 20 years of music therapy clinical, supervisory, and research experience and has presented his work domestically and internationally. He is a Board Certified and New York State Licensed music therapist as well as a certified DIRFloortime practitioner and trainer, and creator of the Developmental Relationship-based Music Therapy model. He is a founding member of the International Music Therapy Assessment Consortium (IMTAC) and author of the Individual Music-Centered Assessment Profile for Neurodevelopmental Disorder assessment model. He has published numerous book chapters and peer-reviewed journal articles on the topic of music therapy with autistic individuals.`,
@@ -94,6 +102,7 @@ include('include/header.php');
       title: "",
       firstname: "",
       lastname: "Sujono-Devlin",
+      img: true,
       name: "Iani Sujono & Rob Devlin",
       workshop: "Helping each other to raise the bar in the MT Profession in Private Practice",
       content: `Iani Sujono and Rob Devlin are a husband and wife team with extensive experience in music therapy, disability and private practice. They started their business Sound Expression in 2015 and have grown this into a successful clinical practice with 250 clients and 13 staff. Iani initially worked within community settings (aged care, schools and day programs) before becoming the Operations Manager at Nordoff-Robbins Music Therapy Australia for 13 years. She then pursued her dream to open up her own music therapy clinic. Rob came from a strong business background in the corporate sector for 18 years before changing direction and pursuing a music therapy career. He joined Nordoff-Robbins Music Therapy Australia as a music therapist and later became the Head of Business Development for 5 years before joining Iani at Sound Expression. Between both of them, they have solid backgrounds and experience in clinical practice, establishing and growing a private practice and navigating the many challenges of a rapidly changing business environment.`,
@@ -106,13 +115,26 @@ include('include/header.php');
       title: "",
       firstname: "",
       lastname: "Cameron-Mackney-Dalmazzo-Connell",
+      img: false,
       name: "Helen Cameron, Elizabeth Mackney, Megan Dalmazzo & Anita Connell",
       workshop: "Connect, Create, Communicate: An interactive panel/workshop to keep RMTs up to date with information and resources provided by the AMTA on disability and the NDIS",
       content: `
-        Helen Cameron established her private practice, JAM music therapy in Melbourne over 20 years ago and has been a registered provider since 2016. She manages a team of wonderful music therapists who provide individual and group programs to NDIS participants  Helen is completing her Master's by research at the University of Melbourne, focussing on the experiences of support workers who attend group music therapy. <br><br>
-        Elizabeth Mackney, BN MMusThy, RN RMT NMT, runs her own private practice, Lismore Music Therapy, in the Northern Rivers area of NSW.   Liz has been a Registered NDIS Provider since the scheme rolled out in the area and supports up to 50 NDIS participants of all ages through individual, family, and group music therapy programs. <br><br>
-        Megan Dalmazzo runs a private music therapy practice, Thrive Music, in the Newcastle/Hunter region of NSW. Megan has experience in early childhood early intervention, disability, dementia, and palliative care. She has operated as a Registered NDIS Provider since 2013. <br><br>
-        Anita Connell manages her own private practice, Tuned In Music Therapy, facilitating music therapy programs for disabled children and adults. Anita is also completing her PhD at the MARCS Institute, Western Sydney University researching the impact of creative music learning for older adults with and without cognitive impairment.
+        <div class="row align-items-center mt-0 mb-4 my-lg-4">
+          <div class="col-7 col-lg-9">Helen Cameron established her private practice, JAM music therapy in Melbourne over 20 years ago and has been a registered provider since 2016. She manages a team of wonderful music therapists who provide individual and group programs to NDIS participants  Helen is completing her Master's by research at the University of Melbourne, focussing on the experiences of support workers who attend group music therapy.</div>
+          <div class="col-5 col-lg-3"><img src="./img/pds/cameron.jpg" class="img-fluid mb-4 mt-4 my-lg-0" width="200"></div>
+        </div>
+        <div class="row align-items-center mt-0 mb-4 my-lg-4">
+          <div class="col-7 col-lg-9">Elizabeth Mackney, BN MMusThy, RN RMT NMT, runs her own private practice, Lismore Music Therapy, in the Northern Rivers area of NSW.   Liz has been a Registered NDIS Provider since the scheme rolled out in the area and supports up to 50 NDIS participants of all ages through individual, family, and group music therapy programs.</div>
+          <div class="col-5 col-lg-3"><img src="./img/pds/mackney.jpg" class="img-fluid mb-4 mt-4 mb-lg-0" width="200"></div>
+        </div>
+        <div class="row align-items-center mt-0 mb-4 my-lg-4">
+          <div class="col-7 col-lg-9">Megan Dalmazzo runs a private music therapy practice, Thrive Music, in the Newcastle/Hunter region of NSW. Megan has experience in early childhood early intervention, disability, dementia, and palliative care. She has operated as a Registered NDIS Provider since 2013.</div>
+          <div class="col-5 col-lg-3"><img src="./img/pds/dalmazzo.jpg" class="img-fluid mb-4 mt-4 mb-lg-0" width="200"></div>
+        </div>
+        <div class="row align-items-center mt-0 mb-4 my-lg-4">
+          <div class="col-7 col-lg-9">Anita Connell manages her own private practice, Tuned In Music Therapy, facilitating music therapy programs for disabled children and adults. Anita is also completing her PhD at the MARCS Institute, Western Sydney University researching the impact of creative music learning for older adults with and without cognitive impairment.</div>
+          <div class="col-5 col-lg-3"><img src="./img/pds/connell.png" class="img-fluid mb-4 mt-4 mb-lg-0" width="200"></div>
+        </div>
       `,
       about: `
       In the ever-changing landscape of disability, and with continuous changes to the NDIS, it is vital that information communicated by the AMTA is current and accurate. <br><br>
@@ -125,10 +147,13 @@ include('include/header.php');
       title: "",
       firstname: "",
       lastname: "Hall-Lseli",
+      img: false,
       name: "Christo Hall & Franziska Lseli",
       workshop: "How to stand out from the crowd (branding, unique selling point); how to develop a one-page marketing plan; ensure your online eco-system is working for you to optimise lead conversions",
       content: `
+        <img src="./img/pds/hall.jpg" class="img-fluid float-right ml-4 " width="200"/>
         Christo is co-founder of Basic Bananas, Australia’s leading marketing mentoring organization for business owners. Christo is regularly featured in a range of media for his creative marketing and business ideas including: The Today Show (Channel Nine live TV), a regular on radio including 2UE and 2GB radio, Virgin Inflight Entertainment, TEDx and many more. Back in the day Christo was a professional surfer for 7 years competing on the international circuit. He is co-author of 2 number one international bestselling marketing books ‘Perception’ and ‘Bananas About Marketing’ and has presented on business stages all around planet earth. Christo has developed a reputation for assisting to add millions in additional revenue to his client’s bottom line. <br><br>
+        <img src="./img/pds/lseli.jpg" class="img-fluid float-right ml-4 " width="200"/>
         Franziska is the co-founder of <a href="https://www.basicbananas.com/" target="_blank">Basic Bananas</a>, <a href="https://www.thebusinesshood.com/" target="_blank">The Business Hood</a>, <a href="https://oceanlovers.com/" target="_blank">Oceanlovers</a> and <a href="https://www.momentsofhumanity.com/" target="_blank">Moments of Humanity</a>. In 2013 Franziska was awarded the Young Entrepreneur of the Year award recognizing her innovation, creativity and philanthropic involvement. Franziska is a board member at the Entrepreneurs Organization, sits on the judging panel for Singularity University and has run think tanks at the United Nations to address the UN sustainable development goals through entrepreneurship. Franziska is the author of two bestselling books with a third one just released this year (Sir Richard Branson wrote the foreword).   She is regularly featured across the media including INC, Forbes, Business Insider, Virgin Inflight Entertainment, Marie-Claire, Cosmopolitan, SmartCompany, Dynamic Business Magazine, BRW, 2UE, Channel 9. Franziska is a Swiss born Australian (or Swaussie) and is known for her down-to-earth attitude, infectious energy, integrity and courage to take the lead.
       `,
       about: `
@@ -143,7 +168,7 @@ include('include/header.php');
   document.getElementById('pds-speakers').innerHTML = pds_speakers.map(speaker => `
     <div class="row my-5" id="${speaker.lastname.toLowerCase()}">
         <div class="col">
-            <img src="./img/pds/${speaker.lastname.toLowerCase()}.jpg" class="img-fluid float-right ml-4" width="250">
+            ${speaker.img ? `<img src="./img/pds/${speaker.lastname.toLowerCase()}.jpg" class="img-fluid float-right ml-4" width="200">` : ``}
             <h2 class="d-inline">${speaker.name}</h2>
             <h3 class="mt-0">${speaker.workshop}</h3>
             <p class="mt-4">${speaker.content}</p>

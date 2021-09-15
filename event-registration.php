@@ -64,6 +64,64 @@ include('include/header.php');
         <td>Full conference registration Person with a disability</td>
         <td align="center">$150 AUD</td>
     </tr>
+    <tr>
+        <th colspan="2">One Day Registration <br>
+          <em>Saturday 16 OR Sunday 17 October 2021</em></th>
+    </tr>
+    <tr>
+      <td colspan="2"><b>Member Registrations</b></td>
+    </tr>
+    <tr>
+      <td>One day registration member</td>
+      <td align="center">$180 AUD</td>
+    </tr>
+    <tr>
+      <td colspan="2"><b>Non-Member Registrations</b></td>
+    </tr>
+    <tr>
+      <td>One day registration non-member</td>
+      <td align="center">$200 AUD</td>
+    </tr>
+    <tr>
+        <th colspan="2">One Session Registration <br>
+          <em>One session only (approx. 60. Minutes)</em></th>
+    </tr>
+    <tr>
+      <td colspan="2"><b>Member Registrations</b></td>
+    </tr>
+    <tr>
+      <td>One session registration member</td>
+      <td align="center">$60 AUD</td>
+    </tr>
+    <tr>
+      <td colspan="2"><b>Non-Member Registrations</b></td>
+    </tr>
+    <tr>
+      <td>One session registration non-member</td>
+      <td align="center">$60 AUD</td>
+    </tr>
+    <tr>
+      <td colspan="2"><b>Student Registrations</b></td>
+    </tr>
+    <tr>
+      <td>One session registration student</td>
+      <td align="center">$30 AUD</td>
+    </tr>
+    <tr>
+      <td colspan="2"><b>First Nations Registrations</b></td>
+    </tr>
+    <tr>
+      <td>One session registration first nations</td>
+      <td align="center">$0</td>
+    </tr>
+    <tr>
+      <td colspan="2"><b>Person with a disability Registrations</b></td>
+    </tr>
+    <tr>
+      <td>One session registration Person with a disability</td>
+      <td align="center">$30 AUD</td>
+    </tr>
+
 </table>
 
 <h2>Entitlements</h2>
@@ -94,6 +152,35 @@ include('include/header.php');
   <li>CPD Hours – Total number of hours TBC</li>
   <li>Certificate of CPD</li>
 </ul>
+
+<h3>One Day registration</h3>
+<p>One day registration entitlements include:</p>
+<ul>
+  <li>Unique attendee password-protected access to the AMTA 2021 virtual conference platform.</li>
+  <li>All program content either live or on-demand for the day of registration selected.</li>
+  <li>Ability to engage with presenters and other attendees during live presentations through live Q&A.</li>
+  <li>Ability to take notes during sessions and export to email.</li>
+  <li>Access to view presentations on-demand, post live presentation for day of registration selected only.</li>
+  <li>Access to view presentation abstracts and speaker information.</li>
+  <li>Access to view the AMTA virtual exhibition and opportunity to engage with key sponsors and exhibitors.</li>
+  <li>Opportunity to meet other attendees, exchange contact details and set meetings via the AMTA 2021 meeting hub.</li>
+  <li>CPD Hours – Total number of hours TBC</li>
+  <li>Certificate of CPD</li>
+</ul>
+<h3>One session only registration</h3>
+<p>One session only registration entitlements include:</p>
+<ul>
+  <li>Unique attendee password-protected access to the AMTA 2021 virtual conference platform.</li>
+  <li>Access to view the one selected session during the conference.</li>
+  <li>Ability to engage with presenters during the live Q&A</li>
+  <li>Ability to take notes during the session and export to email.</li>
+  <li>Access to view presentation abstract and speaker information.</li>
+  <li>Access to view the AMTA virtual exhibition and opportunity to engage with key sponsors and exhibitors.</li>
+  <li>Opportunity to meet other attendees, exchange contact details and set meetings via the AMTA 2021 meeting hub.</li>
+  <li>CPD Hours – Total number of hours TBC</li>
+  <li>Certificate of CPD</li>
+</ul>
+
 <h2>Method of Payment</h2>
 <p>Registration can only be confirmed once payment is received.</p>
 <p>Payment can be made by Credit card: Visa, MasterCard and American Express are accepted. If you are making a credit card payment from a country outside Australia, for security reasons you must first advise your banking institution of the impending charge and authorise them to allow the charge to Australia to go through. Please note that charges to your credit card will appear as being from “ICMS Australasia Pty Ltd” on your bank statement. </p>

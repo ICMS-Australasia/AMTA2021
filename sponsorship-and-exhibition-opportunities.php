@@ -4,7 +4,14 @@ include('include/header.php');
 ?>
 
 <h2>AMTA 2021 Sponsors</h2>
-<h3>Silver Sponsor</h3>
+<h3>Gold Sponsor</h3>
+<div class="row align-items-center">
+  <div class="col-6 col-md-6 col-lg-3">
+    <a href="https://www.redkite.org.au/" target="_blank"><img src="./img/sponsors/uom.png" class="img-fluid"/></a>
+  </div>
+</div>
+
+<h3>Silver Sponsors</h3>
 <div class="row align-items-center">
   <div class="col-6 col-md-6 col-lg-4">
     <a href="https://www.redkite.org.au/" target="_blank"><img src="./img/sponsors/redkite.png" class="img-fluid"/></a>

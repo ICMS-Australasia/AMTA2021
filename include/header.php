@@ -76,10 +76,11 @@ if ($title == 'Welcome') {
                 <li class="nav-item <?php if( in_array($title, array("Call for Presentations")) ) { echo "active"; }?>">
                   <a class="nav-link" href="call-for-presentations">Call for Presentations</a>
                 </li>
-                <li class="nav-item dropdown <?php if( in_array($title, array("PDS Program")) ) { echo "active"; }?>"> <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown"
+                <li class="nav-item dropdown <?php if( in_array($title, array("PDS Program – Saturday 9 October 2021", "Conference Program")) ) { echo "active"; }?>"> <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown"
                     aria-haspopup="true" aria-expanded="false">Program<i class="fas fa-angle-down"></i></a>
                   <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                     <a class="dropdown-item" href="pds-program">PDS Program</a>
+                    <a class="dropdown-item" href="conference-program">Conference Program</a>
                   </div>
                 </li>
                 <li class="nav-item dropdown <?php if( in_array($title, array("Keynote Speakers", "Leaders in Conversation", "PDS Speakers")) ) { echo "active"; }?>"> <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown"
