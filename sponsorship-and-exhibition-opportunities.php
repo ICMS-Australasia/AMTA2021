@@ -39,7 +39,7 @@ include('include/header.php');
     <a href="https://www.jammusictherapy.com/" target="_blank"><img src="./img/sponsors/jam.jpg" class="img-fluid"></a>
   </div>
   <div class="col-4 col-md-4 col-lg-3">
-    <a href="http://www.musicalbetween.com/" target="_blank"><img src="./img/sponsors/music-between.png" class="img-fluid"></a>
+    <a href="http://www.musicalbetween.com/" target="_blank"><img src="./img/sponsors/musical-between.png" class="img-fluid"></a>
   </div>
 </div>
 
