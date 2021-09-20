@@ -7,7 +7,7 @@ include('include/header.php');
 <h3>Gold Sponsor</h3>
 <div class="row align-items-center">
   <div class="col-6 col-md-6 col-lg-3">
-    <a href="https://www.redkite.org.au/" target="_blank"><img src="./img/sponsors/uom.png" class="img-fluid"/></a>
+    <a href="https://finearts-music.unimelb.edu.au/about-us/mcm " target="_blank"><img src="./img/sponsors/uom.png" class="img-fluid"/></a>
   </div>
 </div>
 
@@ -17,23 +17,29 @@ include('include/header.php');
     <a href="https://www.redkite.org.au/" target="_blank"><img src="./img/sponsors/redkite.png" class="img-fluid"/></a>
   </div>
   <div class="col-6 col-md-6 col-lg-4">
-    <a href="https://www.redkite.org.au/" target="_blank"><img src="./img/sponsors/wsu.png" class="img-fluid"/></a>
+    <a href="https://www.westernsydney.edu.au/future/study/courses/postgraduate/master-of-creative-music-therapy" target="_blank"><img src="./img/sponsors/wsu.png" class="img-fluid"/></a>
   </div>
 </div>
 
 <h3>Sponsors</h3>
 <div class="row align-items-center">
   <div class="col-4 col-md-4 col-lg-3">
+    <a href="https://www.hansmusic.com.au/" target="_blank"><img src="./img/sponsors/hans-music.png" class="img-fluid"></a>
+  </div>
+  <div class="col-4 col-md-4 col-lg-3">
     <a href="http://www.soundexpression.com.au" target="_blank"><img src="./img/sponsors/sound-expression.png" class="img-fluid"></a>
+  </div>
+  <div class="col-4 col-md-4 col-lg-3">
+    <a href="https://www.tunedinmusictherapy.com/" target="_blank"><img src="./img/sponsors/tuned-in-music-therapy.png" class="img-fluid"></a>
   </div>
   <div class="col-4 col-md-4 col-lg-3">
     <a href="http://www.musictherapyonline.org" target="_blank"><img src="./img/sponsors/music-therapy-online.png" class="img-fluid"></a>
   </div>
   <div class="col-4 col-md-4 col-lg-3">
-    <img src="./img/sponsors/jam.jpg" class="img-fluid">
+    <a href="https://www.jammusictherapy.com/" target="_blank"><img src="./img/sponsors/jam.jpg" class="img-fluid"></a>
   </div>
   <div class="col-4 col-md-4 col-lg-3">
-    <img src="./img/sponsors/hans-music.png" class="img-fluid">
+    <a href="http://www.musicalbetween.com/" target="_blank"><img src="./img/sponsors/music-between.png" class="img-fluid"></a>
   </div>
 </div>
 

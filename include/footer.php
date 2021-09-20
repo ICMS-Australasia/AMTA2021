@@ -22,10 +22,16 @@
       <img src="./img/sponsors/sound-expression.png" class="img-fluid my-4 mx-auto d-block"/>
     </div>
     <div class="col-6 col-md-12">
+      <img src="./img/sponsors/tuned-in-music-therapy.png" class="img-fluid my-4 mx-auto d-block"/>
+    </div>
+    <div class="col-6 col-md-12">
       <img src="./img/sponsors/music-therapy-online.png" class="img-fluid my-4 mx-auto d-block"/>
     </div>
     <div class="col-6 col-md-12">
       <img src="./img/sponsors/jam.jpg" class="img-fluid my-4 mx-auto d-block w-75"/>
+    </div>
+    <div class="col-6 col-md-12">
+      <img src="./img/sponsors/musical-between.png" class="img-fluid my-4 mx-auto d-block"/>
     </div>
     <div class="col-6 col-md-12">
       <img src="./img/sponsors/hans-music.png" class="img-fluid my-4 mx-auto d-block w-75"/>
