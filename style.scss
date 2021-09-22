@@ -82,10 +82,11 @@ body {
 
   .navbar-nav {
     .nav-link {
-      padding: 1.1em 1.0em;
+      padding: 1.1em 0.9em;
       margin: 0;
       color: white;
       transition: background-color 200ms ease;
+      text-align: center;
       &:focus {
         color: white;
       }
@@ -139,14 +140,15 @@ body {
         padding: 1.5em;
         margin: 0;
         color: white;
-        transition: background-color 200ms ease;
+        transition: background-color 200ms ease, transform 200ms ease;
         &:hover {
           @for $i from 1 through 10 {
-            &:nth-child(#{$i}) { background: darken($turquoise, $i * 2%) }
+            &:nth-child(#{$i}) { background: lighten($turquoise, $i * 2%) }
           }
           background: lighten($turquoise, 10%);
           text-decoration: underline;
           text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.35);
+          transform: translateX(5px);
         }
 
         &:last-child {
@@ -243,6 +245,14 @@ body {
         clip-path: ellipse(500px 500px at 50% 50%);
       }
     }
+  }
+
+  .button-sml {
+    font-size: 1.1em;
+    padding: 0.75em;
+    text-align: left;
+    display: inline-block;
+    margin: 0;
   }
 
   .program-buttons {

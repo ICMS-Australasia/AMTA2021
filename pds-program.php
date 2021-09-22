@@ -3,9 +3,9 @@ $title = "PDS Program – Saturday 9 October 2021";
 include('include/header.php');
 ?>
 
-<!-- <a href="./AMTA2021_PDS-Program.pdf" class="button" target="_blank">View and print the AMTA 2021 PDS Program</a> -->
+<a href="./AMTA2021_PDS-Program.pdf" class="button" target="_blank">View and print the AMTA 2021 PDS Program</a>
 
-<table cellpadding="20" cellspacing="0" border="1" class='pds-program'>
+<!-- <table cellpadding="20" cellspacing="0" border="1" class='pds-program'>
     <col width="16%">
     <col width="28%">
     <col width="28%">
@@ -112,7 +112,7 @@ include('include/header.php');
         <b>Iani Sujono & Rob Devlin</b></td>
     </tr>
 
-</table>
+</table> -->
 
 
 <?php

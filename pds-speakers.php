@@ -164,6 +164,22 @@ include('include/header.php');
       `,
       video: '',
     },
+    {
+      title: "",
+      firstname: "",
+      lastname: "Carrington-Kildea",
+      img: false,
+      name: "Helen Carrington & Clare Kildea",
+      workshop: "Music therapy for paediatric persistent pain: evidence-based interventions",
+      content: `
+      Helen Carrington has been a registered music therapist (RMT) since 2005, graduating from the University of Queensland. Her clinical work has primarily been in paediatric rehabilitation and acute care. In 2016, Helen helped to establish the permanent, senior music therapy role within the newly developed Queensland Interdisciplinary Paediatric Persistent Pain Service (QIPPPS). Helen completed the renewal of her Neurologic Music Therapy (NMT) Fellowship in paediatric persistent/chronic pain the following year. <br><br>
+      Clare Kildea has worked in a range of settings in acute paediatric care, youth mental health and paediatric persistent pain. After graduating from Melbourne University in 1999, Clare worked as a music therapist in Melbourne and performed with her nationally touring band. An academic role at the University of Queensland brought her to Queensland for a 12-month position and she never left the Sunshine State. During the last 15 years in Brisbane, Clare has continued her focus on paediatric health and youth mental health in tertiary and community settings and private practice and has grown two beautiful and very musical young boys. Clare is a passionate advocate of music therapy and has been involved in the AMTA as PDS Convenor and held the inaugural National PDS Chair for 3 years.
+      `,
+      about: `
+      This workshop will explore evidence-based frameworks to guide the use of music therapy interventions that support young people and their families who are experiencing persistent pain. Recent pain science has led to a new understanding of the nature of pain as a nervous system response to perceived threat and danger. Participants will gain a practical and in-depth understanding of how music therapy provides safety and connection, which promotes health and well-being in young people with pain.
+      `,
+      video: '',
+    },
   ];
   document.getElementById('pds-speakers').innerHTML = pds_speakers.map(speaker => `
     <div class="row my-5" id="${speaker.lastname.toLowerCase()}">

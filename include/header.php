@@ -68,7 +68,7 @@ if ($title == 'Welcome') {
             <div class="collapse navbar-collapse" id="navbarNavDropdown">
               <ul class="navbar-nav">
                 <li class="nav-item <?php if( in_array($title, array("Welcome")) ) { echo "active"; }?>">
-                  <a class="nav-link" href="./">Welcome</a>
+                  <a class="nav-link" href="./"><i class="fas fa-home mx-0"></i></a>
                 </li>
                 <li class="nav-item <?php if( in_array($title, array("Committee")) ) { echo "active"; }?>">
                   <a class="nav-link" href="committee">Committee</a>
@@ -81,6 +81,12 @@ if ($title == 'Welcome') {
                   <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                     <a class="dropdown-item" href="pds-program">PDS Program</a>
                     <a class="dropdown-item" href="conference-program">Conference Program</a>
+                  </div>
+                </li>
+                <li class="nav-item dropdown <?php if( in_array($title, array("Virtual Conference Platform")) ) { echo "active"; }?>"> <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown"
+                    aria-haspopup="true" aria-expanded="false">Virtual<i class="fas fa-angle-down"></i></a>
+                  <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                    <a class="dropdown-item" href="virtual-conference-platform">Virtual Conference Platform</a>
                   </div>
                 </li>
                 <li class="nav-item dropdown <?php if( in_array($title, array("Keynote Speakers", "Leaders in Conversation", "PDS Speakers")) ) { echo "active"; }?>"> <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown"
@@ -125,7 +131,7 @@ if ($title == 'Welcome') {
                   </div>
                 </li-->
                 <li class="nav-item <?php if( in_array($title, array("Contact Us")) ) { echo "active"; }?>">
-                  <a class="nav-link" href="contact-us">Contact Us</a>
+                  <a class="nav-link" href="contact-us">Contact</a>
                 </li>
 
 
