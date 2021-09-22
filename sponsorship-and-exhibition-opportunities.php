@@ -7,7 +7,7 @@ include('include/header.php');
 <h3>Gold Sponsor</h3>
 <div class="row align-items-center">
   <div class="col-6 col-md-6 col-lg-3">
-    <a href="https://finearts-music.unimelb.edu.au/about-us/mcm " target="_blank"><img src="./img/sponsors/uom.png" class="img-fluid"/></a>
+    <a href="https://finearts-music.unimelb.edu.au/study-with-us/discipline-areas/creative-arts-music-therapy" target="_blank"><img src="./img/sponsors/uom.png" class="img-fluid"/></a>
   </div>
 </div>
 
