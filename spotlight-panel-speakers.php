@@ -39,6 +39,10 @@ include('include/header.php');
     </div>
 </div>
 
+<div style="position:relative; padding-bottom: 56.25%">
+  <iframe title="vimeo-player" src="https://player.vimeo.com/video/610234694?h=d26ee8d8fa" width="100%" height="100%" frameborder="0" allowfullscreen style="position:absolute"></iframe>
+</div>
+
 <hr class='mt-4 mb-5'>
 
 <h2>The Evolving Symphonies of Life: Conducting Music Therapy in Cancer and Palliative Care across the Lifespan</h2>

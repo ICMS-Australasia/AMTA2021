@@ -39,6 +39,9 @@ include('include/header.php');
 </ol>
 <p>Integrating an AOMT framework will result in music therapy being a partner in ending systemic oppression and creating a more socially just future.</p>
 
+<div style="position:relative; padding-bottom: 56.25%">
+  <iframe title="vimeo-player" src="https://player.vimeo.com/video/610228916?h=68316e3a0b" width="100%" height="100%" frameborder="0" allowfullscreen style="position:absolute"></iframe>
+</div>
 
 <?php
 include('include/footer.php');
