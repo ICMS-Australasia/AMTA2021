@@ -41,6 +41,9 @@ include('include/header.php');
   <div class="col-4 col-md-4 col-lg-3">
     <a href="http://www.musicalbetween.com/" target="_blank"><img src="./img/sponsors/musical-between.png" class="img-fluid"></a>
   </div>
+  <div class="col-4 col-md-4 col-lg-3">
+    <a href="https://www.soundingboardmusictherapy.com/" target="_blank"><img src="./img/sponsors/sounding-board-music-therapy.png" class="img-fluid"></a>
+  </div>
 </div>
 
 <hr class="my-4">

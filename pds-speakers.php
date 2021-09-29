@@ -16,7 +16,7 @@ include('include/header.php');
       name: "Esther Thane",
       workshop: "4 Interventions from the Meet in the Music Curriculum for Autism & Diverse Needs",
       content: `Esther has specialized since 1996 in the field of Autism and special needs.  After over a decade on faculty at Capilano University, teaching in the Bachelor of Music Therapy Program, Esther continues to enjoy presenting at conferences, writing book reviews for published journals, & holding workshops for universities, local agencies and internationally. In 2014, Esther completed Dr. Diane Austin's (Music Psychotherapy Center, NY) first international distance training program in Advanced Vocal Psychotherapy. Her publication in the book: Voicework in Music Therapy (Jessica Kingsley Publishers), focuses on her innovative method of Vocal-Led Relaxation for Children with Autism.  Esther created Meet In The Music (MITM) music therapy curriculum for children with autism, which is utilized by music therapists throughout the United States, Canada and Australia.  Esther is Executive Director of ET Music Therapy in Vancouver, British Columbia, Canada, where the team serve over 120 families with both in person and telehealth: in two studio locations, & in schools, implementing the MITM curriculum. In 2017, Esther received the Iconic Women Creating a Better World For All Award, presented by the Women Economic Forum in New Delhi, India. Recently, Esther received CAMT’s (Canadian Association For Music Therapy) PEER RECOGNITION AWARD for innovation and advocacy.`,
-      about: '',
+      about: 'This practical workshop will demonstrate and discuss four interventions that can be utilized with autistic children & those with diverse needs, in music therapy sessions.  It will cover the theoretical foundation for these interventions, including purpose, and a breakdown of the goals and progressional objections these interventions address.  Participants will walk away with concrete tools to replicate these interventions, such as sheet music, picture cards and audio files. ',
       video: 'https://player.vimeo.com/video/579228504',
     },
     {
@@ -72,8 +72,25 @@ include('include/header.php');
       img: true,
       name: "Belinda Thurlow",
       workshop: "Music as a Metaphor: A Deep Dive into Curiosity",
-      content: `Belinda has been working therapeutically for over 11 years in mental health, disability, and aged care and has worked extensively in both clinical and community settings. Belinda has completed additional training in neurological music therapy, complex trauma, sensory processing, motivational interviewing, and coaching skills. Drawing on this experience, Belinda brings an open, compassionate and person centered approach to therapy in order to work collaboratively with clients to address underlying issues that impact quality of life in the short term and long term.Belinda spent the foundational years of her career at Nordoff Robbins Music Therapy Australia as a therapist and clinic operations manager. More recently, Belinda works as behaviour support clinician for the NDIS and is currently completing additional qualifications in counseling and psychotherapy. Belinda runs her own practice, Compass Therapeutic Services offering music therapy for mental health and professional supervision to music therapists, students and other allied health practitioners`,
-      about: ``,
+      content:
+      `
+      <p><b>This session will not be recorded or available on-demand due to the nature of the workshop. If you wish to attend the workshop, please make sure to attend live.</b></p>
+
+      Belinda has been working therapeutically for over 11 years in mental health, disability, and aged care and has worked extensively in both clinical and community settings. Belinda has completed additional training in neurological music therapy, complex trauma, sensory processing, motivational interviewing, and coaching skills. Drawing on this experience, Belinda brings an open, compassionate and person centered approach to therapy in order to work collaboratively with clients to address underlying issues that impact quality of life in the short term and long term.Belinda spent the foundational years of her career at Nordoff Robbins Music Therapy Australia as a therapist and clinic operations manager. More recently, Belinda works as behaviour support clinician for the NDIS and is currently completing additional qualifications in counseling and psychotherapy. Belinda runs her own practice, Compass Therapeutic Services offering music therapy for mental health and professional supervision to music therapists, students and other allied health practitioners
+      `,
+      about: `
+      <p>This interactive, peer supervision style workshop will explore the notion of approaching our practice with an aspiration of competence, overconfidence.</p><p>We’ll shape this discussion by drawing from the relevant literature around trauma-informed counseling, the use of metaphor in music, and other psychotherapy modalities. Our experience as clinicians, business owners, or managers brings a unique cross-section of real and current examples that are able to be discussed through a lens that uses an attitude of curiosity to:</p>
+      <ul>
+        <li>Activate creative thinking (engaging both thinking and feeling functions)</li>
+        <li>Build a culture of safety and empowerment</li>
+        <li>Encourage deeper reflection in ourselves and others (reflexive practice)</li>
+        <li>Use simple and practical strategies (asking questions and self-awareness)</li>
+        <li>Develop our conversations with parents on outcomes, potential clients, and other practitioners with authority (that comes from clarity)</li>
+      </ul>
+      <p>You may resonate with some or all of these ideas. Looking forward to seeing you in the group, no prior experience or knowledge of the mentioned modalities/strategies is necessary.</p>
+      <p><em>Note: This session <b><u>will not be recorded</u></b> or available on-demand due to the nature of the workshop. If you wish to attend the workshop, please make sure to attend live.</em></p>
+
+      `,
       video: '',
     },
     {

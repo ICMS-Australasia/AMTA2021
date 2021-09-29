@@ -36,6 +36,9 @@
     <div class="col-6 col-md-12">
       <img src="./img/sponsors/hans-music.png" class="img-fluid my-4 mx-auto d-block w-75"/>
     </div>
+    <div class="col-6 col-md-12">
+      <img src="./img/sponsors/sounding-board-music-therapy.png" class="img-fluid my-4 mx-auto d-block w-75"/>
+    </div>
   </div>
 </div>
 </div>
