@@ -16,10 +16,10 @@
       <img src="./img/sponsors/redkite.png" class="img-fluid my-4 mx-auto d-block"/>
     </div>
     <div class="col-6 col-md-12">
-      <img src="./img/sponsors/wsu.png" class="img-fluid my-4 mx-auto d-block"/>
+      <img src="./img/sponsors/wsu.png" class="img-fluid my-4 mx-auto d-block w-75"/>
     </div>
     <div class="col-6 col-md-12">
-      <img src="./img/sponsors/sound-expression.png" class="img-fluid my-4 mx-auto d-block"/>
+      <img src="./img/sponsors/sound-expression.png" class="img-fluid my-4 mx-auto d-block w-75"/>
     </div>
     <div class="col-6 col-md-12">
       <img src="./img/sponsors/tuned-in-music-therapy.png" class="img-fluid my-4 mx-auto d-block"/>
@@ -38,6 +38,9 @@
     </div>
     <div class="col-6 col-md-12">
       <img src="./img/sponsors/sounding-board-music-therapy.png" class="img-fluid my-4 mx-auto d-block w-75"/>
+    </div>
+    <div class="col-6 col-md-12">
+      <img src="./img/sponsors/music-beat.png" class="img-fluid my-4 mx-auto d-block w-75"/>
     </div>
   </div>
 </div>
