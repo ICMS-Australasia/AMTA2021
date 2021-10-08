@@ -3,7 +3,7 @@ $title = "PDS Program – Saturday 9 October 2021";
 include('include/header.php');
 ?>
 
-<a href="./AMTA2021_PDS-Program.pdf" class="button" target="_blank">View and print the AMTA 2021 PDS Program</a>
+<a href="https://drive.google.com/file/d/1Y90-1nN-r3lRAt2BJP2q-2XI1fxoxDSh/view?usp=sharing" class="button" target="_blank">View and print the AMTA 2021 PDS Program</a>
 
 <!-- <table cellpadding="20" cellspacing="0" border="1" class='pds-program'>
     <col width="16%">
