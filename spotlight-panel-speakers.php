@@ -115,7 +115,7 @@ include('include/header.php');
         <img src="./img/speakers/molyneux.png" class="img-fluid float-right ml-4" width="200">
         <h3 class="mb-2 mt-0"><a href="#Molyneux" data-toggle="modal">Claire Molyneux</a></h3>
         <p class="my-0"><b>Amplifying the voices of older adults and their companions in a music therapy project in the community.  </b></p>
-        <p class="mt-4">Fiona will share her work with older adults in a rehabilitation hospital. She will talk about the role of music therapy in supporting the patients’ recovery, adjustment and well-being collaboratively with the multi-disciplinary team. </p>
+        <p class="mt-4">Together in Sound is a partnership project between the Cambridge Institute for Music Therapy Research at Anglia Ruskin University and Saffron Hall Trust, a community-focused arts charity in rural Essex, UK. Claire will share extracts of a film about the project, contextualise this within her practice-based PhD research, and focus on the benefits of collaboration that enable dementia to be viewed as a community concern.</p>
     </div>
 </div>
 
