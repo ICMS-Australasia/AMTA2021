@@ -26,6 +26,14 @@ include('include/header.php');
 <p>Upon logging in to the virtual platform, your Profile/Account tab will appear - we encourage you to add a photo, short biography, and links to your social media accounts.  You can edit your profile at any time.</p>
 <p>Your profile tab is also where you can restrict/allow what is seen in the Meeting Hub/online delegate list.</p>
 <h3>What days/times are the sessions?</h3>
+<div class="row">
+  <div class="col-12 col-lg-6">
+    <img src="./img/conference-timezone-graphic.png" class="img-fluid">
+  </div>
+  <div class="col-12 col-lg-6">
+    <img src="./img/PDS-program-timezone-graphic.png" class="img-fluid">
+  </div>
+</div>
 <p>The AMTA 2021 conference commences with the Professional Development Seminar on Saturday 9 October 2021. The Conference runs the following weekend from Saturday 16 October – Sunday 17 October 2021.</p>
 <p>The displayed times will automatically adjust to the time zone you selected in your profile set up.</p>
 <p>

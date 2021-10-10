@@ -5,7 +5,6 @@ include('include/header.php');
 
 <div id="pds-speakers"></div>
 
-
 <script type="text/javascript">
   const pds_speakers = [
     {
@@ -17,7 +16,7 @@ include('include/header.php');
       workshop: "4 Interventions from the Meet in the Music Curriculum for Autism & Diverse Needs",
       content: `Esther has specialized since 1996 in the field of Autism and special needs.  After over a decade on faculty at Capilano University, teaching in the Bachelor of Music Therapy Program, Esther continues to enjoy presenting at conferences, writing book reviews for published journals, & holding workshops for universities, local agencies and internationally. In 2014, Esther completed Dr. Diane Austin's (Music Psychotherapy Center, NY) first international distance training program in Advanced Vocal Psychotherapy. Her publication in the book: Voicework in Music Therapy (Jessica Kingsley Publishers), focuses on her innovative method of Vocal-Led Relaxation for Children with Autism.  Esther created Meet In The Music (MITM) music therapy curriculum for children with autism, which is utilized by music therapists throughout the United States, Canada and Australia.  Esther is Executive Director of ET Music Therapy in Vancouver, British Columbia, Canada, where the team serve over 120 families with both in person and telehealth: in two studio locations, & in schools, implementing the MITM curriculum. In 2017, Esther received the Iconic Women Creating a Better World For All Award, presented by the Women Economic Forum in New Delhi, India. Recently, Esther received CAMT’s (Canadian Association For Music Therapy) PEER RECOGNITION AWARD for innovation and advocacy.`,
       about: 'This practical workshop will demonstrate and discuss four interventions that can be utilized with autistic children & those with diverse needs, in music therapy sessions.  It will cover the theoretical foundation for these interventions, including purpose, and a breakdown of the goals and progressional objections these interventions address.  Participants will walk away with concrete tools to replicate these interventions, such as sheet music, picture cards and audio files. ',
-      video: 'https://player.vimeo.com/video/579228504',
+      video: 'https://www.youtube.com/embed/DWP_x1gKnW0',
     },
     {
       title: "Dr",
@@ -28,7 +27,7 @@ include('include/header.php');
       workshop: "Early Childhood Music Therapy Refresh: Songs, Interventions, and Theories",
       content: `Dr. Andrew Knight holds a bachelor's degree in Percussion Performance, Jazz emphasis from University of Wisconsin-La Crosse, a music therapy equivalency and master's degree from the University of Minnesota, and a Ph.D. in Educational Foundations and Research from the University of North Dakota. Dr. Knight has research interests in substance use disorders in adults and early childhood social/emotional developmental issues. He directs the Parkinson’s Disease vocal exercise group in collaboration with the Parkinson’s Support Group in Larimer County and is a Music Together Within Therapy provider. His research has been published in the Journal of Music Therapy and Music Therapy Perspectives, among other journals, and serves as Associate Editor for Book Reviews for JMT. He is a past president of the Midwestern Region (MWR) of the American Music Therapy Association (AMTA), on the AMTA Assembly of Delegates, and has won the MWR and AMTA Service Awards. Along with Drs. Blythe LaGasse and Alicia Clair, he is a co-editor of the 2018 Introduction to Music Therapy textbook published by AMTA.`,
       about: 'This PDS will include an introduction to early childhood music therapy approaches, stimulate your creativity for session planning arcs and contours, and provide ideas for parent/caregiver engagement. Learn a few songs, strategies and sing along from home, with an opportunity for Q&A and interaction during this live workshop.',
-      video: 'https://player.vimeo.com/video/579225410',
+      video: 'https://www.youtube.com/embed/v4O_8llQqrM',
     },
     {
       title: "",
