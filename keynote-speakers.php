@@ -16,6 +16,9 @@ include('include/header.php');
 <h5>About the Presentation:</h5>
 <p>Throughout her career, Melissa has seen great changes evolve for people within the disability community and this has given hope for the future. The National Disability Insurance Scheme (NDIS) is based on sound principles of social justice, drawn from the United National Convention on the Rights of Persons with Disability. Its economic modelling was first generated in the 1970’s together with the national health insurance bill, Medibank. Although challenges have beset the NDIS and its participants, the impetus that launched this initiative in 2013 has opened the door to a tide of loud and proud voices within and around the disability community. As we have now seen, these voices can no longer be set aside or ignored. The future for music therapy within the scheme looks strong. Having been included from the beginning as an allied health service by the NDIA, demand for music therapy has continued to grow and this growth is driven by participants. Salient questions are now emerging about the positioning of our profession within the scheme and disability work more broadly. How should music therapists engage with contemporary cultural understandings of disability whilst working within the bounds of a state-run system? Drawing on critical disability studies, Melissa will explore some of these questions through the example of a community music program alongside her own growth as a disability ally and music therapist.</p>
 
+<div style="position:relative; padding-bottom: 56.25%">
+  <iframe title="YouTube video player" src="https://www.youtube.com/embed/pTbNLJDrsqU" width="100%" height="100%" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute"></iframe>
+</div>
 
 <hr class="mt-4">
 
