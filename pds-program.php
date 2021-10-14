@@ -4,6 +4,7 @@ include('include/header.php');
 ?>
 
 <a href="https://drive.google.com/file/d/1Y90-1nN-r3lRAt2BJP2q-2XI1fxoxDSh/view?usp=sharing" class="button" target="_blank">View and print the AMTA 2021 PDS Program</a>
+<img src="./img/PDS-program-timezone-graphic.png" class="img-fluid w-75 d-block mx-auto">
 
 <!-- <table cellpadding="20" cellspacing="0" border="1" class='pds-program'>
     <col width="16%">

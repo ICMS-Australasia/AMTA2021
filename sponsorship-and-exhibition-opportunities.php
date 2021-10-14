@@ -47,6 +47,9 @@ include('include/header.php');
   <div class="col-4 col-md-4 col-lg-3">
     <a href="http://www.musicbeat.com.au" target="_blank"><img src="./img/sponsors/music-beat.png" class="img-fluid"></a>
   </div>
+  <div class="col-4 col-md-4 col-lg-3">
+    <a href="https://www.stormermusic.com.au/" target="_blank"><img src="./img/sponsors/stormer-music.png" class="img-fluid"></a>
+  </div>
 </div>
 
 <hr class="my-4">
