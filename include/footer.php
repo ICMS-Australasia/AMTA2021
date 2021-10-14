@@ -19,6 +19,9 @@
       <img src="./img/sponsors/wsu.png" class="img-fluid my-4 mx-auto d-block w-75"/>
     </div>
     <div class="col-6 col-md-12">
+      <img src="./img/sponsors/vibe-music.png" class="img-fluid my-4 mx-auto d-block w-75"/>
+    </div>
+    <div class="col-6 col-md-12">
       <img src="./img/sponsors/sound-expression.png" class="img-fluid my-4 mx-auto d-block w-75"/>
     </div>
     <div class="col-6 col-md-12">
