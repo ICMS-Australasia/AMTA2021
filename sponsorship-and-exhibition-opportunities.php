@@ -19,7 +19,7 @@ include('include/header.php');
   <div class="col-6 col-md-6 col-lg-4">
     <a href="https://www.westernsydney.edu.au/future/study/courses/postgraduate/master-of-creative-music-therapy" target="_blank"><img src="./img/sponsors/wsu.png" class="img-fluid"/></a>
   </div>
-  <div class="col-6 col-md-6 col-lg-4">
+  <div class="col-6 col-md-6 col-lg-3">
     <a href="https://vibemusic.com.au/" target="_blank"><img src="./img/sponsors/vibe-music.png" class="img-fluid"/></a>
   </div>
 </div>
