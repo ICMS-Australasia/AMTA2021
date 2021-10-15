@@ -84,6 +84,9 @@ if ($title == 'Welcome') {
                     <a class="dropdown-item" href="abstract-book">Abstract Book</a>
                   </div>
                 </li>
+                <li class="nav-item <?php if( in_array($title, array("AMTA 2021 Awards")) ) { echo "active"; }?>">
+                  <a class="nav-link" href="awards">Awards</a>
+                </li>
                 <li class="nav-item dropdown <?php if( in_array($title, array("Virtual Conference Platform")) ) { echo "active"; }?>"> <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown"
                     aria-haspopup="true" aria-expanded="false">Virtual<i class="fas fa-angle-down"></i></a>
                   <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">

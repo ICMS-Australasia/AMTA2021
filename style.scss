@@ -87,6 +87,7 @@ body {
       color: white;
       transition: background-color 200ms ease;
       text-align: center;
+      font-size: 0.9rem;
       &:focus {
         color: white;
       }
@@ -137,7 +138,7 @@ body {
 
       .dropdown-item {
         font-weight: 400;
-        padding: 1.5em;
+        padding: 1.2em 0.9em;
         margin: 0;
         color: white;
         transition: background-color 200ms ease, transform 200ms ease;
